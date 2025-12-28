@@ -1,0 +1,280 @@
+"af" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 4},/obj/machinery/atmospherics/pipe/simple/visible,/obj/machinery/meter,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"aD" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/structure/table/bench/padded,/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"bf" = (/obj/effect/wingrille_spawn/reinforced/crescent,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/lodge/cookhouse)
+"bh" = (/obj/machinery/door/morgue{name = "Medical"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"bx" = (/turf/wall/wood,/area/lonestar/offsite/lodge/cookhouse)
+"bA" = (/obj/effect/floor_decal/carpet{dir = 1},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"bO" = (/turf/wall/wood,/area/lonestar/offsite/lodge/main_building)
+"bW" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"cc" = (/obj/abstract/modpack_compat/aliumizer,/obj/structure/flora/bush/brflowers,/turf/unsimulated/floor/grass,/area/lonestar/offsite/lodge)
+"cd" = (/obj/effect/floor_decal/carpet/blue,/obj/effect/floor_decal/carpet/blue{dir = 8},/obj/effect/floor_decal/carpet/blue{dir = 10},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"cI" = (/obj/machinery/computer/modular/preset{dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"da" = (/obj/structure/table/steel_reinforced,/obj/item/multitool/hacktool,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"db" = (/obj/machinery/cryopod{dir = 2},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"dh" = (/obj/machinery/door/blast/regular/open{dir = 8; id_tag = "blastninja"; name = "Outer Airlock"},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"dj" = (/obj/structure/rack,/obj/item/clothing/webbing/vest/brown,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"dL" = (/obj/effect/floor_decal/carpet{dir = 8},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"dQ" = (/obj/structure/table/glass,/obj/item/chems/syringe/antibiotic,/obj/item/chems/syringe/antibiotic,/obj/item/stack/medical/bandage/advanced,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"ef" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 6},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"ej" = (/obj/effect/floor_decal/carpet{dir = 4},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"el" = (/obj/structure/table/wood,/obj/item/flame/candle,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"ew" = (/obj/structure/table/glass,/obj/item/firstaid/surgery,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"eC" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/structure/table/bench/padded,/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"eK" = (/obj/structure/table/glass,/obj/item/chems/ivbag/blood/ominus,/obj/item/chems/ivbag/blood/ominus,/obj/structure/window/reinforced/crescent{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"eN" = (/obj/structure/rack,/obj/item/clothing/webbing/vest,/obj/item/clothing/glasses/hud/health,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"eP" = (/obj/machinery/optable,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"fk" = (/obj/machinery/door/airlock/centcom{name = "Bounty Cell"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/lodge/brig)
+"fE" = (/obj/structure/shuttle/engine/propulsion{dir = 1},/turf/wall/r_titanium,/area/lonestar/offsite/lodge)
+"fV" = (/obj/structure/bed/padded,/obj/item/bedsheet/brown,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"gh" = (/obj/structure/door/wood,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cookhouse)
+"go" = (/obj/effect/floor_decal/industrial/warning/cee,/obj/structure/cryofeed{dir = 1},/turf/floor/plating,/area/lonestar/offsite/lodge/cabins)
+"gv" = (/obj/abstract/landmark/start{name = "Bounty Hunter"},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"gB" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/blast/shutters{density = 0; dir = 2; id_tag = "ninjawindow"; name = "Blast Shutters"; opacity = 0},/obj/structure/window/reinforced/full,/turf/floor/plating,/area/lonestar/offsite/lodge)
+"gV" = (/obj/effect/floor_decal/carpet/blue,/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"hg" = (/obj/structure/table/glass,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"hm" = (/obj/structure/table/glass,/obj/item/firstaid/toxin{pixel_x = 3; pixel_y = 3},/obj/item/firstaid/adv{pixel_x = 1},/obj/structure/window/reinforced/crescent{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"hq" = (/obj/abstract/landmark/start{name = "Bounty Hunter"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"hw" = (/obj/structure/flora/pottedplant/bamboo,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"hK" = (/turf/wall/wood,/area/lonestar/offsite/lodge/shed)
+"hT" = (/obj/effect/floor_decal/asteroid,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/lodge)
+"iu" = (/obj/structure/rack,/obj/item/stack/nanopaste,/obj/item/stack/nanopaste,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"iw" = (/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/lodge/cabins)
+"iM" = (/obj/effect/floor_decal/chapel,/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"iW" = (/obj/structure/rack,/obj/item/toolbox/syndicate,/obj/item/toolbox/mechanical,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"iX" = (/obj/structure/table/steel_reinforced,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"ji" = (/obj/structure/closet/secure_closet/freezer/meat,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"jx" = (/obj/structure/hygiene/toilet{pixel_y = 8},/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
+"jF" = (/obj/structure/table/marble,/obj/machinery/microwave,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"kv" = (/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"kZ" = (/obj/effect/floor_decal/carpet/blue{dir = 8},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"lO" = (/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/lodge)
+"mb" = (/obj/structure/flora/pottedplant/orientaltree,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"md" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/obj/structure/hygiene/sink{dir = 8; pixel_x = -12; pixel_y = 2},/obj/structure/mirror{pixel_x = -32},/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
+"mm" = (/obj/effect/floor_decal/chapel{dir = 1},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"mw" = (/obj/effect/floor_decal/spline/fancy/wood/corner,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"my" = (/obj/effect/floor_decal/industrial/hatch/yellow,/turf/floor/plating,/area/lonestar/offsite/lodge)
+"mL" = (/obj/structure/table/steel_reinforced,/obj/item/toolbox/syndicate{pixel_x = -1; pixel_y = 3},/obj/machinery/button/alternate{id_tag = "ninjawindow"; name = "remote shutter control"; pixel_y = -25; dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"mU" = (/obj/structure/flora/bush/palebush,/turf/unsimulated/floor/grass,/area/lonestar/offsite/lodge)
+"nq" = (/obj/structure/chair/office/light{dir = 8},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"nr" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 5},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"nD" = (/obj/effect/floor_decal/spline/fancy/wood,/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
+"nL" = (/obj/machinery/light{dir = 4},/obj/structure/table/steel_reinforced,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"nM" = (/obj/machinery/recharge_station,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"nO" = (/obj/effect/floor_decal/carpet/blue{dir = 8},/obj/effect/floor_decal/carpet/blue{dir = 1},/obj/effect/floor_decal/carpet/blue{dir = 9},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"oa" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
+"on" = (/turf/unsimulated/wall{desc = "That looks like it doesn't open easily."; icon = 'icons/obj/doors/rapid_pdoor.dmi'; icon_state = "pdoor1"; name = "Shuttle Bay Blast Door"},/area/lonestar/offsite/lodge)
+"op" = (/obj/structure/table/glass,/obj/item/box/beakers,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"pc" = (/obj/effect/floor_decal/asteroid,/turf/unsimulated/floor/asteroid,/area/lonestar/offsite/lodge)
+"pk" = (/obj/machinery/bodyscanner{dir = 8},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"pz" = (/obj/structure/table/steel_reinforced,/obj/machinery/cell_charger,/obj/effect/floor_decal/industrial/outline/grey,/obj/item/clothing/webbing/bandolier,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"qb" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9},/obj/machinery/button/access{command = "cycle_interior"; id_tag = "ninja_shuttle"; name = "interior access button"; pixel_x = -25; pixel_y = 25},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"qY" = (/obj/effect/floor_decal/chapel{dir = 8},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"qZ" = (/turf/unsimulated/mineral,/area/lonestar/offsite/lodge)
+"rg" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"ru" = (/obj/structure/rack,/obj/item/star,/obj/item/star,/obj/item/star,/obj/item/star,/obj/item/star,/obj/item/star,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"rR" = (/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"st" = (/obj/machinery/space_heater,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"sM" = (/turf/unsimulated/floor/asteroid,/area/lonestar/offsite/lodge)
+"sX" = (/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/brig)
+"tj" = (/obj/structure/flora/pottedplant/shoot,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"tD" = (/obj/structure/table/steel_reinforced,/obj/item/secure_storage/briefcase/money,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"tF" = (/obj/effect/floor_decal/carpet/blue{dir = 1},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"ur" = (/obj/structure/rack,/obj/item/belt/medical,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"uB" = (/obj/effect/floor_decal/carpet{dir = 1},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"uR" = (/obj/structure/table/steel_reinforced,/obj/item/box/anti_photons,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"uV" = (/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cookhouse)
+"vj" = (/obj/structure/table/marble,/obj/machinery/chemical_dispenser/bar_soft/full,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"vs" = (/obj/structure/shuttle/engine/propulsion{dir = 1},/turf/floor/plating,/area/lonestar/offsite/lodge)
+"vD" = (/obj/effect/floor_decal/carpet,/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"vH" = (/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"vK" = (/obj/structure/cryofeed{dir = 1},/obj/effect/floor_decal/industrial/warning/cee,/turf/floor/plating,/area/lonestar/offsite/lodge/cabins)
+"vL" = (/obj/structure/rack,/obj/structure/window/reinforced/crescent{dir = 4},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"vN" = (/obj/structure/table/glass,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"vU" = (/obj/effect/floor_decal/spline/fancy/wood,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"wd" = (/obj/structure/table/steel_reinforced,/obj/machinery/recharger,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"wj" = (/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 10},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"ws" = (/obj/structure/table/wood,/obj/item/flashlight/lamp,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"wG" = (/obj/machinery/acting/changer,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"wM" = (/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/shed)
+"xd" = (/obj/structure/table/marble,/obj/item/box/glasses,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"xi" = (/obj/structure/table/wood,/obj/item/toy/figure/wizard,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"xn" = (/obj/structure/door/wood,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/shed)
+"xr" = (/turf/unsimulated/floor/water,/area/lonestar/offsite/lodge/main_building)
+"xC" = (/obj/item/radio/intercom/ninja{dir = 4; pixel_x = -22},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"yh" = (/obj/effect/floor_decal/carpet,/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"yo" = (/obj/structure/rack,/obj/item/star/ninja,/obj/item/star/ninja,/obj/item/star/ninja,/obj/item/star/ninja,/obj/item/star/ninja,/obj/item/star/ninja,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"yx" = (/obj/abstract/landmark/start{name = "Bounty Chief"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"yz" = (/obj/effect/floor_decal/carpet{dir = 4},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"yA" = (/obj/structure/door/wood,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"yG" = (/obj/machinery/door/airlock/centcom{name = "Bounty Holding"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/lodge/brig)
+"zl" = (/obj/effect/floor_decal/industrial/warning{dir = 8},/obj/structure/table/steel_reinforced,/obj/machinery/cell_charger,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"zq" = (/obj/effect/floor_decal/carpet{dir = 1},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"zs" = (/obj/structure/rack,/obj/structure/window/reinforced/crescent{dir = 1},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"zx" = (/obj/effect/floor_decal/spline/fancy/wood,/obj/machinery/sleeper/standard{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"zA" = (/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"zP" = (/obj/effect/floor_decal/industrial/warning{dir = 4},/obj/machinery/atmospherics/unary/tank/air{start_pressure = 740.5},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"AY" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 9},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"Bn" = (/obj/structure/bookcase,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Bq" = (/obj/structure/rack,/obj/structure/window/reinforced/crescent{dir = 8},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"BK" = (/obj/structure/table/steel_reinforced,/obj/machinery/recharger,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"BO" = (/obj/machinery/light{dir = 8},/obj/structure/table/steel_reinforced,/obj/item/paicard,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"Cu" = (/obj/effect/floor_decal/plaque,/turf/wall/r_wall,/area/lonestar/offsite/lodge)
+"Cx" = (/obj/structure/rack,/obj/structure/window/reinforced/crescent,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"CE" = (/obj/effect/floor_decal/chapel{dir = 4},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"CN" = (/obj/structure/undies_wardrobe,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"CW" = (/obj/structure/cryofeed{dir = 2},/obj/effect/floor_decal/industrial/warning/cee{dir = 1},/turf/floor/plating,/area/lonestar/offsite/lodge/cabins)
+"Da" = (/obj/structure/rack,/obj/item/belt/utility/full,/obj/item/multitool,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"Dd" = (/obj/structure/bookcase{name = "bookcase (Tactics)"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Dz" = (/turf/wall/wood,/area/lonestar/offsite/lodge)
+"DO" = (/obj/structure/rack,/obj/item/sword/katana/toy{name = "practice katana"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"DU" = (/obj/effect/floor_decal/carpet/blue{dir = 4},/obj/effect/floor_decal/carpet/blue,/obj/effect/floor_decal/carpet/blue{dir = 6},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"Ei" = (/obj/effect/floor_decal/spline/fancy/wood,/obj/machinery/chemical_dispenser/full,/obj/item/chems/glass/beaker/large,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"EE" = (/obj/machinery/door/morgue{name = "Medical"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"Fe" = (/obj/effect/floor_decal/carpet{dir = 8},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"Fj" = (/obj/structure/closet,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"Fw" = (/obj/machinery/cryopod{dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"FQ" = (/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"Ge" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"Gg" = (/turf/floor/plating,/area/lonestar/offsite/lodge)
+"GC" = (/obj/structure/rack,/obj/structure/window/reinforced/crescent{dir = 1},/obj/structure/window/reinforced/crescent,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"GI" = (/obj/machinery/door/morgue{name = "Teleporter"},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"GM" = (/obj/structure/table/marble,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"GQ" = (/turf/unsimulated/wall,/area/lonestar/offsite/lodge)
+"GY" = (/obj/structure/iv_drip,/obj/structure/window/reinforced/crescent,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"Ha" = (/turf/wall/wood,/area/lonestar/offsite/lodge/cabins)
+"Ho" = (/turf/wall/r_wall,/area/lonestar/offsite/lodge/brig)
+"Hp" = (/obj/machinery/door/airlock/centcom{name = "Equipment"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/lodge/main_building)
+"Hq" = (/turf/unsimulated/floor/grass,/area/lonestar/offsite/lodge)
+"Ib" = (/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 10},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"Ie" = (/obj/structure/bookcase{name = "bookcase (Religious)"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Iu" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 6},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"IJ" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"JA" = (/obj/machinery/computer/station_alert{dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"JB" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 9},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"JG" = (/obj/machinery/chemical_dispenser/ert,/obj/item/chems/glass/beaker/large,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"JH" = (/obj/structure/rack,/obj/item/clothing/webbing/vest/black,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"JK" = (/obj/effect/floor_decal/spline/fancy/wood/corner,/obj/item/radio/intercom/ninja{dir = 4; pixel_x = -22},/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
+"JX" = (/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 10},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"Km" = (/obj/structure/table/wood,/obj/item/clothing/shoes/sandal,/obj/item/clothing/mask/balaclava,/obj/item/clothing/shoes/syndigaloshes,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"KA" = (/obj/structure/rack,/obj/item/belt/holster/security/tactical,/obj/effect/floor_decal/industrial/outline/grey,/obj/item/clothing/glasses/night,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"KM" = (/obj/structure/table/steel_reinforced,/obj/item/firstaid/adv{pixel_x = 5; pixel_y = 5},/obj/item/firstaid/combat,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"KS" = (/obj/effect/floor_decal/industrial/warning/cee{dir = 1},/obj/structure/cryofeed{dir = 2},/turf/floor/plating,/area/lonestar/offsite/lodge/cabins)
+"KU" = (/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"Lt" = (/obj/structure/table/gamblingtable,/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"LY" = (/obj/structure/bed/padded,/obj/item/bedsheet/brown,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Mc" = (/obj/structure/table/steel_reinforced,/obj/item/plastique,/obj/item/plastique,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"Mx" = (/obj/machinery/body_scanconsole{dir = 8},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"MD" = (/obj/structure/table/steel_reinforced,/obj/item/radio/uplink,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"MJ" = (/obj/machinery/door/airlock/centcom{name = "Shrine"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/lodge/main_building)
+"No" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 9},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"NE" = (/obj/effect/wingrille_spawn/reinforced/crescent,/turf/unsimulated/floor/plating,/area/lonestar/offsite/lodge)
+"OM" = (/obj/effect/wingrille_spawn/reinforced/crescent,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/lodge/brig)
+"OT" = (/obj/machinery/airlock_sensor{id_tag = "stranger_shuttle_sensor"; pixel_y = 28},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"OV" = (/obj/effect/wingrille_spawn/reinforced/crescent,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/lodge/cabins)
+"Pd" = (/turf/wall/r_titanium,/area/lonestar/offsite/lodge)
+"Pi" = (/obj/structure/door/wood,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"Pp" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; id_tag = "ninjawindow"; name = "Blast Shutters"; opacity = 0},/turf/floor/plating,/area/lonestar/offsite/lodge)
+"Pu" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 5},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"PG" = (/obj/machinery/fabricator/hacked,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"PY" = (/obj/structure/rack,/obj/item/stack/material/sheet/mapped/steel/fifty,/obj/item/stack/material/sheet/mapped/steel/fifty,/obj/item/stack/material/pane/mapped/glass/fifty,/obj/item/stack/material/pane/mapped/glass/fifty,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"QA" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; id_tag = "ninjawindow"; name = "Blast Shutters"; opacity = 0},/turf/floor/plating,/area/lonestar/offsite/lodge)
+"QG" = (/obj/structure/table/glass,/obj/item/firstaid/o2{pixel_x = 3; pixel_y = 3},/obj/item/firstaid/fire{pixel_x = 1},/obj/structure/window/reinforced/crescent{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"QK" = (/obj/effect/floor_decal/carpet,/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
+"Re" = (/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cabins)
+"Sf" = (/obj/machinery/door/morgue{name = "Medical"},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"Sp" = (/obj/machinery/door/morgue{name = "Medical"},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"Sv" = (/obj/item/box/sinpockets,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/item/chems/drinks/dry_ramen,/obj/structure/closet,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/cookhouse)
+"SI" = (/obj/structure/table/glass,/obj/item/firstaid/regular,/obj/item/firstaid/combat,/obj/structure/window/reinforced/crescent{dir = 4},/obj/structure/window/reinforced/crescent,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"SO" = (/turf/unsimulated/floor/steel,/area/lonestar/offsite/lodge)
+"Tf" = (/obj/structure/table/wood,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Tr" = (/obj/machinery/door/morgue{name = "Bath"},/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
+"TD" = (/obj/structure/table/glass,/obj/item/chems/spray/antiseptic,/obj/item/chems/spray/cleaner,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"Ub" = (/obj/machinery/door/morgue{name = "Dojo"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Uq" = (/obj/structure/closet/medical_wall{pixel_y = 32},/obj/item/clothing/mask/breath/medical,/obj/item/clothing/gloves/latex,/obj/item/clothing/mask/surgical,/obj/structure/hygiene/sink{dir = 1; pixel_y = 16},/obj/item/chems/glass/bottle/sedatives,/obj/item/chems/glass/bottle/sedatives,/obj/item/chems/syringe,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"Uy" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 5},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"UO" = (/obj/effect/floor_decal/carpet/blue{dir = 4},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"Vk" = (/obj/effect/wingrille_spawn/reinforced/crescent,/turf/unsimulated/floor/plating,/area/lonestar/offsite/lodge/main_building)
+"Vr" = (/obj/effect/floor_decal/carpet/blue{dir = 1},/obj/effect/floor_decal/carpet/blue{dir = 4},/obj/effect/floor_decal/carpet/blue{dir = 5},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
+"VC" = (/obj/structure/flora/tree/dead/mahogany,/turf/unsimulated/floor/asteroid,/area/lonestar/offsite/lodge)
+"VI" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 6},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cookhouse)
+"We" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 6},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"WR" = (/obj/structure/rack{desc = "A simple wooden altar covered in cloth."; icon = 'icons/obj/cult.dmi'; icon_state = "churchaltar"; name = "wooden altar"},/obj/item/sword/katana,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Xh" = (/obj/structure/rack,/obj/item/defibrillator/compact/combat/loaded,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Xk" = (/obj/structure/table/glass,/obj/machinery/computer/cryopod{dir = 8; pixel_x = 24},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
+"Xq" = (/obj/machinery/embedded_controller/radio/airlock/docking_port{id_tag = "stranger_shuttle"; pixel_y = -25; dir = 1},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; id_tag = "ninja_shuttle_pump"},/obj/machinery/button/alternate{id_tag = "blastninja"; name = "ship lockdown control"; pixel_x = -25; dir = 4},/obj/effect/shuttle_landmark{base_area = /area/ninja_dojo/dojo; base_turf = /turf/unsimulated/floor/snow; landmark_tag = "stranger_start"; name = "Mysterious Cave"},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"Xs" = (/obj/structure/flora/pottedplant/flower,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
+"Xw" = (/obj/effect/floor_decal/carpet{dir = 10},/obj/effect/floor_decal/carpet{dir = 6},/obj/effect/floor_decal/carpet{dir = 9},/obj/effect/floor_decal/carpet{dir = 5},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
+"XI" = (/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"XQ" = (/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
+"YD" = (/obj/effect/floor_decal/industrial/warning{dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"YJ" = (/obj/structure/flora/bush/brflowers,/turf/unsimulated/floor/grass,/area/lonestar/offsite/lodge)
+"YU" = (/obj/machinery/door/airlock/centcom{name = "Chiefs Room"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/lodge/main_building)
+"ZS" = (/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+
+(1,1,1) = {"
+qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZsMsMsMsMsMsMpcsMsMsMsMsMVCsMsMsMsMsMsMsMqZqZqZsMsMsMsMsMsMsMsMsMpcsMqZqZqZqZqZqZsMsMVCqZqZqZqZqZ
+qZqZqZqZqZqZqZqZqZqZqZqZqZsMsMsMsMsMsMVCsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZ
+qZqZqZqZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMpcsMsMsMsMsMsMsMpcsMsMsMsMsMsMsMsMVCsMsMsMsMsMsMsMsMsMVCsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZqZsMsMsMsMHaHaOVOVHaHasMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMVCsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZsMsMsMsMHaHaBqvLBqvLHaHasMsMsMsMsMVCsMsMsMsMsMsMsMVCsMsMsMsMsMVCsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZsMsMVCsMHazsXQXQXQXQXQHaHaHaHaHasMsMsMSOsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMVCsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZsMsMsMsMHaGCXQJBzqnrXQHaKSCWKSHaHasMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZsMsMsMsMHaCxXQFeKUejXQHadbdbdbvNHasMsMSOsMbObObObObObObObObOsMsMsMbOVkVkVkVkbOsMsMsMpcpcsMsMsMsMsMsMsMsMsMsMVCsMqZqZqZ
+qZqZqZqZqZqZsMsMHaHaHaHaXQFeKUejXQSprRrRgvvNHasMsMSOsMbOewePUqeKXIXIhgbObObObObOzAzAzAstbObObObObOsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZsMsMsMHaFjfVHaXQFeKUejXQSpgvrRrRXkHasMSOVCsMbOTDXIXIQGXIXIopbOnMiWnMbOzAnqzAzAbOFQFQFQbObOVkVkVkVkVkbODzsMsMsMsMsMqZqZqZ
+qZqZqZqZqZsMVCsMOVhqXQEEXQIbQKefXQHaFwFwFwvNHasMsMsMsMbOdQXIXIhmXIXIJGbOFQFQFQbOzAzAzAzAbOFQFQFQbOzAzAzAzAzAzAzADzsMsMsMsMsMqZqZqZ
+qZqZqZqZqZsMsMsMHaXQXQHaXQXQXQXQXQHagogovKHaHasMsMSOsMbOGYXIXISImwvUEibOVkGIVkbOzAzAzAzAbOVkGIVkbOzAzAnOtFtFVrzANEsMsMsMsMsMsMqZqZ
+qZqZqZqZqZsMsMHaHaHaHaHaXQXQXQHaHaHaHaHaHaHasMsMSOsMsMbOpkMxXIXIIJzAhwVkmbzAzAzAzAzAzAzAzAzAzAmbVkzAzAkZmmCEUOzANEsMsMsMsMsMsMqZqZ
+qZqZqZqZqZsMsMHaFjfVHaXQXQXQXQHaReReReHasMsMVCsMsMSOsMbOXIXIXIXIIJzAzAbhzAzAzAzAzAzAzAzAzAzAzAzAUbzAzAkZqYiMUOzANEsMpcsMsMsMsMqZqZ
+qZqZqZqZqZsMsMOVhqXQEEXQXQXQXQHaReReReHasMsMsMpcsMsMsMbObOzxvUvUWezAzAbObOVkVkbObOyAyAbObOVkVkbObOzAzAcdgVgVDUzANEsMsMsMsMVCsMqZqZ
+qZqZqZqZqZsMsMHaXQXQHaXQXQXQXQiwReReReHasMsMsMsMSOsMsMsMbOurzAzAzAzAzAbOsMpcsMsMsMSOSOsMsMsMsMsMbOxCzAzAzAzAzAzANEsMsMsMsMsMsMqZqZ
+qZqZqZqZqZsMsMHaHaHaHaHaXQXQXQHaReReReHasMsMsMVCSOSOpcsMbOeNzAzAzAzAXhbOsMsMSOSOSOSOSOSOSOSOsMsMbOUbVkbODODODODObOsMsMsMsMsMsMqZqZ
+qZqZqZqZqZsMsMsMHaFjfVHaXQXQXQHaHaHaHaHaHasMsMsMSOSOsMsMbObOVkbhbhVkbObOsMSOmUSOHqHqHqHqSOmUSOsMVkzAmbbObObObObObOsMsMsMsMsMsMqZqZ
+qZqZqZqZsMsMsMsMOVhqXQEEXQXQXQXQXQXQXQXQHaHasMsMSOSOsMsMbOBnmbzAzAXsBnbOsMSOSOHqHqYJYJHqHqSOSOsMVkzAzAbOTfTfTfTfbOsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMsMsMHaXQXQHaXQJBzqzqzqzqnrXQXQHasMsMSOSOsMsMVkzAAYuBuBPuzAVksMSOHqHqYJYJYJYJHqHqSOsMbOzAzAVkTfzAzAzAVksMsMVCsMsMsMqZqZ
+qZqZqZsMsMsMsMHaHaHaHaHaXQFeKUKUKUKUejXQXQPiSOSOSOSOSOSOyAzAdLvHvHyzzAyASOSOHqYJYJYJYJYJYJHqSOSOyAzAzAVkzAzAzAwsVksMsMsMsMsMsMqZqZ
+qZqZsMsMsMsMsMHaFjfVHaXQXQFeKUKUKUKUejXQXQPiSOSOSOSOSOSOyAzAdLvHvHyzzAyASOSOHqYJYJccYJYJYJHqSOSOyAzAzAYUzAzAyxLYVksMsMsMsMsMsMqZqZ
+qZqZsMsMsMsMsMOVhqXQEEXQXQFeKUKUKUKUejXQXQHasMsMSOSOsMsMVkzAJXyhyhIuzAVksMSOHqHqYJYJYJYJHqHqSOsMbOzAzAVkTfzAzAzAVksMsMsMsMsMqZqZqZ
+qZqZsMsMVCsMsMHaXQXQHaXQXQIbQKQKQKQKefXQXQHasMsMSOSOVCsMbODdtjzAzAhwIebOsMSOSOHqHqYJYJHqHqSOSOsMVkzAzAbOxiKmCNzAbObObOsMsMsMqZqZqZ
+qZqZsMsMsMsMsMHaHaHaHaXQXQXQXQXQXQXQXQXQHaHasMsMSOSOsMsMbObOVkyAyAVkbObOsMSOmUSOHqHqHqHqSOmUSOpcVkzAzAbObObObOTrbOjxbOsMsMsMqZqZqZ
+qZqZsMsMsMsMsMsMsMsMHaHaHaPiPiHaHaHaHaHaHasMsMVCSOSOsMsMsMsMsMSOSOsMsMsMsMsMSOSOSOSOSOSOSOSOsMsMbOzAzAVkzAelbOJKnDnDbOsMsMsMqZqZqZ
+qZqZsMsMsMsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMbOxCzAMJXwWRbOoaxrxrbOsMsMqZqZqZqZ
+qZqZsMsMsMsMSOSOsMVCsMSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOsMpcsMsMsMbOzAmbVkzAelbOmdxrxrbOsMsMqZqZqZqZ
+qZqZsMsMVCsMsMsMSOsMSOsMSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOsMsMbObObObOHpbObObObObObObObObOsMsMqZqZqZqZ
+qZqZsMsMsMsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMSOSOsMsMbOPGPYtDFQdjDadaMDbObOsMsMsMsMsMsMqZqZqZ
+qZqZsMsMsMsMsMbxbxbxbxbxbxghghbxbxbxbxsMsMSOSOsMsMHoHoOMOMOMHoyGyGHoOMOMOMHoHopcsMSOSOSOSOHpFQFQFQFQFQFQFQFQwGbOsMsMpcsMsMsMqZqZqZ
+qZqZsMsMsMsMbxbxvjxdjFbxuVuVuVuVuVuVbxVCsMSOSOsMHoHosXsXsXsXsXsXsXsXsXsXsXsXHoHosMSOSOSOSOHpFQFQFQFQFQFQFQFQiubOsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMbxSvkvkvkvSfuVNobAbAUyuVbfsMsMSOSOsMHosXsXsXsXsXsXsXsXsXsXsXsXsXsXHosMSOSOsMsMbOpzwdyoruJHKAMcuRbObOsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMbfrgkvkvkvbxuVaDLtLteCuVbfsMsMSOSOsMOMsXsXsXsXsXsXsXsXsXsXsXsXsXsXOMsMSOSOsMsMbObObObObObObObObObOsMsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMbfjikvkvkvGMuVaDLtLteCuVbfsMsMSOSOsMOMsXsXsXsXsXsXsXsXsXsXsXsXsXsXOMsMSOSOsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMbfkvkvkvkvGMuVaDLtLteCuVbxsMsMSOSOsMHosXsXsXsXsXsXsXsXsXsXsXsXsXsXHosMSOSOsMsMsMsMsMsMsMsMsMsMsMsMsMVCsMsMsMsMVCsMqZqZ
+qZqZqZsMsMsMbfkvkvkvkvbxuVaDLtLteCuVghSOSOSOSOsMHoOMfkHofkOMHosXsXHoOMfkHofkOMHosMSOSOVCsMSOSOSOsMpcsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMbxkvkvkvkvSfuVwjvDvDVIuVghSOSOSOSOsMOMsXsXOMsXsXOMsXsXOMsXsXOMsXsXOMsMSOSOsMsMSOCuSOsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMbxbxGMGMGMbxuVuVuVuVuVuVbxsMsMSOSOsMOMsXsXOMsXsXOMsXsXOMsXsXOMsXsXOMsMSOSOsMsMSOSOSOsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZ
+qZqZqZsMsMsMsMbxbxbxbxbxbxbfbfbfbfbxbxsMsMSOSOsMHoOMOMHoOMOMHoyGyGHoOMOMHoOMOMHosMSOSOsMsMsMsMsMsMsMVCsMsMsMhKhKhKhKhKsMsMsMsMqZqZ
+qZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMSOSOsMsMsMsMsMsMsMsMsMsMsMhKwMwMwMhKhKsMsMsMqZqZ
+qZqZqZsMsMsMsMSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOsMhKwMwMwMwMhKsMsMsMqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOhTlOlOlOlOlOlOlOlOlOlOSOsMhKwMwMwMwMhKsMsMsMqZqZ
+qZqZsMVCsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdlOlOlOPdlOlOlOlOSOSOxnwMwMwMwMhKVCsMsMqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdlOlOlOPdlOlOlOlOSOSOxnwMwMwMwMhKsMsMsMqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdlOlOlOPdlOlOlOlOSOsMhKwMwMwMwMhKsMsMsMqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdvsGgvsPdlOlOlOlOSOsMhKwMwMwMwMhKsMqZqZqZqZ
+qZqZsMsMVCsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdfEPdPdPdPdPdfEPdlOhTSOsMhKwMwMwMhKhKsMqZqZqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdPdPdzPmymymyzlPdPdPdlOSOsMhKhKhKhKhKsMsMqZqZqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOdhOTPdafYDYDYDbWZSKMPdlOSOsMsMsMsMsMsMsMqZqZqZqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdXqGeqbZSZSZSZSZSBKPdlOSOsMsMVCsMsMsMsMqZqZqZqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdPdPdBOZSZSZSnLPdPdPdlOSOsMsMsMsMsMsMqZqZqZqZqZqZ
+qZqZsMsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdPdiXZSZSZSmLPdPdlOlOSOsMsMsMsMqZqZqZqZqZqZqZqZ
+qZqZqZsMsMVCsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdPdJAZScIPdPdlOlOlOSOsMsMsMsMqZqZqZqZqZqZqZqZ
+qZqZqZsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOPdgBQAPpPdlOlOlOlOSOsMVCsMsMqZqZqZqZqZqZqZqZ
+qZqZqZsMsMsMsMSOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOlOSOsMsMsMsMqZqZqZqZqZqZqZqZ
+qZqZqZqZsMsMsMSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOSOsMsMsMsMqZqZqZqZqZqZqZqZ
+qZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZqZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZononononononononononononononononononononononononononqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
+qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
+"}

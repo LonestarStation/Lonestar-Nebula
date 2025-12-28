@@ -1,0 +1,235 @@
+"ao" = (/mob/living/simple_animal/fowl/chicken,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"at" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 1},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"aM" = (/obj/structure/table/marble,/obj/machinery/light{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"aW" = (/obj/structure/produce_bin,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"bv" = (/obj/structure/table/marble,/obj/machinery/chemical_dispenser/bar_soft/full{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"bR" = (/obj/structure/door/wood,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead/main_building)
+"bS" = (/turf/wall/log,/area/lonestar/offsite/homestead/main_building)
+"cx" = (/obj/structure/table/wood,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"ds" = (/obj/structure/bed/padded,/obj/item/bedsheet/brown,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"dV" = (/obj/machinery/ai_status_display,/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"ee" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/obj/item/seeds/ambrosiadeusseed,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"es" = (/obj/structure/table/glass,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"ey" = (/obj/structure/fence/corner{dir = 4},/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"eA" = (/obj/item/ball/basketball,/turf/unsimulated/floor/dark,/area/lonestar/offsite/homestead)
+"fd" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"fP" = (/obj/machinery/status_display,/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"ga" = (/obj/machinery/cooker/oven,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"gt" = (/obj/structure/loot_pile/maint/trash,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"gy" = (/obj/structure/fence{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"gM" = (/obj/structure/loot_pile/maint/technical,/obj/random/maintenance/clean,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"hx" = (/obj/structure/flora/bush,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"hF" = (/obj/structure/reagent_dispensers/fueltank,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/main_building)
+"hG" = (/obj/structure/flora/bush,/obj/structure/loot_pile/maint/technical,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"hL" = (/obj/structure/table/marble,/obj/machinery/microwave,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"hU" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 8},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"hX" = (/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/main_building)
+"ih" = (/obj/machinery/light{dir = 1},/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"iJ" = (/obj/structure/barricade,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"iR" = (/obj/structure/door/wood,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead/outhouse)
+"kP" = (/turf/wall/log/shutter,/area/lonestar/offsite/homestead/main_building)
+"lt" = (/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"lF" = (/obj/structure/reagent_dispensers/watertank,/obj/machinery/light{dir = 8},/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"mf" = (/obj/structure/loot_pile/maint/junk,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"mm" = (/obj/machinery/door/airlock/external/bolted,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead/hangar)
+"mD" = (/obj/structure/fence,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"mL" = (/obj/structure/undies_wardrobe,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"mT" = (/obj/structure/fence/door{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"mU" = (/obj/structure/fence/corner{dir = 1},/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"nE" = (/obj/structure/table/steel,/turf/floor/shuttle/black,/area/lonestar/offsite/homestead)
+"nM" = (/obj/structure/fence{dir = 4},/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"ob" = (/obj/structure/table/marble,/obj/machinery/reagentgrinder/juicer,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"om" = (/obj/structure/shuttle/engine/heater,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"ou" = (/obj/machinery/light{dir = 1},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"oK" = (/obj/structure/closet/secure_closet/freezer/kitchen,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"oR" = (/obj/structure/fence/corner{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"ph" = (/obj/structure/fire_source/fireplace/pottery,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"pW" = (/obj/machinery/light{dir = 8},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"qe" = (/obj/machinery/light{dir = 4},/obj/structure/table/glass,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"qE" = (/obj/abstract/landmark/start{name = "Land Holder"},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"qJ" = (/turf/unsimulated/mineral,/area/lonestar/offsite/homestead)
+"rb" = (/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/hangar)
+"rl" = (/obj/structure/loot_pile/maint/technical,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"rt" = (/obj/structure/fence/corner{dir = 8},/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"ry" = (/obj/effect/floor_decal/industrial/warning/corner,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"rA" = (/obj/structure/dogbed,/obj/structure/plushie/ian,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"rP" = (/obj/structure/fire_source/firepit/granite,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"rV" = (/obj/structure/fence,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"rZ" = (/obj/machinery/light{dir = 1},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"sm" = (/obj/structure/table/wood,/obj/item/flashlight/lamp,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"sF" = (/obj/structure/fence/door,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"th" = (/obj/structure/hygiene/toilet{dir = 4},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/outhouse)
+"to" = (/obj/structure/fence/corner{dir = 1},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"tr" = (/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/lonestar/offsite/homestead/main_building)
+"tM" = (/obj/structure/shuttle/engine/heater,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"tO" = (/obj/machinery/light{dir = 4},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"va" = (/obj/structure/table/glass,/obj/item/chems/glass/beaker,/obj/item/chems/glass/beaker,/obj/item/chems/glass/beaker,/obj/item/chems/glass/beaker,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"vf" = (/turf/floor/shuttle/white,/area/lonestar/offsite/homestead/shuttle_port)
+"vy" = (/obj/structure/coatrack,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"vS" = (/obj/machinery/seed_extractor,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"vV" = (/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead/hangar)
+"wa" = (/obj/structure/table/wood,/obj/item/paper_bin,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"wE" = (/obj/structure/town_bell,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"wF" = (/obj/machinery/portable_atmospherics/hydroponics/soil,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"xf" = (/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 10},/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"xP" = (/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 9},/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"yA" = (/obj/structure/window/reinforced{dir = 2},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"yF" = (/obj/structure/shuttle/engine/propulsion,/turf/space,/area/lonestar/offsite/homestead)
+"zc" = (/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"Ak" = (/obj/structure/closet/crate/hydroponics{desc = "All you need to start your own honey farm."; name = "beekeeping crate"},/obj/item/beehive_assembly,/obj/item/bee_smoker,/obj/item/bee_pack,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"An" = (/obj/machinery/light,/turf/floor/shuttle/black,/area/lonestar/offsite/homestead)
+"At" = (/obj/machinery/door/airlock/external{name = "Cockpit Access"},/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"BN" = (/obj/structure/closet/emcloset,/obj/structure/window/reinforced{dir = 4},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Cc" = (/turf/floor/shuttle/black,/area/lonestar/offsite/homestead)
+"Cv" = (/obj/structure/closet/crate/freezer,/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/lonestar/offsite/homestead/main_building)
+"Cx" = (/obj/structure/closet/secure_closet/bar,/obj/random/drinkbottle,/obj/random/drinkbottle,/obj/random/drinkbottle,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"CC" = (/obj/machinery/biogenerator,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"Dc" = (/obj/structure/fence/corner{dir = 8},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"DM" = (/turf/wall/r_wall,/area/lonestar/offsite/homestead/hangar)
+"Ee" = (/obj/machinery/light,/turf/floor/shuttle/red,/area/lonestar/offsite/homestead)
+"Ei" = (/obj/structure/reagent_dispensers/watertank,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/main_building)
+"EO" = (/obj/structure/chair/office/light{dir = 4},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"Fk" = (/obj/structure/window/reinforced{dir = 1},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"FI" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/structure/table/wood/maple,/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"FK" = (/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"FL" = (/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"Gm" = (/obj/structure/closet/secure_closet/hydroponics{req_access = null; locked = 0},/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"Hg" = (/obj/machinery/light,/obj/machinery/icecream_vat,/turf/floor/shuttle/red,/area/lonestar/offsite/homestead)
+"Hr" = (/obj/structure/closet/crate/trashcart,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"HP" = (/obj/structure/fence{dir = 4},/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"HQ" = (/obj/effect/floor_decal/industrial/warning{icon_state = "warning"; dir = 1},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"HT" = (/obj/structure/loot_pile/maint/boxfort,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"If" = (/obj/structure/loot_pile/maint/trash,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"Ip" = (/obj/structure/closet/secure_closet/freezer/meat,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"IH" = (/obj/structure/holohoop{dir = 4},/turf/unsimulated/floor/dark,/area/lonestar/offsite/homestead)
+"IQ" = (/obj/structure/fence/corner,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"IX" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/space,/area/space)
+"IY" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/structure/chair/bench/lounge{dir = 4},/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"Ja" = (/obj/effect/floor_decal/industrial/warning/corner{dir = 4},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Jg" = (/obj/machinery/media/jukebox/old,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"JM" = (/obj/structure/table/wood/maple,/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"JZ" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/marble,/obj/machinery/microwave{pixel_x = -3; pixel_y = 6},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Kr" = (/obj/machinery/seed_storage/garden,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"KH" = (/obj/machinery/floodlight,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/main_building)
+"KK" = (/obj/machinery/door/airlock/external/bolted,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"KW" = (/obj/structure/closet/crate/freezer/meat,/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/lonestar/offsite/homestead/main_building)
+"KZ" = (/obj/effect/floor_decal/industrial/warning,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Lc" = (/obj/structure/table/marble,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"Lo" = (/obj/structure/closet/crate/trashcart,/obj/random/maintenance/clean,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"LK" = (/obj/structure/rack,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"LV" = (/turf/unsimulated/wall{desc = "That looks like it doesn't open easily."; icon = 'icons/obj/doors/rapid_pdoor.dmi'; icon_state = "pdoor1"; name = "Shuttle Bay Blast Door"},/area/lonestar/offsite/homestead/hangar)
+"Mg" = (/obj/structure/window/reinforced{dir = 2},/obj/structure/table/marble,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Mm" = (/turf/wall/r_wall,/area/lonestar/offsite/homestead/shuttle_port)
+"Mx" = (/obj/machinery/space_heater,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"Ne" = (/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"Nf" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"Nk" = (/obj/structure/closet/coffin,/obj/random/maintenance/clean,/obj/random/maintenance/clean,/obj/random/maintenance/clean,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"ND" = (/obj/machinery/apc{name = "north bump"; dir = 1; pixel_x = 0; pixel_y = 24},/obj/structure/cable/green{icon_state = "0-2"; d2 = 2},/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/main_building)
+"NR" = (/obj/structure/closet/crate/trashcart,/obj/random/maintenance/clean,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"OX" = (/obj/structure/fence/corner,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"Pf" = (/obj/machinery/embedded_controller/radio/simple_docking_controller{pixel_x = 0; pixel_y = 25; tag_door = "cult_shuttle_hatch"},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Pn" = (/obj/structure/fence/door{dir = 4},/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"Pq" = (/obj/structure/table/glass,/obj/machinery/reagentgrinder/juicer,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"PQ" = (/obj/structure/flora/pottedplant/minitree,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"PR" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/marble,/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"PW" = (/obj/structure/table/glass,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"Qk" = (/obj/structure/shuttle/engine/heater,/obj/structure/window/reinforced{dir = 1},/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"Rb" = (/obj/structure/rack,/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/lonestar/offsite/homestead/main_building)
+"Rg" = (/turf/unsimulated/wall,/area/lonestar/offsite/homestead/hangar)
+"Rk" = (/obj/structure/shuttle/window,/obj/structure/grille,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead)
+"Ru" = (/obj/effect/floor_decal/carpet,/obj/structure/chair/wood/maple{dir = 1},/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"RK" = (/obj/structure/fence,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"RQ" = (/obj/structure/closet/emcloset,/obj/structure/window/reinforced{dir = 8},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Sp" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 6},/obj/structure/chair/wood/maple{dir = 1},/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"Sw" = (/obj/abstract/landmark/start{name = "Local Helper"},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"SJ" = (/obj/effect/floor_decal/carpet{dir = 1},/obj/structure/chair/wood/maple,/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"Te" = (/turf/space,/area/space)
+"TG" = (/obj/effect/floor_decal/carpet{dir = 4},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 5},/obj/structure/chair/wood/maple,/turf/unsimulated/floor{dir = 2; icon_state = "carpet"},/area/lonestar/offsite/homestead/main_building)
+"UK" = (/obj/structure/loot_pile/maint/technical,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"UW" = (/obj/structure/table/steel,/obj/structure/flora/pottedplant{icon_state = "plant-09"; name = "Dave"; pixel_y = 15},/turf/floor/shuttle/black,/area/lonestar/offsite/homestead)
+"Vm" = (/turf/wall/log,/area/lonestar/offsite/homestead/outhouse)
+"VD" = (/obj/structure/loot_pile/maint/boxfort,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"VE" = (/turf/floor/shuttle/red,/area/lonestar/offsite/homestead)
+"Wi" = (/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Wp" = (/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"WJ" = (/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"Xg" = (/obj/structure/fence/door,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead)
+"Xm" = (/obj/structure/holohoop{dir = 8},/turf/unsimulated/floor/dark,/area/lonestar/offsite/homestead)
+"XH" = (/obj/machinery/chem_master/condimaster{name = "CondiMaster Neo"; pixel_x = -5},/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"XI" = (/obj/structure/closet/crate/trashcart,/obj/random/plushie,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
+"YP" = (/obj/structure/table/bench/wooden,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+"YR" = (/obj/structure/noticeboard{pixel_y = 28},/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
+"YZ" = (/obj/machinery/door/airlock/external/bolted,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/lonestar/offsite/homestead/shuttle_port)
+"Zi" = (/turf/unsimulated/floor/dark,/area/lonestar/offsite/homestead)
+"ZL" = (/obj/machinery/cooker/grill,/turf/unsimulated/floor/white,/area/lonestar/offsite/homestead/main_building)
+"ZN" = (/obj/structure/sign/warning/secure_area,/turf/wall/shuttle,/area/lonestar/offsite/homestead)
+"ZU" = (/obj/machinery/vending/hydronutrients,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
+"ZX" = (/obj/machinery/floodlight,/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
+
+(1,1,1) = {"
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJgtzcltIfhGLoIfzcUKUKNkqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJzczczczczczczczczcltzczczczczcqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJUKUKIfUKqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJNRrlzczczczczczczczczczczczczczczczczczcqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJgtzcltltltlthxqJqJqJqJqJqJqJ
+qJqJqJqJbSbSbSbSbSbSbSbSbSqJAkzczczczczczczcbSbSkPkPbSbSbSbSbSbSzczcltltltltltltltltltltltzczczczczczczczcltltltltltIfqJqJqJqJqJqJ
+qJqJqJqJbSmLSwdsbSmLSwdsbSbSbSbSbSbSkPkPkPbSbSmLNeMxsmbSGmihWJbSbSzczczczczczcltltltltltltltltltltltltltltltltzczczcltltqJqJqJqJqJ
+qJqJqJqJbSLKNeqebSLKNeqebSCvKWRbbSoKNfZLgahLbSLKNeqEdsbSGmWJWJWJbSbSbSbSbSbSzczcltltrtnMnMnMnMnMnMnMnMnMnMnMnMnMeyzczcltqJqJqJqJqJ
+qJqJqJqJbSLKSwdsbSLKSwdsbStrtrtrbRFKFKFKFKaMbSLKNeNetObSGmWJWJWJbShXNDhXhXbSbSzczcltmDzczczczczczczczczczczczczcmDzczczcqJqJqJqJqJ
+qJqJqJqJbSbSbRbSbSbSbRbSbSbSbSbSbSbvFKFKFKobbSNeEONeNebSGmWJWJWJbRhXhXhXhXhFbSzczczcmDzczczczczczczczczczczczczcmDltzczcqJqJqJqJqJ
+qJqJqJqJbSNeNeNerZNeNeNebSesphrAbSLcLcFKLcLcbSwacxNePQbSGmWJWJWJbSKHKHhXhXEibSzczczcmDzczczczczczczczczczczczczcmDltltzcqJqJqJqJqJ
+qJqJqJqJbSMxNeNeNeNeNeNebRNeNeNeNeNeNeNeNeJgbSbSbSbRbSbSbSbSbRbSbSbSbSbRbSbSbSltzczcmDzczczczczczczczcaozczczczcrVltltzcXIqJqJqJqJ
+qJqJqJqJbSbSNeNeNeNeNeNebSNeNexPSJSJSJTGNeNebSNeNeNeNerZYRNeNeMxbSKrZUWJXHvSbSltltzcmDzczczczczczczczczczczczczcrVltltzcHrqJqJqJqJ
+qJqJqJqJmfbSkPbSbRbSkPbSbSpWNeIYJMJMJMFINeNebRNeNeNeNeNeNeNeNeNebRWJWJWJWJWJkPltltltrVzczczczczczczczczczczczczcrVltltltgtqJqJqJqJ
+qJqJqJltltltltltltltltgMbSMxNexfRuRuRuSpNeNebSNeNeNeNeNeNeNeNeNebSWJWJWJWJWJbSltltltrVltzczczczczczczczczczczcltrVltltltgtqJqJqJqJ
+qJqJqJltzczczcltltltltltbSbSNeNeNeNeNeNeNebSbSbSbSbSbRbSbSbSbRbSbSlFWJWJWJWJbRltltltPnltzczczczczczczczczczczcltPnltltltzcqJqJqJqJ
+qJqJqJltzcVmVmVmzcltltltltbSkPkPbSbRbSkPkPbSzczcbSmLSwdsbSmLSwdsbSPWWJWJWJCCbSltltltrVltzczczczczczczczczczczcltrVltltltzcqJqJqJqJ
+qJqJqJVDzcVmthiRzczczcltltltzczcltltltzczczczczcbSLKNeqebSLKNeqebSPWvaPqPWbSbSltltltmDzczczczczczczczczczczczczcrVltltltzcqJqJqJqJ
+qJqJqJqJltVmVmVmzczczcltltltltltltltltltzczczczcbSLKSwdsbSLKSwdsbSbSkPkPbSbSzcltltzcmDzczczcltltltzczczczczczczcmDltltzczcqJqJqJqJ
+qJqJqJqJltltltzczczczcltltzczczcltwEltltlthxzczcbSbSkPbSbSbSkPbSbSzczczczczczcltltzcmUnMnMnMHPsFHPnMnMnMnMnMnMnMOXltltzcgtqJqJqJqJ
+qJqJqJqJqJqJUKltzczcltYPYPYPltzczczczcltltltltzczczczczczczczcltltzczczczcltltltltzczczczczcltltltzczczczczczczczcltzczcqJqJqJqJqJ
+qJqJqJqJqJqJqJltltzcYPltltltYPltzczczczczczcltltltltltltzczcltltltltltltltltltltzczczczczczczcltzczczczcltltltzcltltzczcqJqJqJqJqJ
+qJqJqJqJqJqJqJmfltltYPltrPltYPltzczczczczczczczcltzczcltltltltltltltzcltltltltltltltzczczczczcltzczczczcltltltltltzczcqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJmfltYPltltltYPltltzczczczczczcltltzczczczczczcltltzczcltzczczczczcltltltzczcltltltzczcltltltltltzczcqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJUKltYPYPYPltltmfltzczczczczcltzczczcltltzczczczczcltltzczczczczczczcltltzcltltltzcltltltltzcltzcqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJVDmfqJqJltltzczczczczcltzczcaWltzczcltltltzcltzczczcaWltzczczczcltltltltltltltltltzczcltIfqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJltzczczczczcltltzczczczcaWltltltzcltltzczczczczczczczczczcltltzczczczczczczcltltVDqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJltzczczcltwFltwFltwFltzczcltaWzczczcltltzczczczczczczczczczcltltzczczczczcltltltUKqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJzczczcltwFltwFltwFltwFltzczczczclteelteelteeltzczcltaWzczcltltltvyltzczczcltltVDqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJzczcltwFltwFltZXltwFltwFltzczclteelteelteelteeltzczczczcltwFltwFltwFltzczcltltzcqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJzczczcltltwFltwFltwFltwFltltltlteelteeltZXlteelteeltzczcltwFltwFltwFltwFltzcltltzczcqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJgtzczczczcltltwFltwFltwFltltzczcltlteelteelteelteeltltltltwFltwFltZXltwFltwFltltltzczcHTqJqJqJqJqJqJ
+qJqJqJqJqJqJqJzczczczczcqJqJqJzczczczczczcltltvyltltltltzczczczcltlteelteelteeltltzczcltltwFltwFltwFltwFltltltltzczczcrlqJqJqJqJqJ
+qJqJqJqJqJqJzczcltltltzczcqJqJzczczczczczczczczcltltzczczczczczczcltltltltltltltzczczczcltltwFltwFltwFltltzcltltzczczczcqJqJqJqJqJ
+qJqJqJqJqJzczczczcltltzczcqJiJzczczczczczczczczczcltltzczczczczczczczczcltltzczczczczczczcltltltltltltltzczcltltltzczczcqJqJqJqJqJ
+qJqJqJqJqJzczczcltltltltzczciJzczczczczczczczczcltltltltzczczczczczczcltltltzcWpzczczczczczcltltltaWltzczczcltltltzczcgtqJqJqJqJqJ
+qJqJqJqJqJzczcYPYPltYPYPltzciJqJzczczczczczcltltltWpltltltzczczczcltltltltzczczcWpWpzczczczczcltltltltltzczcltltltzczcqJqJqJqJqJqJ
+qJqJqJqJqJzczczcltltltzczczcqJqJzczczczcltltltltltltltltltltltltltltltltltltzczczczczczczczczcltzczcltltzczcltltzczczcqJqJqJqJqJqJ
+qJqJqJqJqJzczcYPYPltYPYPzczcqJqJgtzczcltltltltltWpltltltltltltltltltltltltltltzczcWpWpzczczczcltzczczcltltltltlthxzcqJqJqJqJqJqJqJ
+qJqJqJqJqJqJzczczczczczczcqJqJqJqJqJzcltltltltWpltltltqJqJqJqJqJqJqJqJqJltltltltltzcWpzcWpzczcltzczczczczcltltltltzcqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJzczczczczcqJqJqJqJqJqJqJltltWpltWpltltqJqJqJqJqJqJqJqJqJqJqJqJltltltltzczcWpzcltltzczczczczcltltltltqJqJqJqJqJqJqJqJ
+qJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJltltWpWpltltqJqJqJqJqJqJqJqJqJqJqJqJqJqJltltltltWpWpzcltzczczczczczcltltltltqJqJqJqJqJqJqJqJ
+qJqJqJDMDMDMDMDMDMDMDMDMDMDMDMDMqJqJqJltWpWpltltltqJqJqJqJqJqJqJTeTeqJqJqJqJqJqJltltltzcWpWpltzczczczczczcltltltltqJqJqJqJqJqJqJqJ
+qJqJDMDMvVvVvVvVvVvVvVvVvVvVvVDMDMqJltltWpWpltltqJqJqJqJqJTeTeTeTeTeTeTeTeTeqJqJqJltltltWpWpltltzczczczczcltltltzcqJqJqJqJqJqJqJqJ
+qJqJDMvVvVrbrbrbrbrbrbrbrbrbvVvVDMqJltWpWpWpltltqJqJqJqJTeTeTeTeTeTeTeTeTeTeqJqJqJltltltWpWpWpltzczczczczcltltltzcqJqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJltWpWpltltltqJqJqJqJTeTeTeTeTeTeTeTeTeTeTeqJqJqJltltltWpWpltltzczczczcltltltzczcqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJqJqJqJTeTeTeTeFLRkRkRkFLTeTeTeqJqJqJltltltWpWpzcltzczczcltltltltltzcqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJqJqJqJTeTeTeFLFLCcCcCcFLFLTeTeTeqJqJqJltltWpWpzcltltzcltltltltltltIfqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJqJqJqJTeTeTeFLnEAnCcAnUWFLTeTeTeqJqJqJltltWpWpzcltltzcltltltltltltqJqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJMmqJqJTeTeFLFLfPZNAtFLdVFLFLTeqJqJqJMmltltWpWpzczcltltltltltltltzcqJqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMWpltWpWpWpltWpMmMmMmMmMmFLPfouJaHQatouWiFLMmMmMmMmMmWpltWpWpzczcltltltltltltltzcqJqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVmmWpWpWpWpWpWpWpYZvfvfvfYZKKWiWiWiWiWiWiWiKKYZvfvfvfYZWpWpWpWpzczczczcltltltltltzczczcqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVmmWpWpWpWpWpWpWpYZvfvfvfYZKKWiWiWiWiWiWiWiKKYZvfvfvfYZWpWpWpWpzczczczcltltltltltltzczczczcqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMWpltWpWpWpltWpMmMmMmMmMmFLFkFkWiWiWiPRJZFLMmMmMmMmMmWpltWpWpzczczczczczcltltltltltltzczczcqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltltWpWpltqJMmqJqJTeTeRkWiWiWiWiWiWifdRkTeTeqJqJMmltltWpWpzczcDcgygygygyXggygygygyoRzczcqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJqJltWpWpltqJqJqJqJTeTeRkWiWiWiWiWiWiIpRkTeTeqJqJqJltltWpWpzczcRKZiZiZiZiZiZiZiZiZiRKzczcqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJqJqJWpWpltqJMmqJqJTeTeRkWiWiWiWiWiWiCxRkTeqJqJqJMmltltWpWpWpWpmTZiZiZiZiZiZiZiZiZiRKzcqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJqJqJWpWpltWpMmMmMmMmMmFLyAyAWiWiWiMgMgFLMmMmMmMmMmWpltWpWpltltRKIHZiZiZieAZiZiZiXmRKzcqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJqJqJWpWpWpWpYZvfvfvfYZKKWiWiWiWiWiWiWiKKYZvfvfvfYZWpWpWpWpltltRKZiZiZiZiZiZiZiZiZiRKzcqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJqJqJqJWpWpWpYZvfvfvfYZKKryKZKZKZKZKZhUKKYZvfvfvfYZWpWpWpzczcltRKZiZiZiZiZiZiZiZiZiRKqJqJqJqJqJ
+qJqJDMvVvVvVvVvVvVvVvVvVvVvVvVvVDMqJqJqJqJltltWpMmMmMmMmMmFLBNVEVEVEVEVERQFLMmMmMmMmMmWpltltzczczctogygygygygygygygygyIQqJqJqJqJqJ
+qJDMDMDMDMLVLVLVLVLVLVLVLVLVDMDMDMDMDMqJqJqJqJqJMmqJqJTeTeFLtMEeVEVEVEHgomFLTeqJqJqJMmltltzczczczczczczczczczczczczczczcqJqJqJqJqJ
+qJqJqJqJDMvVvVvVvVvVvVvVvVvVDMqJqJqJqJqJqJqJqJqJqJqJTeTeTeFLyFFLQkQkQkFLyFFLTeTeqJqJqJqJqJzczczczczczczczczczczczcqJqJqJqJqJqJqJqJ
+qJqJqJqJDMvVvVvVvVvVvVvVvVvVDMqJqJqJqJqJqJqJqJqJTeTeTeTeTeTeTeFLyFyFyFFLTeTeTeTeqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
+qJqJqJqJRgLVLVLVLVLVLVLVLVLVRgqJqJqJqJqJqJqJqJIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
+"}

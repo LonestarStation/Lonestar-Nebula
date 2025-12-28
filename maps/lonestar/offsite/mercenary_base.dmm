@@ -1,0 +1,297 @@
+"aw" = (/obj/structure/table/steel,/obj/item/gun/projectile/pistol,/obj/item/gun/projectile/pistol,/turf/floor/shuttle/black,/area/space)
+"aI" = (/obj/structure/table/reinforced,/obj/random/drinkbottle,/obj/machinery/reagentgrinder/juicer,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"aO" = (/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"aV" = (/obj/item/clothing/mask/balaclava/tactical,/obj/item/clothing/mask/balaclava/tactical,/obj/item/clothing/mask/balaclava/tactical,/obj/item/clothing/mask/balaclava/tactical,/obj/item/clothing/mask/balaclava/tactical,/obj/item/clothing/mask/balaclava/tactical,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/obj/item/clothing/mask/balaclava,/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"aX" = (/obj/machinery/cryopod,/turf/floor/tiled/steel_grid,/area/space)
+"bf" = (/obj/structure/table/wood/mahogany,/obj/item/binoculars,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"bj" = (/obj/machinery/atmospherics/pipe/manifold/visible{icon_state = "map"; dir = 8},/turf/floor/tiled/steel_grid,/area/space)
+"bp" = (/obj/structure/hygiene/toilet{dir = 8},/turf/floor/shuttle/black,/area/space)
+"bM" = (/obj/structure/table/wood/mahogany,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"cj" = (/obj/structure/window/reinforced,/obj/machinery/portable_atmospherics/canister/oxygen,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"cl" = (/obj/machinery/door/airlock{name = "Unit 1"},/obj/machinery/door/firedoor{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"ct" = (/obj/machinery/vending/assist{contraband = null; name = "AntagCorpVend"; products = list(/obj/item/assembly/prox_sensor=5,/obj/item/assembly/signaler=4,/obj/item/assembly/infra=4,/obj/item/assembly/prox_sensor=4,/obj/item/handcuffs=8,/obj/item/flash=4,/obj/item/clothing/glasses/sunglasses=4); dir = 1},/turf/floor/shuttle/black,/area/space)
+"cD" = (/obj/machinery/turretid{pixel_x = 0; pixel_y = 32; req_access = list(150)},/turf/floor/shuttle/darkred,/area/space)
+"cJ" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 8},/obj/effect/shuttle_landmark{base_area = /area/space; base_turf = /turf/space; landmark_tag = "merc_start"; name = "Merc Base Dock"; docking_controller = "merc_shuttle"},/turf/floor/tiled/steel_grid,/area/space)
+"do" = (/obj/structure/window/reinforced/full,/turf/floor,/area/space)
+"dT" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
+"dW" = (/obj/machinery/light{dir = 4},/turf/floor/shuttle/darkred,/area/space)
+"eb" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/lattice,/turf/space,/area/space)
+"ef" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"ej" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"em" = (/turf/wall/shuttle/dark,/area/space)
+"es" = (/obj/item/flashlight/maglight,/obj/item/flashlight/maglight,/obj/item/flashlight/maglight,/obj/item/flashlight/maglight,/obj/item/flashlight/maglight,/obj/item/flashlight/maglight,/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"eK" = (/obj/machinery/light/small{dir = 8},/turf/floor/shuttle/black,/area/space)
+"eO" = (/obj/machinery/light,/turf/floor/shuttle/darkred,/area/space)
+"eQ" = (/obj/structure/window/reinforced{dir = 8},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"ff" = (/obj/structure/rack,/obj/item/aicard,/turf/floor,/area/space)
+"fj" = (/obj/item/clothing/shoes/magboots,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/suit/space/syndicate/black/med,/obj/item/clothing/head/helmet/space/syndicate/black/med,/obj/item/clothing/mask/breath,/obj/structure/rack,/turf/floor/shuttle/white,/area/space)
+"fp" = (/obj/machinery/door/firedoor{dir = 4},/obj/machinery/door/airlock/centcom{name = "Barracks"; opacity = 1},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"fr" = (/obj/machinery/light{dir = 4},/obj/item/clothing/shoes/magboots,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/suit/space/syndicate/black/engie,/obj/item/clothing/head/helmet/space/syndicate/black/engie,/obj/item/clothing/mask/breath,/obj/structure/rack,/turf/floor/shuttle/black,/area/space)
+"fs" = (/obj/machinery/door/airlock{name = "Restroom"},/obj/machinery/door/firedoor,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"fu" = (/turf/unsimulated/floor{icon_state = "lino"},/area/space)
+"fO" = (/obj/structure/rack,/obj/item/clothing/gloves/insulated,/obj/item/clothing/gloves/insulated,/obj/item/clothing/gloves/insulated,/obj/item/clothing/gloves/insulated,/obj/item/clothing/gloves/insulated,/obj/item/clothing/gloves/insulated,/turf/floor,/area/space)
+"fP" = (/turf/floor/shuttle/darkred,/area/space)
+"fQ" = (/turf/unsimulated/dark_filler,/area/space)
+"gg" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/obj/structure/window/reinforced/full,/turf/floor,/area/space)
+"gi" = (/obj/structure/table/glass,/obj/item/binoculars,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"gn" = (/obj/machinery/light/small{dir = 1},/turf/floor,/area/space)
+"gV" = (/obj/structure/table/steel,/obj/machinery/atmospherics/pipe/manifold/visible,/turf/floor/shuttle/white,/area/space)
+"ha" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/obj/machinery/meter,/turf/floor/shuttle/black,/area/space)
+"if" = (/obj/structure/closet/crate/med_crate/trauma,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"ih" = (/obj/structure/table/reinforced,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"ir" = (/turf/wall/r_wall,/area/space)
+"jj" = (/obj/effect/decal/cleanable/blood,/turf/floor,/area/space)
+"jq" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; direction = 2; name = "thrower_throwdown"; tiles = 0},/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/space,/area/space)
+"jA" = (/obj/structure/table/glass,/obj/machinery/embedded_controller/radio/simple_docking_controller{name = "shuttle bay controller"; pixel_x = -24; req_access = list(13); dir = 4; tag_door = "merc_base_hatch"; id_tag = "merc_start"},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"jP" = (/obj/structure/rack,/obj/item/toolbox/syndicate{pixel_x = -1; pixel_y = 3},/turf/floor,/area/space)
+"jQ" = (/turf/floor/shuttle/black,/area/space)
+"jU" = (/obj/machinery/light,/turf/floor/shuttle/black,/area/space)
+"kg" = (/obj/structure/mopbucket,/turf/floor/shuttle/black,/area/space)
+"kB" = (/obj/machinery/light{dir = 1},/obj/machinery/constructable_frame/computerframe,/turf/floor/shuttle/black,/area/space)
+"ln" = (/obj/machinery/computer/shuttle_control/multi/mercenary{dir = 8},/turf/floor/shuttle/black,/area/space)
+"lv" = (/obj/structure/lattice,/turf/space,/area/space)
+"lB" = (/obj/machinery/door/firedoor{dir = 4},/obj/structure/window/reinforced/full,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"lF" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/centcom{name = "Armory"; opacity = 1},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"ml" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"mE" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"mN" = (/obj/structure/table/glass,/obj/machinery/light{dir = 1},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"mV" = (/obj/item/stack/medical/splint,/obj/item/stack/medical/splint,/obj/item/belt/medical/emt,/obj/structure/rack,/turf/floor/shuttle/white,/area/space)
+"nd" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/portable_atmospherics/canister/carbon_dioxide,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"nr" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"ny" = (/obj/machinery/atmospherics/portables_connector{icon_state = "map_connector"; dir = 4},/obj/machinery/portable_atmospherics/canister/oxygen/prechilled,/turf/floor/shuttle/white,/area/space)
+"nI" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 1},/turf/space,/area/space)
+"oi" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/machinery/portable_atmospherics/canister/oxygen,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"oo" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9},/obj/machinery/light{dir = 4},/turf/floor/shuttle/white,/area/space)
+"ov" = (/obj/machinery/door/firedoor{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"oQ" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 5},/turf/wall/shuttle/dark,/area/space)
+"oU" = (/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"pA" = (/obj/machinery/suit_cycler/nonstandard/mercenary{locked = 0},/turf/floor/shuttle/black,/area/space)
+"qD" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4},/obj/machinery/airlock_sensor{pixel_x = 28; pixel_y = 8; dir = 8},/obj/machinery/embedded_controller/radio/airlock/docking_port{pixel_x = 24; pixel_y = -2; req_access = list(150); dir = 8; id_tag = "merc_shuttle"},/turf/floor/tiled/steel_grid,/area/space)
+"qG" = (/obj/structure/iv_drip,/turf/floor/shuttle/white,/area/space)
+"rb" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/steel,/obj/item/chems/ivbag/blood/ominus,/obj/item/chems/ivbag/blood/ominus,/turf/floor/shuttle/white,/area/space)
+"ri" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/space,/area/space)
+"rv" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
+"rw" = (/obj/machinery/atmospherics/unary/freezer{icon_state = "freezer_0"; dir = 8},/turf/floor/shuttle/white,/area/space)
+"rD" = (/obj/structure/table/glass,/obj/item/clothing/glasses/sunglasses/prescription,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"rF" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"si" = (/obj/structure/bed/padded,/obj/item/bedsheet/brown,/turf/unsimulated/floor{icon_state = "lino"},/area/space)
+"sq" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/floor,/area/space)
+"sr" = (/obj/structure/table/steel_reinforced,/obj/machinery/recharger,/turf/floor/shuttle/black,/area/space)
+"sS" = (/obj/structure/chair/wood/walnut{dir = 8},/turf/unsimulated/floor/steel,/area/space)
+"sV" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/lattice,/turf/space,/area/space)
+"sX" = (/obj/item/trash/cigbutt,/turf/floor,/area/space)
+"tr" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
+"tL" = (/obj/item/belt/security,/obj/item/belt/security,/obj/structure/table/steel,/turf/floor/shuttle/black,/area/space)
+"tS" = (/obj/structure/closet/emcloset,/turf/floor/tiled/steel_grid,/area/space)
+"tY" = (/turf/unsimulated/floor{icon_state = "asteroid"},/area/space)
+"ur" = (/obj/structure/closet/crate/medical,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"ut" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"uw" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"ux" = (/obj/machinery/door/firedoor{dir = 4},/obj/machinery/door/airlock/centcom{name = "Officer Quarters"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"uX" = (/turf/space,/area/space)
+"vc" = (/obj/structure/chair/office/light{dir = 1},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"vl" = (/obj/structure/rack,/obj/item/toolbox/syndicate/powertools,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"vn" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/centcom{name = "Barracks"; opacity = 1},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"vB" = (/obj/structure/undies_wardrobe,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"vK" = (/obj/structure/chair/office/light{dir = 1},/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"wh" = (/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"wD" = (/obj/machinery/door/firedoor,/obj/structure/window/reinforced/full,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"wE" = (/obj/structure/table/steel,/obj/item/knife{pixel_x = -6},/obj/item/chems/syringe/drugs{pixel_x = 3; pixel_y = 9},/obj/item/chems/syringe/drugs{pixel_x = 3; pixel_y = 4},/obj/item/chems/syringe/drugs{pixel_x = 3; pixel_y = -1},/turf/floor/shuttle/black,/area/space)
+"wT" = (/turf/unsimulated/floor/steel,/area/space)
+"xb" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 8},/turf/space,/area/space)
+"xl" = (/obj/machinery/door/firedoor,/obj/structure/window/reinforced/polarized/full,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"xu" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 10},/turf/wall/shuttle/dark,/area/space)
+"xw" = (/obj/machinery/portable_atmospherics/canister/oxygen,/turf/floor/shuttle/black,/area/space)
+"xC" = (/obj/structure/table/glass,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"xH" = (/obj/machinery/light{dir = 1},/obj/structure/table/steel,/obj/item/roller,/obj/item/roller,/obj/item/roller,/obj/item/defibrillator/compact/combat/loaded,/turf/floor/shuttle/white,/area/space)
+"yf" = (/obj/machinery/optable,/turf/floor/shuttle/white,/area/space)
+"yi" = (/obj/structure/closet/secure_closet/freezer/kitchen{req_access = list(150)},/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"yx" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/machinery/portable_atmospherics/canister/carbon_dioxide,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"yF" = (/obj/structure/table/reinforced,/obj/machinery/microwave{pixel_x = -1; pixel_y = 8},/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"yZ" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 6},/turf/wall/shuttle/dark,/area/space)
+"zc" = (/obj/structure/table/glass,/turf/floor/tiled/steel_grid,/area/space)
+"zy" = (/turf/floor/tiled/steel_grid,/area/space)
+"zP" = (/obj/machinery/light{dir = 8; icon_state = "tube1"; pixel_y = 0},/turf/floor/shuttle/black,/area/space)
+"At" = (/obj/structure/table/glass,/obj/machinery/computer/cryopod{pixel_y = 32},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"AT" = (/obj/structure/window/reinforced,/obj/structure/lattice,/obj/structure/window/reinforced{dir = 4},/turf/space,/area/space)
+"BY" = (/obj/structure/window/reinforced{dir = 1},/obj/machinery/portable_atmospherics/canister/carbon_dioxide,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Cd" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/floor/shuttle/black,/area/space)
+"Cl" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4},/turf/floor/tiled/steel_grid,/area/space)
+"CI" = (/obj/machinery/bodyscanner{dir = 8},/turf/floor/shuttle/white,/area/space)
+"CN" = (/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Dd" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/obj/structure/window/reinforced/full,/turf/floor,/area/space)
+"Di" = (/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/window{dir = 8; name = "Surgery"; req_access = list(150)},/turf/floor/shuttle/white,/area/space)
+"Dl" = (/obj/structure/table/glass,/obj/item/clothing/mask/smokable/cigarette/cigar/havana,/obj/item/clothing/mask/smokable/cigarette/cigar/havana,/obj/item/clothing/mask/smokable/cigarette/cigar/havana,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Dt" = (/obj/structure/window/reinforced{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"Ea" = (/obj/machinery/vending/cigarette{name = "hacked cigarette machine"; products = list(/obj/item/box/fancy/cigarettes=10,/obj/item/box/matches=10,/obj/item/flame/fuelled/lighter/zippo=4,/obj/item/clothing/mask/smokable/cigarette/cigar/havana=2); markup = 0},/turf/floor/shuttle/black,/area/space)
+"Ed" = (/obj/machinery/light,/obj/structure/closet/syndicate/suit{name = "suit closet"},/turf/floor/shuttle/black,/area/space)
+"Ee" = (/obj/structure/table/glass,/obj/item/clothing/glasses/sunglasses/prescription,/obj/item/clothing/glasses/sunglasses/prescription,/obj/item/clothing/glasses/sunglasses/prescription,/turf/unsimulated/floor{icon_state = "lino"},/area/space)
+"Eh" = (/obj/structure/table/steel,/obj/item/toolbox/syndicate/powertools,/turf/floor/shuttle/black,/area/space)
+"Ex" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/table/steel,/obj/item/stack/nanopaste,/obj/item/stack/medical/bandage/advanced,/turf/floor/shuttle/white,/area/space)
+"EF" = (/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"EN" = (/obj/machinery/chemical_dispenser/bar_soft/full,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"EY" = (/obj/machinery/light{dir = 1},/turf/floor/shuttle/darkred,/area/space)
+"Fe" = (/obj/structure/shuttle/engine/heater{icon_state = "heater"; dir = 4},/turf/wall/shuttle/dark,/area/space)
+"Fg" = (/obj/structure/lattice,/obj/structure/window/reinforced,/turf/space,/area/space)
+"FH" = (/obj/structure/table/glass,/turf/unsimulated/floor/steel,/area/space)
+"Gt" = (/obj/machinery/atmospherics/unary/tank/air,/turf/floor/shuttle/black,/area/space)
+"GB" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; direction = 2; name = "thrower_throwdown"; tiles = 0},/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/unsimulated/mineral,/area/space)
+"GH" = (/obj/structure/closet,/obj/item/camera_film,/obj/item/camera_film,/obj/item/camera_film,/obj/item/camera_film,/obj/item/camera,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"GJ" = (/obj/structure/window/reinforced,/obj/structure/lattice,/turf/space,/area/space)
+"GN" = (/obj/structure/chair/wood/walnut,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"GU" = (/obj/structure/table/glass,/obj/item/paper_bin,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"GX" = (/obj/structure/rack,/turf/unsimulated/floor/steel,/area/space)
+"Hd" = (/obj/structure/mirror{dir = 4; pixel_x = -32; pixel_y = 0},/obj/structure/hygiene/sink{dir = 8; pixel_x = -12; pixel_y = 2},/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/space)
+"Hu" = (/obj/structure/rack,/obj/item/belt/utility/full,/obj/item/multitool,/obj/machinery/light/small,/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/obj/item/clothing/mask/breath,/obj/item/clothing/mask/breath,/obj/item/clothing/mask/breath,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/shoes/magboots,/obj/item/clothing/shoes/magboots,/obj/item/clothing/shoes/magboots,/turf/floor,/area/space)
+"Hy" = (/turf/floor/shuttle/white,/area/space)
+"HF" = (/obj/machinery/atmospherics/pipe/manifold4w/visible,/turf/floor/shuttle/black,/area/space)
+"HO" = (/obj/machinery/flasher{pixel_x = -28; pixel_y = 0},/obj/structure/hygiene/toilet{dir = 4},/turf/floor,/area/space)
+"HQ" = (/obj/structure/table/steel_reinforced,/turf/floor/shuttle/black,/area/space)
+"If" = (/obj/structure/shuttle/engine/router{icon_state = "router"; dir = 8},/turf/floor,/area/space)
+"Ig" = (/obj/structure/bed/padded,/obj/item/bedsheet/hos,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Ip" = (/obj/structure/closet,/obj/item/clothing/mask/balaclava,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"IF" = (/obj/structure/window/reinforced{dir = 1},/turf/floor/shuttle/white,/area/space)
+"IW" = (/obj/machinery/light{dir = 4},/turf/floor/shuttle/black,/area/space)
+"Jb" = (/obj/machinery/door/window{dir = 8; name = "Cell"; req_access = list(150)},/turf/floor/tiled/steel_grid,/area/space)
+"Jd" = (/obj/structure/table/glass,/turf/unsimulated/floor{icon_state = "lino"},/area/space)
+"JQ" = (/obj/machinery/sleeper{dir = 8},/turf/floor/shuttle/white,/area/space)
+"JX" = (/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/item/flashlight/flare,/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"JZ" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/centcom{name = "Kitchen"; opacity = 1},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"Ka" = (/obj/machinery/light{dir = 4},/obj/machinery/button/flasher{name = "Flasher"; pixel_x = 27; pixel_y = 0},/turf/floor/shuttle/black,/area/space)
+"KS" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Lj" = (/obj/machinery/light{dir = 8; icon_state = "tube1"; pixel_y = 0},/turf/floor/shuttle/white,/area/space)
+"Ln" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9},/turf/wall/shuttle/dark,/area/space)
+"Lz" = (/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/space)
+"LE" = (/obj/machinery/recharger/wallcharger{pixel_x = 5; pixel_y = 32},/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"LK" = (/obj/machinery/recharger/wallcharger{pixel_x = -25},/obj/structure/table/steel,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/turf/floor/shuttle/black,/area/space)
+"LZ" = (/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Ms" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/floor/tiled/steel_grid,/area/space)
+"My" = (/obj/machinery/door/airlock/centcom{name = "Officer Quarters"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"MD" = (/obj/structure/cryofeed,/obj/effect/floor_decal/industrial/warning/cee{dir = 4},/turf/floor/plating,/area/space)
+"MI" = (/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 8; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
+"Nd" = (/obj/machinery/fabricator/hacked,/turf/floor/shuttle/black,/area/space)
+"Nf" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/centcom{name = "Officer Quarters"},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"Nl" = (/obj/structure/table/glass,/turf/unsimulated/floor{name = "plating"; icon_state = "cult"},/area/space)
+"No" = (/obj/machinery/door/firedoor,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"NE" = (/obj/structure/table/wood/mahogany,/obj/structure/noticeboard{pixel_y = 28},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"NK" = (/obj/machinery/door/blast/regular{density = 0; icon_state = "pdoor0"; name = "Outer Airlock"; opacity = 0},/turf/floor/tiled/steel_grid,/area/space)
+"Ox" = (/obj/structure/closet/crate/plastic/rations,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
+"Oy" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_r"; dir = 4},/turf/floor,/area/space)
+"OF" = (/obj/machinery/constructable_frame/computerframe{dir = 8},/turf/floor/shuttle/black,/area/space)
+"OI" = (/obj/structure/closet{name = "custodial"},/obj/item/mop,/obj/item/chems/spray/cleaner,/obj/item/chems/glass/bucket,/turf/floor/shuttle/black,/area/space)
+"OW" = (/obj/structure/table/glass,/obj/item/megaphone,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Pe" = (/obj/structure/noticeboard{pixel_y = 28},/turf/unsimulated/floor{name = "plating"; icon_state = "cult"},/area/space)
+"Pn" = (/turf/floor,/area/space)
+"PL" = (/obj/machinery/atmospherics/pipe/manifold/visible{icon_state = "map"; dir = 8},/turf/floor/shuttle/white,/area/space)
+"Qx" = (/obj/machinery/door/airlock{name = "Unit 2"},/obj/machinery/door/firedoor{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"QV" = (/obj/structure/chair/office/light{dir = 4},/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"QW" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/obj/structure/window/reinforced/full,/turf/floor,/area/space)
+"QX" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 4},/turf/space,/area/space)
+"Rc" = (/obj/machinery/door/airlock/external{req_access = list(150)},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"Rd" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_l"; dir = 4},/turf/floor,/area/space)
+"Rk" = (/obj/structure/table/steel,/turf/floor/shuttle/black,/area/space)
+"Rt" = (/obj/machinery/door/firedoor,/obj/machinery/door/airlock/centcom{name = "Mission Control"; opacity = 1},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"RN" = (/obj/structure/undies_wardrobe,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 4},/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/space)
+"RR" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 8},/obj/machinery/light/small,/turf/floor/tiled/steel_grid,/area/space)
+"RT" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/machinery/portable_atmospherics/canister/oxygen,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"SA" = (/obj/structure/table/glass,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"SG" = (/obj/machinery/body_scanconsole{dir = 8},/turf/floor/shuttle/white,/area/space)
+"Tb" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/floor,/area/space)
+"Tf" = (/obj/structure/window/reinforced,/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"TA" = (/obj/machinery/light,/obj/machinery/constructable_frame/computerframe{dir = 1},/turf/floor/shuttle/black,/area/space)
+"TC" = (/obj/effect/floor_decal/industrial/warning/cee{dir = 8},/obj/structure/cryofeed{dir = 4},/turf/floor/plating,/area/space)
+"TI" = (/obj/machinery/recharge_station,/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/space)
+"TM" = (/obj/machinery/recharge_station,/turf/floor/shuttle/black,/area/space)
+"TU" = (/obj/machinery/turretid{pixel_x = 32; req_access = list(157)},/turf/floor/shuttle/black,/area/space)
+"TX" = (/obj/structure/hygiene/toilet{dir = 8},/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/space)
+"Ud" = (/obj/item/gun/energy/ionrifle,/obj/machinery/recharger/wallcharger{pixel_x = 5; pixel_y = 32},/obj/item/gun/energy/ionrifle,/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"Ue" = (/obj/structure/table/glass,/obj/item/paper_bin,/obj/structure/noticeboard{pixel_y = 28},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"US" = (/turf/unsimulated/mineral,/area/space)
+"Va" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"Vb" = (/obj/structure/chair/office/light{dir = 4},/turf/unsimulated/floor/steel,/area/space)
+"Vq" = (/obj/structure/closet/secure_closet/medical_wall{pixel_x = 32; pixel_y = 0; req_access = list(150)},/obj/item/clothing/mask/breath/medical,/obj/item/clothing/mask/surgical,/obj/structure/hygiene/sink{dir = 4; pixel_x = 11},/obj/item/clothing/gloves/latex,/obj/item/chems/syringe,/obj/item/chems/glass/bottle/sedatives,/obj/item/chems/glass/bottle/sedatives,/turf/floor/shuttle/white,/area/space)
+"VB" = (/obj/item/gun/energy/gun,/obj/item/gun/energy/gun,/obj/item/gun/energy/gun,/obj/structure/rack,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
+"VC" = (/obj/structure/curtain/open/shower/security,/obj/structure/hygiene/shower{pixel_y = 9},/turf/unsimulated/floor{icon_state = "freezerfloor"; dir = 2},/area/space)
+"VD" = (/obj/machinery/cryopod{dir = 4},/turf/floor/tiled/steel_grid,/area/space)
+"VP" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/wall/shuttle/dark,/area/space)
+"VR" = (/obj/structure/shuttle/engine/heater{icon_state = "heater"; dir = 4},/obj/machinery/turretid{pixel_x = 32; req_access = list(150)},/obj/machinery/turretid{pixel_x = 32; req_access = list(150)},/turf/wall/shuttle/dark,/area/space)
+"Wd" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/table/steel,/obj/item/firstaid/surgery,/turf/floor/shuttle/white,/area/space)
+"Wn" = (/obj/structure/noticeboard{pixel_y = 28},/obj/structure/dogbed,/turf/unsimulated/floor{icon_state = "white"},/area/space)
+"WL" = (/obj/structure/closet/secure_closet/medical_wall{pixel_y = 32},/obj/item/bodybag,/obj/item/chems/glass/bottle/antitoxin{pixel_x = -4; pixel_y = 8},/obj/item/chems/glass/bottle/stabilizer{pixel_x = 4; pixel_y = 7},/obj/item/chems/syringe,/obj/item/firstaid/combat,/obj/item/firstaid/clotting,/turf/floor/shuttle/white,/area/space)
+"Xi" = (/obj/structure/window/reinforced,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"XF" = (/obj/structure/rack,/obj/item/belt/utility/full,/obj/item/multitool,/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/suit/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/obj/item/clothing/head/helmet/space/syndicate/black,/obj/item/clothing/mask/breath,/obj/item/clothing/mask/breath,/obj/item/clothing/mask/breath,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/mask/gas/syndicate,/obj/item/clothing/shoes/magboots,/obj/item/clothing/shoes/magboots,/obj/item/clothing/shoes/magboots,/turf/floor,/area/space)
+"Yc" = (/obj/machinery/constructable_frame/computerframe{dir = 1},/turf/floor/shuttle/black,/area/space)
+"Yk" = (/obj/machinery/door/airlock/external/bolted,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
+"Ys" = (/obj/effect/step_trigger/thrower{affect_ghosts = 1; direction = 2; name = "thrower_throwdown"; tiles = 0},/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/unsimulated/mineral,/area/space)
+"YC" = (/obj/structure/rack,/obj/item/clothing/glasses/night,/obj/item/clothing/glasses/night,/obj/item/clothing/glasses/night,/obj/item/clothing/glasses/night,/obj/item/clothing/glasses/night,/obj/item/clothing/glasses/night,/obj/machinery/light/small{dir = 1},/turf/floor,/area/space)
+"Zf" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9},/turf/floor/shuttle/black,/area/space)
+"ZB" = (/turf/unsimulated/floor{name = "plating"; icon_state = "cult"},/area/space)
+"ZN" = (/obj/machinery/recharger/wallcharger{pixel_x = -25},/obj/structure/table/steel,/obj/machinery/light{dir = 8; icon_state = "tube1"; pixel_y = 0},/obj/item/box/frags,/turf/floor/shuttle/black,/area/space)
+
+(1,1,1) = {"
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYtYUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYUSUSUStYtYtYtYtYtYtYtYtYtYUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYtYtYUStYtYtYtYtYtYtYtYtYtYtYUSUSUSUSUSUSUSUSUSUSiriririririrUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYUSUSUSUSUSUSUSUSUSirirUSUSUSUSirirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYUSUSUSUSUSUSUSUSUSirUSUSUSUSUSUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYtYUSUSUSUSUStYtYtYUSUSirUSUStYtYUSUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYUSUStYtYtYtYtYtYtYtYUSUSUSUSUSUStYtYtYtYtYtYirUStYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYtYUSUSUSUSUSUStYtYtYtYtYtYtYirUStYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYUSUSUSUSUSUSUStYtYtYtYtYtYtYirtYtYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUStYtYtYtYUSUSUSUSUSUStYtYtYtYtYtYtYoUiroUtYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSiriririririririrUSUSUSUSUSUSUSUSUStYtYtYtYUSUSUSUSUSUStYtYtYtYtYtYtYoUMyoUtYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSirirzcSAAtmNgizcirirUSUSUSUSUSUSUStYtYtYtYtYtYUSUSUSUStYtYtYtYtYtYtYtYoUiroUtYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSirTCVDLZwTwTLZaXMDirUSUSUSUSUSUSUStYtYtYtYtYtYtYUSUStYtYtYtYtYtYtYtYtYtYirtYtYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSirTCVDLZwTwTLZaXMDirUSUSUSUSUSUStYtYtYtYtYtYtYtYtYtYtYtYtYtYtYUSUSUStYtYirtYtYtYtYtYUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSUSUSUSUSUSirTCVDLZwTwTLZaXMDiriririririririrtYtYoUoUoUtYtYtYtYtYtYtYUSUSUSUSUStYtYirtYtYtYtYUSUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSiririririririrtSLZLZLZLZtSirirwhwhLZLZLEUdiriririrNfiririrUSUSUSUSUSUSUSUSUSUSUStYirtYtYtYtYUSUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirirCNCNCNCNCNiririrNoNowDirirvlwTwTwTwTwTwTVBirLZLZLZLZLZiriririririrUSUSUSUSUSUSUSirtYtYtYUSUSUSirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZLZLZLZLZLZLZirLZLZLZLZLZireswTGXwTwTGXwTVBirLZwTwTwTLZirNEbMbfvBirirUSUSUSUSUSUSirirUSUSUSUSirirUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZaOaOaOaOaOLZirLZwTwTwTLZirJXwTGXwTwTGXwTwhirLZwTwTwTLZirLZvcLZLZIgirUSUSUSUSUSUSUSiriririririrUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZaOOxaOaOaOLZirLZwTwTwTLZiraVwTGXwTwTGXwTwhirLZwTwTwTLZuxLZLZLZLZDlirUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZaOaOaOuraOLZirLZwTwTwTLZirwhwTwTwTwTwTwTwhirLZwTwTwTLZirLZLZLZLZIpirUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZaOaOaOaOaOLZovLZwTwTwTLZirwDwDirlFlFirwDwDirLZwTwTwTLZiririririririririririrUSUSUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZifaOaOaOaOLZovLZwTwTwTLZirmlutnrwTwTndBYyxirLZwTwTwTLZirENEFEFEFmEirVCRNVCiririrUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZaOaOaOaOaOLZirLZwTwTwTLZovwTwTwTwTwTwTwTwTovLZwTwTwTLZirEFEFEFEFyFirLzLzLzQxTIirUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZLZLZLZLZLZLZirLZwTwTwTLZovwTwTwTwTwTwTwTwTovLZwTwTwTLZirihEFEFEFihirHdLzLziririrUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSiriririrNoiriririrLZLZLZLZLZirrFTfKSwTwTRTcjoiirLZLZLZLZLZiryiEFEFEFaIirLzLzLzclTXirUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirSAUeSALZLZCNGHiririrNoiririrxlxlirRtRtirxlxlirirvniriririririrJZiriririrfsiriririrUSUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSirirSAwTFHsSwTwTLZirLZLZLZLZLZirSAxCrDEFEFWnGUSAirLZLZLZLZLZlBZBZBZBPeZBirfufusifusiirirUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirSAVbFHsSwTwTLZovLZwTwTwTLZirSAQVEFLZLZEFEFLZirLZwTwTwTLZirZBZBZBZBZBirfufufufufuEeirirUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSirirSAwTFHwTwTwTLZirLZwTwTwTLZirLZLZLZGNGNEFEFLZirLZwTwTwTLZfpZBZBNlZBZBfpfufusifusiJdirUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirLZLZLZLZLZLZLZirLZwTwTwTLZirLZLZSAxCxCOWLZCNirSAwTwTwTLZirZBZBNlZBZBirfufufufufuEeirirUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSirirwDwDwDwDwDirirLZLZwTLZLZirLZLZLZvKEFLZLZCNirjALZLZLZLZlBZBZBNlZBZBirfufusifusiirirUSUSUSUSUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXirirLZwTLZiriririrSAxCxCSAiriririrRcRciriririrZBZBZBiririrwDwDwDiriruXuXuXuXuXUSUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXirLZwTLZiruXuXirxlxlxlxliruXuXebeQDtsVfQfQirwDwDwDiruXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXirLZLZLZiruXuXuXuXuXuXuXuXuXuXebeQDtsVuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUS
+USUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXirirYkiriruXuXuXuXuXuXuXuXuXuXebRcRcsVuXuXuXuXuXuXememdTrvtremememememememuXuXuXUSUSUSUSUSUSUS
+USUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXebefsVuXuXuXuXuXuXuXuXuXuXuXemNKNKemuXuXuXememememRkjQjQjQjQjQNdemFeIfOyuXuXuXUSUSUSUSUSUSUS
+USUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXQXejsVuXuXuXuXuXuXuXememememyZcJqDVPxuemememGtxwemZNjQjQjQjQjQfremFeIfsquXuXuXUSUSUSUSUSUSUS
+USUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXQXejxbuXuXuXuXuXemememfPfPfPbjRRClMsHFCdCdhaZfjQemLKjQjQjQememememFeIfsquXuXuXuXUSUSUSUSUSUS
+USUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXQXejxbuXuXuXememememfPfPfPemoQTbTbVPLnjQjQjQjQjQemRkjQjQjQemeKTMemFeIfRduXuXuXuXUSUSUSUSUSUS
+USUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXQXejxbuXuXememkBjQemfPfPfPemtLawEhRkempAEdjQjQemememjUjQjQzyjQjQemememememuXuXuXuXUSUSUSUSUS
+USUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXQXejxbuXuXMIHQjQjQemfPfPdWemzPjQjQIWememememzyemEaemdozyememjQbpemffYCfOememuXuXuXuXUSUSUSUS
+USUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXFgATejGJlvuXMIOFjQTUemfPfPfPemjQjQjQjQemfPEYcDfPfPfPfPEYfPfPememememjQjQjQemFesquXuXuXUSUSUSUS
+USUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXYkuwXiValvuXMIlnjQjQzyfPfPfPzyjQjQjQjQzyfPfPfPfPfPfPfPfPfPfPfPfPfPzyjQjQjQemFesquXuXuXUSUSUSUS
+USUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXnInInInIlvuXMIOFjQjQemfPfPfPemjQjQjQjQemfPeOfPfPfPfPfPeOfPfPememememjQjQjQemFeRduXuXuXUSUSUSUS
+USUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXMIsrjQjQemfPfPdWemzPjQjQIWememememzyemctemdozyememHyHyemXFHujPememuXuXuXuXuXUSUSUS
+USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememTAYcemfPfPfPemjQjQjQjQemsXgndojQemememxHHyWLHyPLooemememememuXuXuXuXuXuXUSUSUS
+USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememememfPfPfPemememzyememjjPnJbjQjQemJQHyHyHynygVrwemFeIfOyuXuXuXuXuXuXuXUSUSUS
+USUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXemememfPfPfPemeKjQemHOPnPndojQKaemHyHyHyHyDiIFrbemFeIfsquXuXuXuXuXuXlvlvUSUS
+USUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXemememememOIkgemememememRkwEemLjHyHyfjExHyVqemFeIfsquXuXuXuXuXlvlvuXUSUS
+USUSlvlvuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememememuXuXuXememememCISGHymVWdyfqGemVRIfRduXuXuXuXlvlvuXuXUSUS
+USUSuXlvlvuXuXUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememDdggQWememememuXuXuXuXuXuXlvlvuXuXuXUSUS
+USUSuXuXlvlvUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSuXuXuXuXuXUS
+USUSuXuXuXUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSuXuXuXuXUS
+USUSuXuXuXUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUSUSuXuXuXuXUS
+USUSuXuXuXUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUSUSuXuXuXuXuXUS
+USUSuXuXuXuXUSUSUSUSUSUSUSlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvlvUSUSUSUSUSUSUSUSUSuXuXuXuXuXuXUS
+USUSUSuXuXuXuXUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUSuXuXuXuXuXuXUSUS
+USUSUSuXuXuXuXuXuXuXUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSuXuXuXuXuXuXuXuXUSUS
+USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUS
+GBYsYsjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqriririririririririririjqjqjqjqjqjqjqjqjqjqjqjqjqYsYsUS
+USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUS
+USUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUS
+"}
