@@ -3,11 +3,11 @@
 	hud_icon_state = "hudassistant"
 	total_positions = -1
 	spawn_positions = -1
-	supervisors = "local law" //is this true?
+	supervisors = "local law"
 	economic_power = 5
 	access = list()
 	minimal_access = list()
-//	alt_titles = list("Technical Assistant","Medical Intern","Research Assistant","Visitor")
+	alt_titles = list("Visitor")
 	outfit_type = /decl/outfit/job/generic/tourist
 	department_types = list(/decl/department/civilian)
 
@@ -136,7 +136,7 @@
 	)
 	minimal_player_age = 3
 	ideal_character_age = 40
-	outfit_type = /decl/outfit/job/cargo/qm
+	outfit_type = /decl/outfit/job/cargo/qm/lonestar
 	min_skill = list(
 		SKILL_LITERACY = SKILL_ADEPT,
 	    SKILL_FINANCE  = SKILL_BASIC,
@@ -173,14 +173,14 @@
 		access_cargo_bot,
 		access_mailsorting
 	)
-	outfit_type = /decl/outfit/job/cargo/cargo_tech
+	outfit_type = /decl/outfit/job/cargo/cargo_tech/lonestar
 	min_skill = list(
 		SKILL_LITERACY = SKILL_ADEPT,
 		SKILL_FINANCE  = SKILL_BASIC,
 		SKILL_HAULING  = SKILL_BASIC
 	)
 	max_skill = list(
-		SKILL_PILOT    = SKILL_MAX
+		SKILL_PILOT    = SKILL_ADEPT
 	)
 	software_on_spawn = list(
 		/datum/computer_file/program/supply,
@@ -285,39 +285,6 @@
 		SKILL_HAULING  = SKILL_BASIC
 	)
 	event_categories = list(ASSIGNMENT_JANITOR)
-
-/datum/job/lonestar/lawyer
-	title = "Publid Defender"
-	hud_icon_state = "hudia"
-	department_types = list(/decl/department/support)
-	total_positions = 2
-	spawn_positions = 2
-	supervisors = "company officials and Corporate Regulations"
-	economic_power = 7
-	access = list(
-		access_lawyer,
-		access_sec_doors,
-		access_maint_tunnels,
-		access_bridge
-	)
-	minimal_access = list(
-		access_lawyer,
-		access_sec_doors,
-		access_bridge
-	)
-	minimal_player_age = 10
-	outfit_type = /decl/outfit/job/lonestar_lawyer
-	min_skill = list(
-		SKILL_LITERACY = SKILL_ADEPT,
-		SKILL_FINANCE  = SKILL_BASIC
-	)
-	skill_points = 20
-	software_on_spawn = list(/datum/computer_file/program/reports)
-
-/datum/job/standard/lawyer/equip_job(var/mob/living/human/H)
-	. = ..()
-	if(.)
-		H.implant_loyalty(H)
 
 /obj/item/card/id/cargo
 	name = "identification card"

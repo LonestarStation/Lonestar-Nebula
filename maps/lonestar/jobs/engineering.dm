@@ -21,6 +21,7 @@
 		access_engine_equip,
 		access_tech_storage,
 		access_maint_tunnels,
+		access_pest_control,
 		access_heads,
 		access_teleporter,
 		access_external_airlocks,
@@ -41,6 +42,7 @@
 		access_engine_equip,
 		access_tech_storage,
 		access_maint_tunnels,
+		access_pest_control,
 		access_heads,
 		access_teleporter,
 		access_external_airlocks,
@@ -164,18 +166,16 @@
 	economic_power = 3
 	minimal_player_age = 7
 	access = list(
-		access_tech_storage,
+		access_pest_control,
 		access_maint_tunnels,
 		access_external_airlocks,
-		access_construction,
-		access_emergency_storage
+		access_construction
 	)
 	minimal_access = list(
-		access_tech_storage,
+		access_pest_control,
 		access_maint_tunnels,
 		access_external_airlocks,
-		access_construction,
-		access_emergency_storage
+		access_construction
 	)
 	alt_titles = list(
 		"Exterminator",

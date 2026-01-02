@@ -203,12 +203,6 @@
 	icon = 'icons/clothing/head/turban.dmi'
 	accessory_slot = null // cannot be equipped on top of helmets
 
-/obj/item/clothing/head/cowboy_hat
-	name = "cowboy hat"
-	desc = "A wide-brimmed hat, in the prevalent style of America's frontier period. By law, you are required to wear this hat while watching True Grit."
-	icon = 'icons/clothing/head/cowboy.dmi'
-	protects_against_weather = TRUE
-
 /obj/item/clothing/head/taqiyah
 	name = "taqiyah"
 	desc = "A short, rounded skullcap usually worn for religious purposes."

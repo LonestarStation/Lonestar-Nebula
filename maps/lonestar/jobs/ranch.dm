@@ -13,6 +13,8 @@
 	req_admin_notify = 1
 	economic_power = 15
 	access = list(
+		access_ranch,
+		access_ranchman,
 		access_rd,
 		access_bridge,
 		access_tox,
@@ -21,17 +23,21 @@
 		access_heads,
 		access_xenobiology,
 		access_RC_announce,
+		access_maint_tunnels,
 		access_keycard_auth
 	)
-	minimal_access = list(access_rd,
+	minimal_access = list(
+		access_ranch,
+		access_ranchman,
+		access_rd,
 		access_bridge,
 		access_tox,
 		access_morgue,
 		access_tox_storage,
-		access_sec_doors,
 		access_heads,
 		access_xenobiology,
 		access_RC_announce,
+		access_maint_tunnels,
 		access_keycard_auth
 	)
 	minimal_player_age = 14
@@ -69,19 +75,20 @@
 	hud_icon_state = "hudscientist"
 	economic_power = 7
 	access = list(
-		access_robotics,
+		access_ranch,
+		access_maint_tunnels,
 		access_tox,
 		access_tox_storage,
 		access_research,
 		access_xenobiology,
-		access_xenoarch,
 		access_hydroponics
 	)
 	minimal_access = list(
+		access_ranch,
+		access_maint_tunnels,
 		access_tox,
 		access_tox_storage,
 		access_research,
-		access_xenoarch,
 		access_xenobiology,
 		access_hydroponics
 	)
@@ -115,10 +122,12 @@
 	selection_color = "#633d63"
 	economic_power = 5
 	access = list(
-		access_ranch
+		access_ranch,
+		access_maint_tunnels
 	)
 	minimal_access = list(
-		access_ranch
+		access_ranch,
+		access_maint_tunnels
 	)
 	minimal_player_age = 3
 	outfit_type = /decl/outfit/job/ranch/rodeo_clown

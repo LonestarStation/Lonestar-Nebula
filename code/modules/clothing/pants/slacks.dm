@@ -104,7 +104,7 @@
 		/obj/item/clothing/suit/jacket/charcoal
 	)
 
-/obj/item/clothing/pants/slacks/black/outfit/navy
+/obj/item/clothing/pants/slacks/navy/outfit/navy
 	starting_accessories = list(
 		/obj/item/clothing/shirt/button,
 		/obj/item/clothing/neck/tie/red,
@@ -153,3 +153,10 @@
 	name = "navy slacks"
 	desc = "Some formal navy blue slacks."
 	icon = 'icons/clothing/pants/slacks_navy.dmi'
+
+/obj/item/clothing/pants/slacks/blue/outfit/blue
+	starting_accessories = list(
+		/obj/item/clothing/shirt/button,
+		/obj/item/clothing/neck/tie/red,
+		/obj/item/clothing/suit/jacket/blue
+	)

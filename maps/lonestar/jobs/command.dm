@@ -34,11 +34,6 @@
 		/datum/computer_file/program/reports
 	)
 
-/datum/job/lonestar/steward/equip_job(var/mob/living/human/H)
-	. = ..()
-	if(.)
-		H.implant_loyalty(src)
-
 /datum/job/lonestar/steward/get_access()
 	return get_all_station_access()
 
@@ -133,7 +128,6 @@
 		access_qm,
 		access_hydroponics,
 		access_lawyer,
-		access_chapel_office,
 		access_library,
 		access_research,
 		access_garage,
@@ -161,7 +155,7 @@
 /datum/job/lonestar/lawyer
 	title = "Lonestar Lawyer"
 	hud_icon_state = "hudia"
-	department_types = list(/decl/department/support)
+	department_types = list(/decl/department/command)
 	total_positions = 2
 	spawn_positions = 2
 	supervisors = "company officials and Corporate Regulations"
@@ -174,8 +168,15 @@
 	)
 	minimal_access = list(
 		access_lawyer,
+		access_maint_tunnels,
 		access_sec_doors,
 		access_bridge
+	)
+	alt_titles = list(
+		"Legal Scholar",
+		"Public Defender",
+		"Solgov Lawyer",
+		"Nanotrasen Lawyer"
 	)
 	minimal_player_age = 10
 	outfit_type = /decl/outfit/job/lonestar_lawyer
@@ -185,8 +186,3 @@
 	)
 	skill_points = 20
 	software_on_spawn = list(/datum/computer_file/program/reports)
-
-/datum/job/standard/lawyer/equip_job(var/mob/living/human/H)
-	. = ..()
-	if(.)
-		H.implant_loyalty(H)

@@ -93,6 +93,7 @@
 		access_medical_equip,
 		access_morgue,
 		access_surgery,
+		access_commando,
 		access_chemistry,
 		access_virology,
 		access_eva,
@@ -103,6 +104,11 @@
 	minimal_access = list(
 		access_medical,
 		access_medical_equip,
+		access_surgery,
+		access_commando,
+		access_chemistry,
+		access_virology,
+		access_eva,
 		access_morgue,
 		access_eva,
 		access_maint_tunnels,
@@ -143,17 +149,17 @@
 	selection_color = "#013d3b"
 	economic_power = 3
 	access = list(
+		access_maint_tunnels,
 		access_medical,
 		access_medical_equip,
 		access_morgue,
-		access_surgery,
-		access_chemistry,
-		access_virology
+		access_commando
 	)
 	minimal_access = list(
+		access_maint_tunnels,
 		access_medical,
 		access_medical_equip,
-		access_chemistry
+		access_commando
 	)
 	outfit_type = /decl/outfit/job/medical/commando
 	min_skill = list(
