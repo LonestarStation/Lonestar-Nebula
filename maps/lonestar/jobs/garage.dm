@@ -13,7 +13,8 @@
 	req_admin_notify = 1
 	economic_power = 15
 	access = list(
-		access_rd,
+		access_head_mechanic,
+		access_garage,
 		access_bridge,
 		access_tox,
 		access_morgue,
@@ -28,10 +29,13 @@
 		access_RC_announce,
 		access_keycard_auth,
 		access_tcomsat,
+		access_maint_tunnels,
 		access_gateway,
 		access_network
 	)
-	minimal_access = list(access_rd,
+	minimal_access = list(
+		access_head_mechanic,
+		access_garage,
 		access_bridge,
 		access_tox,
 		access_morgue,
@@ -46,6 +50,7 @@
 		access_RC_announce,
 		access_keycard_auth,
 		access_tcomsat,
+		access_maint_tunnels,
 		access_gateway,
 		access_network
 	)
@@ -63,11 +68,19 @@
 		SKILL_COMPUTER = SKILL_BASIC,
 		SKILL_FINANCE  = SKILL_ADEPT,
 		SKILL_DEVICES  = SKILL_BASIC,
-		SKILL_SCIENCE  = SKILL_ADEPT)
+		SKILL_SCIENCE  = SKILL_ADEPT,
+		SKILL_MECH     = HAS_PERK
+	)
 	max_skill = list(
+		SKILL_CONSTRUCTION = SKILL_MAX,
+	    SKILL_ELECTRICAL   = SKILL_MAX,
+	    SKILL_ATMOS        = SKILL_EXPERT,
+	    SKILL_ENGINES      = SKILL_EXPERT,
 		SKILL_ANATOMY  = SKILL_MAX,
 		SKILL_DEVICES  = SKILL_MAX,
-		SKILL_SCIENCE  = SKILL_MAX
+		SKILL_SCIENCE  = SKILL_MAX,
+		SKILL_MEDICAL      = SKILL_EXPERT,
+	    SKILL_ANATOMY      = SKILL_EXPERT
 	)
 	skill_points = 30
 	event_categories = list(ASSIGNMENT_SCIENTIST)
@@ -84,20 +97,21 @@
 	economic_power = 7
 	access = list(
 		access_robotics,
+		access_garage,
 		access_tox,
 		access_tox_storage,
-		access_research,
-		access_xenobiology,
-		access_xenoarch,
-		access_hydroponics
+		access_maint_tunnels,
+		access_tech_storage,
+		access_research
 	)
 	minimal_access = list(
+		access_robotics,
+		access_garage,
 		access_tox,
 		access_tox_storage,
-		access_research,
-		access_xenoarch,
-		access_xenobiology,
-		access_hydroponics
+		access_maint_tunnels,
+		access_tech_storage,
+		access_research
 	)
 	alt_titles = list(
 		"Biomechanical Engineer",
@@ -139,10 +153,12 @@
 	economic_power = 2
 	access = list(
 		access_garage,
+		access_maint_tunnels,
 		access_delivery
 	)
 	minimal_access = list(
 		access_garage,
+		access_maint_tunnels,
 		access_delivery
 	)
 	minimal_player_age = 3
@@ -160,8 +176,7 @@
 	    SKILL_ATMOS        = SKILL_EXPERT,
 	    SKILL_ENGINES      = SKILL_EXPERT,
 	    SKILL_DEVICES      = SKILL_MAX,
-	    SKILL_MEDICAL      = SKILL_EXPERT,
-	    SKILL_ANATOMY      = SKILL_EXPERT
+	    SKILL_PILOT    	   = SKILL_MAX
 	)
 	skill_points = 20
 
