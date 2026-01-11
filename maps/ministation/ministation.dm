@@ -20,6 +20,7 @@ Twice...
 	#include "../../mods/content/mundane.dm"
 	#include "../../mods/content/scaling_descriptors.dm"
 
+	#include "../../mods/content/augments/_augments.dme"
 	#include "../../mods/content/bigpharma/_bigpharma.dme"
 	#include "../../mods/content/blob/_blob.dme"
 	#include "../../mods/content/corporate/_corporate.dme"
@@ -30,6 +31,7 @@ Twice...
 	#include "../../mods/content/mouse_highlights/_mouse_highlight.dme"
 	#include "../../mods/content/pheromones/_pheromones.dme"
 	#include "../../mods/content/psionics/_psionics.dme"
+	#include "../../mods/content/sealant_gun/_sealant_gun.dme"
 	#include "../../mods/content/standard_jobs/_standard_jobs.dme"
 	#include "../../mods/content/supermatter/_supermatter.dme"
 	#include "../../mods/content/ventcrawl/_ventcrawl.dme"

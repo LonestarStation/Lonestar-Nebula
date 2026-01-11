@@ -10,6 +10,16 @@ var/global/datum/reagents/sink/infinite_reagent_sink = new
 /atom/proc/remove_any_reagents(amount = 1, defer_update = FALSE, removed_phases = (MAT_PHASE_LIQUID | MAT_PHASE_SOLID), skip_reagents = null)
 	return reagents?.remove_any(amount, defer_update, removed_phases, skip_reagents)
 
+/// Adds reagents, but contaminated. A fraction of `amount` is replaced with `contaminant_type` according to `contaminant_proportion`.
+/// Handles null contaminant_type and zero contaminant_proportion, but it's probably faster to check before you call this.
+/atom/proc/add_to_reagents_contaminated(reagent_type, amount, data, contaminant_type = null, contaminant_proportion = 0, safety = FALSE, defer_update = FALSE, phase = null)
+	var/contaminant_to_add = 0
+	if(contaminant_type)
+		contaminant_to_add = CHEMS_QUANTIZE(amount * contaminant_proportion)
+	add_to_reagents(reagent_type, amount - contaminant_to_add, data, safety = safety, defer_update = !!contaminant_to_add, phase = MAT_PHASE_LIQUID)
+	if(contaminant_to_add)
+		add_to_reagents(contaminant_type, contaminant_to_add, phase = MAT_PHASE_LIQUID)
+
 /atom/proc/get_reagent_space()
 	if(!REAGENT_MAXIMUM_VOLUME(reagents))
 		return 0
@@ -110,7 +120,7 @@ var/global/datum/reagents/sink/infinite_reagent_sink = new
 	return clone
 
 /datum/reagents/proc/get_reaction_loc(chemical_reaction_flags)
-	if((chemical_reaction_flags & CHEM_REACTION_FLAG_OVERFLOW_CONTAINER) && ATOM_IS_OPEN_CONTAINER(my_atom))
+	if((chemical_reaction_flags & CHEM_REACTION_FLAG_OVERFLOW_CONTAINER) && my_atom.reaction_can_overflow())
 		return get_turf(my_atom)
 	return my_atom
 
