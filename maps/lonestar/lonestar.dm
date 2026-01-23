@@ -79,6 +79,14 @@
 	#include "offsite/_offsite.dm"
 //	#include "dungeon/_dungeon.dm"
 
+	#include "shuttles/_shuttles.dm"
+	#include "shuttles/crew_shuttles.dm"
+	#include "shuttles/homestead_bus.dm"
+	#include "shuttles/hunter_shuttle.dm"
+	#include "shuttles/outlaw_ship.dm"
+	#include "shuttles/privateer_ship.dm"
+	#include "shuttles/response_ship.dm"
+
 	#include "lonestar_goals.dm"
 
 	#include "lonestar_announcements.dm"
@@ -87,18 +95,17 @@
 	#include "lonestar_elevator.dm"
 	#include "lonestar_levels.dm"
 	#include "lonestar_loadout.dm"
-//	#include "lonestar_overmap.dm"
-//	#include "lonestar_setup.dm"
-//	#include "lonestar_shuttles.dm"
+	#include "lonestar_overmap.dm"
+	#include "lonestar_setup.dm"
 
 	#include "lonestar-01.dmm" //Deck 01
 	#include "lonestar-02.dmm" //Deck 02
 	#include "lonestar-03.dmm" //Deck 03
-	#include "lonestar-04.dmm" //TODO: Roof Solars
+	#include "lonestar-04.dmm" //Topside
 	#include "lonestar-05.dmm" //Slammer
 	#include "lonestar-06.dmm" //Scrapyard
 	#include "lonestar-07.dmm" //Substation: Carl's
-//	#include "lonestar-08.dmm"
+	#include "lonestar-08.dmm" //Transit Satellite
 //	#include "lonestar-09.dmm"
 //	#include "lonestar-11.dmm"
 

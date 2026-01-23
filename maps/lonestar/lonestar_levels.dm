@@ -8,7 +8,7 @@
 	abstract_type = /datum/level_data/main_level/lonestar_station
 	ambient_light_level = 1
 	ambient_light_color = "#f3e6ca"
-	strata = /decl/strata/lonestar_station
+//	strata = /decl/strata/lonestar_station
 	exterior_atmosphere = null
 	daycycle_type = /datum/daycycle/lonestar_station
 	daycycle_id = "daycycle_lonestar_station"
@@ -103,10 +103,10 @@
 /datum/level_data/main_level/lonestar_station/slammer
 	name = "the Slammer, Lonestar Station"
 	level_id = "lonestar_slammer"
-	level_generators = list(
-		/datum/random_map/automata/cave_system/lonestar,
-		/datum/random_map/noise/ore/rich
-	)
+//	level_generators = list(
+//		/datum/random_map/automata/cave_system/lonestar,
+//		/datum/random_map/noise/ore/rich
+//	)
 	base_turf = /turf/floor/barren
 	connected_levels = list(
 		"lonestar_wrecking_yard"       = NORTH,
@@ -164,6 +164,10 @@
 	)
 	return mobs_to_spawn
 
+/datum/level_data/main_level/lonestar_station/transfer
+	name = "\improper Transfer Satellite, Lonestar Station"
+	level_id = "lonestar_transfer_station"
+
 //Level Data Spawners
 /obj/abstract/level_data_spawner/lonestar_station_one
 	level_data_type = /datum/level_data/main_level/lonestar_station/deck_one
@@ -186,6 +190,10 @@
 /obj/abstract/level_data_spawner/lonestar_mining_station
 	level_data_type = /datum/level_data/main_level/lonestar_station/mining
 
+/obj/abstract/level_data_spawner/lonestar_transfer_station
+	level_data_type = /datum/level_data/main_level/lonestar_station/transfer
+
+/*
 //Lonestar Strata
 /decl/strata/lonestar_station
 	name = "asteroid rock"
@@ -206,3 +214,4 @@
 	wall_type           = /turf/wall/natural
 	sparse_mineral_turf = /turf/wall/natural
 	rich_mineral_turf   = /turf/wall/natural
+*/

@@ -9,6 +9,7 @@
 /area/lonestar/yard/wrecking
 	name = "Lonestar Wrecking Yard"
 	icon_state = "purple"
+	turf_initializer = /decl/turf_initializer/maintenance
 
 /area/lonestar/yard/asteroid
 	name = "Cliff Pathway"

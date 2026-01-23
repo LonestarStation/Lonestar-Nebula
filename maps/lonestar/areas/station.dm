@@ -114,7 +114,7 @@
 //	base_turf = /turf/floor/barren
 	area_flags = AREA_FLAG_RAD_SHIELDED
 	sound_env = TUNNEL_ENCLOSED
-//	turf_initializer = new /datum/turf_initializer/maintenance() //TO DO: this, I guess?
+	turf_initializer = /decl/turf_initializer/maintenance
 	ambience = list('sound/ambience/ambigen3.ogg','sound/ambience/ambigen4.ogg','sound/ambience/ambigen5.ogg','sound/ambience/ambigen6.ogg','sound/ambience/ambigen7.ogg','sound/ambience/ambigen8.ogg','sound/ambience/ambigen9.ogg','sound/ambience/ambigen10.ogg','sound/ambience/ambigen11.ogg','sound/ambience/ambiatm1.ogg')
 
 //First Floor //Deck One //F-1 //Z-1

@@ -15,8 +15,8 @@
 		/datum/job/submap/local_helper
 	)
 
-/decl/submap_archetype/mercenary_base
-	name      = "mercenary base"
+/decl/submap_archetype/privateer_base
+	name      = "privateer base"
 	crew_jobs = list(
 		/datum/job/submap/merc_captain,
 		/datum/job/submap/mercenary

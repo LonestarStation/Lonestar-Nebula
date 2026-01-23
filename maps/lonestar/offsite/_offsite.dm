@@ -26,8 +26,8 @@
 //		/datum/shuttle/autodock/overmap/mule
 //	)
 
-/datum/map_template/ruin/away_site/mercenary_base
-	name = "Mercenary Base"
+/datum/map_template/ruin/away_site/privateer_base
+	name = "Privateer Base"
 	description = "The headquarters for a group of Lonestar Mercenaries."
 	suffixes = list("offsite/mercenary_base.dmm")
 	cost = 1
@@ -95,8 +95,8 @@
 	name = "Hunters Lodge"
 	archetype = /decl/submap_archetype/lonestar_homestead
 
-/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/mercenary_base
-	name = "Mercenary Base"
+/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/privateer_base
+	name = "Privateer Base"
 	desc = "Sensors detect a small outpost of some kind."
 //	level_generators    = null
 	sector_flags = OVERMAP_SECTOR_KNOWN
@@ -104,9 +104,9 @@
 //		/datum/shuttle/autodock/overmap/mule = list("nav_mule_start")
 //	)
 
-/obj/abstract/submap_landmark/joinable_submap/mercenary_base
-	name = "Mercenary Base"
-	archetype = /decl/submap_archetype/mercenary_base
+/obj/abstract/submap_landmark/joinable_submap/privateer_base
+	name = "privateer Base"
+	archetype = /decl/submap_archetype/privateer_base
 
 /obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/outlaw_hideout
 	name = "Outlaw Hideout"
