@@ -1,43 +1,3 @@
-/*
-/datum/shuttle/autodock/ferry/emergency/escape_shuttle
-	name = "Escape Shuttle"
-	warmup_time = 10
-	location = 1
-	dock_target = "escape_shuttle"
-	shuttle_area = /area/shuttle/escape_shuttle
-	waypoint_offsite = "nav_escape_shuttle_start"
-	waypoint_station = "nav_escape_shuttle_station"
-	landmark_transition = "nav_escape_shuttle_transit"
-
-/obj/effect/shuttle_landmark/escape_shuttle/start
-	landmark_tag = "nav_escape_shuttle_start"
-	docking_controller = "centcom_escape_dock"
-
-/obj/effect/shuttle_landmark/escape_shuttle/transit
-	landmark_tag = "nav_escape_shuttle_transit"
-
-/obj/effect/shuttle_landmark/escape_shuttle/station
-	landmark_tag = "nav_escape_shuttle_station"
-	docking_controller = "escape_dock"
-
-/datum/shuttle/autodock/ferry/supply/cargo
-	name = "Supply Shuttle"
-	warmup_time = 10
-	location = 1
-	dock_target = "supply_shuttle"
-	shuttle_area = /area/shuttle/supply_shuttle
-	waypoint_offsite = "nav_cargo_start"
-	waypoint_station = "nav_cargo_station"
-
-/obj/effect/shuttle_landmark/supply/start
-	landmark_tag = "nav_cargo_start"
-	docking_controller = "cargo_bay_centcom"
-
-/obj/effect/shuttle_landmark/supply/station
-	landmark_tag = "nav_cargo_station"
-	docking_controller = "cargo_bay"
-*/
-
 /obj/effect/shuttle_landmark/lonestar
 	abstract_type = /obj/effect/shuttle_landmark/lonestar
 
@@ -59,8 +19,8 @@
 /obj/effect/shuttle_landmark/lonestar/supply_offsite
 	name = "Centcom Supply Depot"
 	landmark_tag = "supply_offsite"
-//	base_area = /area/centcom/command
-	base_turf = /turf/floor
+	base_area = /area/lonestar/cent/cargo_shuttlebay
+	base_turf = /turf/unsimulated/floor
 
 /obj/effect/shuttle_landmark/lonestar/supply_station
 	name = "Station"
@@ -104,9 +64,10 @@
 	shuttle_area = /area/shuttle/lonestar/arrival
 	waypoint_offsite = "arrivals_offsite"
 	waypoint_station = "arrivals_station"
-	dock_target = "arrivals_shuttle"
+	dock_target = "lonestar_arrivals_shuttle_dock"
 	ceiling_type = /turf/floor/reinforced
 	always_process = TRUE
+	flags = SHUTTLE_FLAGS_PROCESS | SHUTTLE_FLAGS_NO_CODE
 
 	var/launch_delay = 3
 	var/started_launch_time
@@ -197,4 +158,4 @@
 	landmark_tag = "arrivals_station"
 	docking_controller = "lonestar_arrivals_shuttle_dock"
 	base_area = /area/space
-	base_turf = /turf/space
+	base_turf = /turf/open

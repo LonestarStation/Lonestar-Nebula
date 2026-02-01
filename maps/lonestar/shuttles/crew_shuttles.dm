@@ -1,10 +1,10 @@
-/////////////////////
-//Example//Calavera//
-/////////////////////
+////////////////////
+//Example//Calvera//
+////////////////////
 /*
 // Explorer Shuttle
 /datum/shuttle/autodock/overmap/medbay_shuttle
-	name = "LSR Stickney"
+	name = "NTC Calvera"
 	warmup_time = 0
 	current_location = "nav_pad4_cynosure"
 	dock_target = "expshuttle_docker"
