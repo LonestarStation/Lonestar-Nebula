@@ -30,7 +30,7 @@
 	base_turf = /turf/floor/tiled/steel_grid
 
 
-// Emergency shuttle
+// Emergency Shuttle
 /datum/shuttle/autodock/ferry/emergency/escape_shuttle
 	name = "Escape Shuttle"
 	warmup_time = 10
@@ -55,8 +55,9 @@
 	landmark_tag = "escape_shuttle_station"
 	docking_controller = "lonestar_escape_shuttle_dock"
 	base_area = /area/space
-	base_turf = /turf/space
+	base_turf = /turf/open
 
+// Arrivals Shuttle
 /datum/shuttle/autodock/ferry/arrivals
 	name = "Arrivals"
 	warmup_time = 25 // Warmup takes 5 seconds, so 30 total.
