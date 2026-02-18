@@ -5,7 +5,7 @@
 
 	station_name  = "LSF Vima"
 	station_short = "Vima"
-	dock_name     = "LSF Vima, Lonestar Station"
+	dock_name     = "Lonestar Transfer Station"
 	boss_name     = "Central Command"
 	boss_short    = "Centcomm"
 	company_name  = "Lonestar"
