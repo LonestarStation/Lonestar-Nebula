@@ -93,6 +93,7 @@
 	#include "lonestar_cameras.dm"
 	#include "lonestar_departments.dm"
 	#include "lonestar_elevator.dm"
+	#include "lonestar_exits.dm"
 	#include "lonestar_levels.dm"
 	#include "lonestar_loadout.dm"
 	#include "lonestar_overmap.dm"
@@ -105,7 +106,7 @@
 	#include "lonestar-05.dmm" //Slammer
 	#include "lonestar-06.dmm" //Scrapyard
 	#include "lonestar-07.dmm" //Substation: Carl's
-	#include "lonestar-08.dmm" //Transit Satellite
+	#include "lonestar-08.dmm" //Transit Station
 //	#include "lonestar-09.dmm"
 //	#include "lonestar-11.dmm"
 

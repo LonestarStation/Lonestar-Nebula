@@ -156,7 +156,7 @@
 "afH" = (/obj/structure/hygiene/sink{dir = 4; pixel_x = 12; pixel_y = 2},/turf/floor/tiled/white,/area/lonestar/maintenance/squat/deckone)
 "afM" = (/obj/effect/floor_decal/rust,/obj/random/junk,/turf/floor/plating,/area/lonestar/maintenance/first/fishtanks)
 "afP" = (/obj/machinery/light{dir = 1},/turf/floor/tiled/old_tile,/area/lonestar/maintenance/warehouse)
-"afS" = (/turf/floor/tiled/steel_grid,/area/lonestar/maintenance/squat/deckone)
+"afS" = (/obj/machinery/cryopod/robot/door/vima_res{dir = 2},/turf/floor/tiled/steel_grid,/area/lonestar/maintenance/squat/deckone)
 "afV" = (/turf/wall/r_wall{material = /decl/material/solid/metal/steel},/area/lonestar/hallway/primary/floor_one/elevatorbeta)
 "agb" = (/turf/wall,/area/lonestar/maintenance/oldrange/range)
 "agf" = (/obj/item/suit_cooling_unit,/obj/item/suit_cooling_unit,/obj/item/suit_cooling_unit,/obj/item/suit_cooling_unit,/obj/structure/rack,/obj/item/suit_cooling_unit,/obj/item/suit_cooling_unit,/turf/floor/tiled/dark,/area/lonestar/engineering/engineer_eva)

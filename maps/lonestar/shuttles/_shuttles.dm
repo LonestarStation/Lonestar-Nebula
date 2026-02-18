@@ -29,7 +29,6 @@
 	base_area = /area/lonestar/cargobay/dock
 	base_turf = /turf/floor/tiled/steel_grid
 
-
 // Emergency Shuttle
 /datum/shuttle/autodock/ferry/emergency/escape_shuttle
 	name = "Escape Shuttle"
