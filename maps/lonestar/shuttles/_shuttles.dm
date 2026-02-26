@@ -64,7 +64,7 @@
 	shuttle_area = /area/shuttle/lonestar/arrival
 	waypoint_offsite = "arrivals_offsite"
 	waypoint_station = "arrivals_station"
-	dock_target = "lonestar_arrivals_shuttle_dock"
+	dock_target = "lonestar_arrivals_shuttle"
 	ceiling_type = /turf/floor/reinforced
 	always_process = TRUE
 	flags = SHUTTLE_FLAGS_PROCESS | SHUTTLE_FLAGS_NO_CODE
