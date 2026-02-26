@@ -62,13 +62,13 @@
 	dynamic_lighting = 1
 	icon_state = "green"
 
-// typ. Lonestar Mercenary Base
-/area/lonestar/offsite/merc_base
-	name = "\improper Mercenary Base"
+// typ. Lonestar Privateer Base
+/area/lonestar/offsite/privateer_base
+	name = "\improper Privateer Base"
 	icon_state = "red"
 
-/area/lonestar/slammer/merc_caves
-	name = "\improper Mercenary Base"
+/area/lonestar/slammer/privateer_caves
+	name = "\improper Privateer Base"
 	icon_state = "yellow"
 
 // an Outlaw Hideout

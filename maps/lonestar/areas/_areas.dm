@@ -1,9 +1,11 @@
+/area/lonestar
+	name = "lonestar"
+	abstract_type = /area/lonestar
+	icon_state = "west"
 /*
-/area/shaded_hills
-	abstract_type = /area/shaded_hills
 	allow_xenoarchaeology_finds = FALSE
-	icon = 'maps/shaded_hills/areas/icons.dmi'
-	icon_state = "area"
+
+
 	base_turf = /turf/floor/rock/basalt
 	fishing_failure_prob = 5
 	fishing_results = list(
