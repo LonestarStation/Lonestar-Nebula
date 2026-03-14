@@ -7,16 +7,24 @@
 // Rest of the various non-stationed lonestar Z-level, for spawning POIs.
 
 /area/lonestar/yard/wrecking
-	name = "Lonestar Wrecking Yard"
+	name = "Lonestar Junkyard"
 	icon_state = "purple"
 	turf_initializer = /decl/turf_initializer/maintenance
 
 /area/lonestar/yard/asteroid
-	name = "Cliff Pathway"
+	name = "Lonestar Wrecking Yard"
+	icon_state = "yellow"
+
+/area/lonestar/yard/road
+	name = "Lonestar Wrecking Yard"
 	icon_state = "yellow"
 
 /area/lonestar/yard/cliff
-	name = "Cliff Pathway"
+	name = "Lonestar Wrecking Yard"
+	icon_state = "purple"
+
+/area/lonestar/yard/garage
+	name = "Lonestar Wrecking Yard Garage"
 	icon_state = "purple"
 
 // So POIs don't get embedded in rock.

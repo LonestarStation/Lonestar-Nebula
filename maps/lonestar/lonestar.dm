@@ -110,6 +110,14 @@
 //	#include "lonestar-09.dmm"
 //	#include "lonestar-11.dmm"
 
+	#include "submaps/_lonestar_submaps.dm"
+	#include "submaps/belt/_belt.dm"
+	#include "submaps/belt/_belt_areas.dm"
+	#include "submaps/junkyard/_junkyard.dm"
+	#include "submaps/junkyard/_junkyard_areas.dm"
+	#include "submaps/slammer/_slammer.dm"
+	#include "submaps/slammer/_slammer_areas.dm"
+
 	#define USING_MAP_DATUM /datum/map/lonestar
 
 #elif !defined(MAP_OVERRIDE)

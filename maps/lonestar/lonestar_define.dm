@@ -13,7 +13,7 @@
 	system_name   = "Sol"
 
 	overmap_ids = list(OVERMAP_ID_SPACE)
-//	num_exoplanets = 1
+	num_exoplanets = 1
 
 	lobby_screens = list(
 		'maps/lonestar/lobby/title_lonestar.png'
@@ -144,3 +144,17 @@ var/global/const/access_warden = "ACCESS_WARDEN" //XX
 	return list(
 		/obj/item/box/donkpockets = 1
 	)
+
+/obj/item/card/id/barons_spare
+	name = "baron's spare ID"
+	desc = "The spare ID of the Facility Baron."
+	icon_state = ICON_STATE_WORLD
+	item_state = "gold_id"
+	registered_name = "Baron"
+	assignment = "Baron"
+	detail_color = COLOR_AMBER
+
+/obj/random_multi/single_item/barons_spare_id
+	name = "Multi Point - Baron's Spare"
+	id = "Baron's spare id"
+	item_path = /obj/item/card/id/barons_spare

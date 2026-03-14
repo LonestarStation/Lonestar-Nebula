@@ -1,0 +1,22 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/obj/item/remains/human,/turf/floor/barren,/area/submap/cliff1)
+"c" = (/turf/floor/barren,/area/submap/cliff1)
+"e" = (/obj/structure/cliff/automatic/corner,/turf/floor/barren,/area/submap/cliff1)
+"f" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 5},/turf/floor/barren,/area/submap/cliff1)
+"g" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 9},/turf/floor/barren,/area/submap/cliff1)
+"h" = (/obj/structure/cliff/automatic,/turf/floor/barren,/area/submap/cliff1)
+"i" = (/obj/structure/cliff/automatic/corner{icon_state = "cliffbuilder-corner"; dir = 9},/turf/floor/barren,/area/submap/cliff1)
+"j" = (/obj/item/wallet/leather,/obj/item/cash/c10,/turf/floor/barren,/area/submap/cliff1)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+accccacccccccaaccccccccaaaccaa
+aaccccccccccccccccccccccccccaa
+aacefcccccccccccccccccghhhicaa
+aaccehhfccccccccccghhhicccccaa
+aaaccccehfcccghhhhiccccccccaaa
+aaaaaccccehhhicccccccccccaaaaa
+aaaaaaaccccccccbjccccaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

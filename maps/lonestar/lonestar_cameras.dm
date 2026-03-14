@@ -1,6 +1,8 @@
-var/global/const/CAMERA_CHANNEL_COMMAND = "Command"
-var/global/const/CAMERA_CHANNEL_ENGINE  = "Engine"
-var/global/const/CAMERA_CHANNEL_BAR 	= "Bar"
+var/global/const/CAMERA_CHANNEL_COMMAND 	= "Command"
+var/global/const/CAMERA_CHANNEL_ENGINE  	= "Engine"
+var/global/const/CAMERA_CHANNEL_BAR 		= "Bar"
+var/global/const/CAMERA_CHANNEL_COMMANDO 	= "Commando"
+
 //
 // Cameras
 //

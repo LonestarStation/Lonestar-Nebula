@@ -31,4 +31,17 @@
 		/area/turbolift/thataways_lonestar_three
 		)
 
+//Lonestar's Roof Access Elevator
+/obj/abstract/turbolift_spawner/lonestar/roof
+	name = "Lonestar Station turbolift map placeholder - Roof Access"
+//	icon = 'icons/obj/turbolift_preview_4x4.dmi' //TO DO
+	depth = 2
+	lift_size_x = 3
+	lift_size_y = 3
+
+	areas_to_use = list(
+		/area/turbolift/roof_lonestar_three,
+		/area/turbolift/roof_lonestar_four
+		)
+
 //Consider: more elevators?

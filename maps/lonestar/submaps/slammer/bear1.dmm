@@ -1,0 +1,42 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/obj/random/voidsuit_and_helmet,/turf/floor/barren,/area/submap/cave/bear1)
+"c" = (/obj/random/trash,/turf/floor/barren,/area/submap/cave/bear1)
+"d" = (/mob/living/simple_animal/hostile/bear,/turf/floor/barren,/area/submap/cave/bear1)
+"e" = (/obj/item/ammo_casing/shotgun/pellet,/turf/floor/barren,/area/submap/cave/bear1)
+"f" = (/obj/random/junk,/turf/floor/barren,/area/submap/cave/bear1)
+"i" = (/obj/structure/loot_pile/maint/trash,/turf/floor/barren,/area/submap/cave/bear1)
+"j" = (/obj/random/ammo,/turf/floor/barren,/area/submap/cave/bear1)
+"k" = (/obj/item/gun/projectile/shotgun/doublebarrel/quad/empty,/turf/floor/barren,/area/submap/cave/bear1)
+"l" = (/turf/floor/barren,/area/submap/cave/bear1)
+"n" = (/turf/wall/natural,/area/submap/cave/bear1)
+"o" = (/obj/effect/decal/cleanable/blood/gibs,/turf/floor/barren,/area/submap/cave/bear1)
+"p" = (/obj/item/clothing/gloves/yellow,/turf/floor/barren,/area/submap/cave/bear1)
+"r" = (/obj/random/trash,/obj/random/junk,/turf/floor/barren,/area/submap/cave/bear1)
+
+(1,1,1) = {"
+aaaaaaaaaaallllclaaaaaaaa
+alllaaannnnlllllllllaaaaa
+alfllannnnnnllllllnnnaaaa
+alllllnnnnnnllellnnnnnaaa
+aalclllnnnnllllllnnnnnaaa
+aaalllllllllllllllnnnllaa
+aaaallllelllllillllllllaa
+aaaaallllllllflllllllllaa
+aaaaallllllcllnlilllnnlla
+aaaaaalllljolnnnllllnnlla
+aaaaanllllllnnnnnlllnnlla
+aaaannnllellnnnnnllllllla
+aaannnnnllllnnnnnllllllla
+aaannnnnllllnnnnollelllla
+aaannnnnllillnnplllllllla
+aaannnnnlliolllllllllnaaa
+aaannnnnllilblldllllnnnaa
+aaannnnlllllllllljlnnnnna
+aaaannnllllllkllllnnnnnna
+aaaannllllllllfcllnnnnnna
+aaaaanllllnllfllllnnnnnaa
+aaaaalllrlnnllllllnnnnnaa
+aaaaalllllnnllllfllnnnaaa
+aaaaaalllllllllilfclnaaaa
+aaaalllllllllllllllllllaa
+"}

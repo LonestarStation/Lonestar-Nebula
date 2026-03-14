@@ -1,0 +1,30 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/unsimulated/mask,/area/submap/asteroid/type5)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaabbbbbbbbaaaaaaaaa
+aaaaabbbbbbbbbbbbbbbaaaaa
+aaaabbbbbbbbbbbbbbbbbaaaa
+aaaabbbbbbbbbbbbbbbbbaaaa
+aaabbbbbbbbbbbbbbbbbbbaaa
+aaabbbbbbbbbbbbbbbbbbbbaa
+aabbbbbbbbbbbbbbbbbbbbbba
+aabbbbbbbbbbbbbbbbbbbbbba
+aabbbbbbbbbbbbbbbbbbbbbba
+aabbbbbbbbbbbbbbbbbbbbbba
+aabbbbbbbbbbbbbbbbbbbbbaa
+aabbbbbbbbbbbbbbbbbbbbbaa
+aabbbbbbbbbbbbbbbbbbbbbba
+aabbbbbbbbbbbbbbbbbbbbbba
+aabbbbbbbbbbbbbbbbbbbbbaa
+aabbbbbbbbbbbbbbbbbbbbbaa
+aaabbbbbbbbbbbbbbbbbbbbaa
+aaaabbbbbbbbbbbbbbbbbbaaa
+aaaaabbbbbbbbbbbbbbbbaaaa
+aaaaaabbbbbbbbbbbbbbaaaaa
+aaaaaaaabbbbbbbbbbbaaaaaa
+aaaaaaaaaaaabbbbbaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+"}

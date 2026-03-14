@@ -459,6 +459,9 @@
 	for(var/gen_type in level_generators)
 		new gen_type(origx, origy, level_z, endx, endy, FALSE, TRUE, get_base_area_instance())
 
+	place_subtemplates()
+
+/datum/level_data/proc/place_subtemplates()
 	// Place points of interest.
 	var/budget = get_subtemplate_budget()
 	if(budget)

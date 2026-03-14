@@ -1,0 +1,16 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/floor/barren,/area/submap/cave/bats3)
+"c" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/cave/bats3)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaaaaaaaabaa
+aabbaabbbbbbbbaabbaa
+aabcbbbbbbbaabbbcbaa
+aaabbbbcbcbbaabbbaaa
+aabbbbbbbbbbbaabbbaa
+aaabbbbbbbbbbbbbbbba
+ababbbcbcbbbbcbbbbaa
+abaabbbbbbbbbbbbbaaa
+aaaaaaaaaaaaaaaaaaaa
+"}

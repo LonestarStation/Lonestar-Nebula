@@ -1,0 +1,24 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/floor/barren,/area/submap/cave/ice_junction)
+"c" = (/turf/wall/natural,/area/submap/cave/ice_junction)
+"d" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/cave/ice_junction)
+"e" = (/turf/floor/ice,/area/submap/cave/ice_junction)
+"f" = (/turf/wall/natural/ice,/area/submap/cave/ice_junction)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaabb
+aaaacccccaaaaaaaabbb
+aaacccccccccccaabbbb
+aacccccccccccccbbdbb
+aaccceeeeeeeeeebbbbb
+accceeeefffeeeebbbba
+bbbceeefffffeeebbbba
+bbdbbeeffffffeeeccaa
+bbbbbeeffffffeeeccaa
+bbbbbeeefffffeecccaa
+bccceeeeeeeeeeecccaa
+acccceeeeeeeeecccaaa
+aaccccebbbeeecccaaaa
+aaaccbbbbbbeeccaaaaa
+aaaabbbbbbdbbbaaaaaa
+"}
