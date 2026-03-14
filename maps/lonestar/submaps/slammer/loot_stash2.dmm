@@ -1,0 +1,38 @@
+"a" = (/turf/template_noop,/area/submap/cave/loot_stash2)
+"b" = (/turf/floor/barren,/area/submap/cave/loot_stash2)
+"c" = (/obj/structure/loot_pile/maint/trash,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"d" = (/obj/structure/closet/crate,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/coin,/obj/random/contraband,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"e" = (/obj/vehicle/train/trolley,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"f" = (/obj/structure/closet/crate,/obj/random/drinkbottle,/obj/random/drinkbottle,/obj/random/drinkbottle,/obj/random/drinkbottle,/obj/random/drinkbottle,/obj/random/drinkbottle,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"g" = (/obj/machinery/floodlight,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"h" = (/obj/structure/reagent_dispensers/fueltank,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"i" = (/obj/structure/closet/crate,/obj/random/firstaid,/obj/random/firstaid,/obj/random/firstaid,/obj/random/medical/pillbottle,/obj/random/medical/pillbottle,/obj/item/stack/medical/splint,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"j" = (/obj/structure/closet/crate,/obj/item/box/ammo/shotgunammo/large,/obj/item/box/ammo/shotgunammo/large,/obj/item/gun/projectile/shotgun,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"k" = (/obj/random/junk,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"l" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"m" = (/obj/random/trash,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"n" = (/obj/random/trash,/obj/random/junk,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"p" = (/obj/machinery/port_gen/pacman,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"q" = (/obj/random/toolbox,/obj/structure/table/steel,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"r" = (/obj/structure/table/steel,/obj/item/multitool,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"s" = (/obj/structure/table/steel,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"t" = (/obj/structure/reagent_dispensers/watertank,/turf/floor/barren,/area/submap/cave/loot_stash2)
+"u" = (/turf/wall/natural,/area/submap/cave/loot_stash2)
+
+(1,1,1) = {"
+aaaaaabbbbbaaaaaaaaa
+aauuuuubbuuuuuauuuaa
+auaaauubbuaaaaaaauua
+auaaauubbuaaaauuaaaa
+auuuucbbbuuuuucuaaaa
+auudbbbbbbeebbbuuuaa
+aufblbgbbbbbbbbbhuaa
+auibbbbbbbbbgbblbuaa
+aaujbbbkblbbbbbbbuaa
+aauuckbbmbbbbbbbcuaa
+aaaauunkckpqrstuuuaa
+aaaaaauuuuuuuuuuuaau
+auuaaauuuuuaaaaaaauu
+auuauaaaaaaaaaaauuua
+aaaauuuaaaaaaaaaaaaa
+"}

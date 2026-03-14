@@ -1,0 +1,29 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/obj/item/harpoon/bomb,/turf/floor/barren,/area/submap/carp/king)
+"c" = (/mob/living/simple_animal/hostile/carp/pike,/turf/floor/barren,/area/submap/carp/king)
+"d" = (/turf/unsimulated/mask,/area/submap/carp/king)
+"e" = (/obj/item/remains/human,/turf/floor/barren,/area/submap/carp/king)
+"f" = (/obj/random/projectile,/turf/floor/barren,/area/submap/carp/king)
+"g" = (/obj/item/box/ammo/shotgunshells,/turf/floor/barren,/area/submap/carp/king)
+"j" = (/turf/wall/natural,/area/submap/carp/king)
+"l" = (/obj/item/gun/projectile/shotgun/doublebarrel/sawn,/turf/floor/barren,/area/submap/carp/king)
+"m" = (/turf/floor/barren,/area/submap/carp/king)
+"n" = (/obj/random/trash,/turf/floor/barren,/area/submap/carp/king)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaajjddjaaaaaa
+aammmmddjjjjaaa
+ajmmmmjjddddaaa
+ajmmnmmmddddjaa
+ajmcmlmnddddjaa
+ajmmmegmddddjaa
+addmmmcmfmjjjaa
+addjmmmmemddaaa
+ajjjjmnbmnddaaa
+ajdddmmmcmmjaaa
+ajdddjmmmmmaaaa
+aadddjmmmmaadda
+aaajjjjaaaaadda
+aaaaaaaaaaaaaaa
+"}

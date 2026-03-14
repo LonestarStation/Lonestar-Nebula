@@ -1,0 +1,79 @@
+"aa" = (/turf/template_noop,/area/template_noop)
+"ab" = (/turf/template_noop,/area/submap/wreckage/decoupled_engine)
+"ad" = (/obj/structure/lattice,/turf/floor/rock,/area/submap/wreckage/decoupled_engine)
+"ae" = (/obj/effect/floor_decal/rust,/obj/effect/decal/cleanable/dirt,/turf/wall/shuttle/dark,/area/submap/wreckage/decoupled_engine)
+"aj" = (/turf/floor/rock,/area/submap/wreckage/decoupled_engine)
+"al" = (/obj/item/fuel_assembly/uranium,/turf/template_noop,/area/submap/wreckage/decoupled_engine)
+"an" = (/obj/item/fuel_assembly/plutonium,/turf/template_noop,/area/submap/wreckage/decoupled_engine)
+"ao" = (/obj/structure/lattice,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aq" = (/obj/effect/floor_decal/rust,/turf/wall/shuttle/dark,/area/submap/wreckage/decoupled_engine)
+"at" = (/obj/structure/lattice,/turf/template_noop,/area/submap/wreckage/decoupled_engine)
+"au" = (/turf/wall/shuttle/dark,/area/submap/wreckage/decoupled_engine)
+"aw" = (/obj/structure/girder,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"ax" = (/obj/structure/lattice,/obj/structure/grille/broken,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"ay" = (/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"az" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/manifold/hidden{icon_state = "map"; dir = 8},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aA" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aB" = (/obj/structure/shuttle/engine/heater{icon_state = "heater"; dir = 4},/obj/effect/floor_decal/rust,/obj/effect/decal/cleanable/cobweb2,/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aC" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_r"; dir = 4},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aD" = (/obj/structure/lattice,/obj/structure/grille,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aE" = (/obj/structure/sign/warning/radioactive{dir = 8},/turf/wall/shuttle/dark,/area/submap/wreckage/decoupled_engine)
+"aF" = (/obj/structure/lattice,/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aG" = (/obj/effect/floor_decal/rust,/obj/effect/decal/cleanable/cobweb,/obj/item/fuel_assembly/hydrogen,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aH" = (/obj/machinery/fusion_fuel_injector/mapped,/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aI" = (/obj/effect/decal/cleanable/blood/oil/streak{amount = 0},/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aJ" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning{icon_state = "warning"; dir = 9},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aK" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning{icon_state = "warning"; dir = 5},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aL" = (/obj/structure/grille/broken,/obj/effect/floor_decal/rust,/obj/structure/window/reinforced{dir = 1},/obj/item/shard,/obj/item/shard{icon_state = "medium"},/obj/item/shard{icon_state = "small"},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aM" = (/obj/machinery/atmospherics/pipe/manifold4w/visible,/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aN" = (/obj/item/geiger,/turf/template_noop,/area/submap/wreckage/decoupled_engine)
+"aO" = (/obj/structure/shuttle/engine/heater{icon_state = "heater"; dir = 4},/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aQ" = (/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aR" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning{icon_state = "warning"; dir = 8},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aT" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning{icon_state = "warning"; dir = 4},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aU" = (/obj/machinery/atmospherics/pipe/simple/visible,/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aV" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aW" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 5},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aX" = (/obj/structure/shuttle/engine/router,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"aY" = (/obj/structure/shuttle/engine/propulsion{dir = 4},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"ba" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 6},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bb" = (/obj/structure/lattice,/obj/structure/grille,/obj/structure/window/reinforced{dir = 2; health = 1e+006},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bc" = (/obj/structure/lattice,/obj/structure/grille,/obj/structure/window/reinforced{dir = 2; health = 1e+006},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1; health = 1e+006},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"be" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning{dir = 10},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bf" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bg" = (/obj/effect/floor_decal/rust,/obj/effect/floor_decal/industrial/warning{dir = 6},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bh" = (/obj/machinery/atmospherics/tvalve/digital{dir = 8},/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bi" = (/obj/machinery/atmospherics/binary/pump{dir = 8},/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bj" = (/obj/machinery/atmospherics/pipe/manifold/visible,/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bk" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 2; health = 1e+006},/obj/structure/window/reinforced{dir = 8},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bl" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_l"; dir = 4},/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bm" = (/obj/effect/floor_decal/rust,/obj/structure/closet/crate/radiation,/obj/item/stack/material/aerogel/mapped/deuterium/fifty,/obj/item/fuel_assembly/boron,/obj/item/fuel_assembly/boron,/obj/item/fuel_assembly/plutonium,/obj/item/fuel_assembly/uranium,/obj/item/fuel_assembly/uranium,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bn" = (/obj/effect/decal/cleanable/blood/oil,/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bo" = (/obj/structure/sign/warning/radioactive,/turf/wall/shuttle/dark,/area/submap/wreckage/decoupled_engine)
+"br" = (/obj/structure/grille,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bu" = (/obj/effect/floor_decal/rust,/obj/effect/decal/cleanable/dirt,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bw" = (/obj/structure/girder/displaced,/turf/floor/plating,/area/submap/wreckage/decoupled_engine)
+"bx" = (/obj/effect/decal/cleanable/blood/oil/streak{amount = 0},/turf/template_noop,/area/submap/wreckage/decoupled_engine)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababababajabababababababababababababababababababajaa
+aaabaNababababajabababababababababababababababababababababaa
+aaababababababababababababababababababababababababajabajabaa
+aaababababababababababanababababababababababajabajababababaa
+aaabababababababababababababajajabababababajajajajajabababaa
+aaababababababadadadadababaoaeawawauauauajajajajajababababaa
+aaabababababadauauauawaxaoaeaqawbaaAaBaCajajajajabababababaa
+aaababaoaoaDaFaEaGaHaIaJaoaKaIaLaMaAaOaCajajajajabababababaa
+aaababababayayaQayayayaRayaTaUaVazaOaXaYajajajababababababaa
+aaababaQaQbbbcauayayaybebfbgaUaVazaOaXaYajajabababajabababaa
+aaabaQabaQaoaxaQaWbhaAaAbiaAbjbkaMaAaOblajababajabababababaa
+aaabababababaoaQaQaQaQbmbnaybuaQaWayaOadabajajababababababaa
+aaababababababataoaobobrbrbrauauauaoaqajajajabababababababaa
+aaabababawaQabababauauauauauauauauauauajabababababababbxabaa
+aaababababababababababababababalabababababababababababababaa
+aaababababababababbxababababababababajabatababbxabababababaa
+aaabababababbxabababababababababbwaQababababababbxababababaa
+aaabababbxababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

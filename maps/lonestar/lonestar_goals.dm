@@ -46,4 +46,4 @@ var/global/list/lonestar_paperwork_end_areas = list()
 
 /obj/item/paperwork/lonestar
 	name = "\improper Lonestar payroll paperwork"
-	desc = "A complex list of salaries, hours and tax withheld for Exodus workers this month."
+	desc = "A complex list of salaries, hours and tax withheld for Lonestar workers this month."

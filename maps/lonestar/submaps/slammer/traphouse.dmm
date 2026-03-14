@@ -1,0 +1,134 @@
+"aa" = (/turf/template_noop,/area/template_noop)
+"ab" = (/turf/wall/natural,/area/submap/traphouse)
+"ad" = (/obj/machinery/light/small,/turf/floor/barren,/area/submap/traphouse)
+"ae" = (/obj/machinery/airlock_sensor{dir = 1; pixel_y = -12},/obj/abstract/airlock_helper/sensor/ext_sensor,/turf/floor/barren,/area/submap/traphouse)
+"ag" = (/turf/wall/natural/random/high_chance/basalt,/area/submap/traphouse)
+"ah" = (/turf/wall,/area/submap/traphouse)
+"ai" = (/obj/machinery/button/access/exterior{pixel_x = 24; pixel_y = 12; directional_offset = null; dir = 1},/obj/machinery/door/airlock/external/glass/bolted,/obj/abstract/airlock_helper/button,/obj/abstract/airlock_helper/door/ext_door,/turf/floor/plating,/area/submap/traphouse)
+"aj" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 2; frequency = 1379; id_tag = "traphouse_pump"},/obj/abstract/airlock_helper/atmos/chamber_pump,/turf/floor/plating,/area/submap/traphouse)
+"ak" = (/turf/floor/tiled/dark,/area/submap/traphouse)
+"al" = (/obj/machinery/light/small{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 2; frequency = 1379; id_tag = "traphouse_pump"},/obj/abstract/airlock_helper/atmos/chamber_pump,/turf/floor/plating,/area/submap/traphouse)
+"am" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 5},/obj/machinery/embedded_controller/radio/airlock/airlock_controller{id_tag = "traphouse_airlock"; layer = 3.3; pixel_x = -20; pixel_y = 0; pixel_z = 0; dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"an" = (/obj/machinery/atmospherics/pipe/manifold/hidden{dir = 1; icon_state = "map"},/obj/machinery/meter,/turf/floor/plating,/area/submap/traphouse)
+"ao" = (/obj/machinery/airlock_sensor{id_tag = "traphouse_sensor"; layer = 3.3; pixel_x = 20; pixel_y = 0; dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 9},/obj/abstract/airlock_helper/sensor/chamber_sensor,/turf/floor/plating,/area/submap/traphouse)
+"ap" = (/obj/machinery/atmospherics/pipe/simple/hidden,/obj/machinery/button/access/interior{pixel_x = 24; pixel_y = -12},/obj/machinery/door/airlock/external/glass/bolted,/obj/abstract/airlock_helper/button,/obj/abstract/airlock_helper/door/int_door,/turf/floor/plating,/area/submap/traphouse)
+"aq" = (/obj/machinery/airlock_sensor{pixel_y = 12},/obj/abstract/airlock_helper/sensor/int_sensor,/turf/floor/tiled/dark,/area/submap/traphouse)
+"ar" = (/obj/machinery/atmospherics/pipe/simple/hidden,/turf/floor/plating,/area/submap/traphouse)
+"as" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/air/airlock,/turf/floor/plating,/area/submap/traphouse)
+"at" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/air/airlock,/turf/floor/plating,/area/submap/traphouse)
+"au" = (/obj/structure/cable/green{d2 = 2; icon_state = "0-2"},/obj/structure/closet/emcloset,/obj/random/contraband,/obj/random/contraband,/obj/random/contraband,/obj/machinery/apc{name = "north bump"; dir = 1; pixel_x = 0; pixel_y = 24},/turf/floor/plating,/area/submap/traphouse)
+"av" = (/obj/machinery/atmospherics/unary/tank/air,/turf/floor/tiled/dark,/area/submap/traphouse)
+"aw" = (/obj/effect/floor_decal/rust,/turf/floor/plating,/area/submap/traphouse)
+"ax" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/hidden,/turf/floor/plating,/area/submap/traphouse)
+"ay" = (/obj/random/trash,/turf/floor/plating,/area/submap/traphouse)
+"az" = (/obj/structure/closet/cabinet,/obj/item/chems/pill/burn_meds,/obj/item/pill_bottle/happy,/turf/floor/tiled/dark,/area/submap/traphouse)
+"aA" = (/obj/structure/curtain/open/bed,/obj/structure/mattress/dirty,/turf/floor/tiled/dark,/area/submap/traphouse)
+"aB" = (/obj/structure/table/glass,/obj/item/chems/pill/happy,/obj/item/chems/pill/oxygen,/turf/floor/plating,/area/submap/traphouse)
+"aC" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 5},/turf/floor/plating,/area/submap/traphouse)
+"aD" = (/obj/machinery/atmospherics/pipe/manifold/hidden,/turf/floor/plating,/area/submap/traphouse)
+"aE" = (/obj/effect/floor_decal/rust,/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"aF" = (/obj/machinery/atmospherics/pipe/manifold/hidden,/obj/machinery/meter,/turf/floor/tiled/dark,/area/submap/traphouse)
+"aG" = (/obj/machinery/door/airlock,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"aH" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"aI" = (/obj/machinery/atmospherics/pipe/manifold/hidden{dir = 4; icon_state = "map"},/turf/floor/plating,/area/submap/traphouse)
+"aJ" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 6},/turf/floor/plating,/area/submap/traphouse)
+"aK" = (/obj/structure/curtain/black,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"aL" = (/obj/random/trash,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"aM" = (/obj/structure/curtain/open/bed,/obj/structure/mattress/dirty,/obj/item/chems/syringe/drugs,/turf/floor/plating,/area/submap/traphouse)
+"aN" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/turf/floor/plating,/area/submap/traphouse)
+"aO" = (/obj/item/shard{icon_state = "small"},/turf/floor/plating,/area/submap/traphouse)
+"aP" = (/obj/machinery/light/small{dir = 8},/obj/structure/closet/cabinet,/obj/random/medical/pillbottle,/obj/random/medical/pillbottle,/obj/random/medical/pillbottle,/obj/random/projectile/sec,/obj/item/handcuffs,/turf/floor/plating,/area/submap/traphouse)
+"aQ" = (/obj/effect/floor_decal/rust,/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/floor/plating,/area/submap/traphouse)
+"aR" = (/obj/structure/closet/crate/trashcart,/obj/item/chems/pill/antirads,/turf/floor/plating,/area/submap/traphouse)
+"aS" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/turf/floor/tiled/dark,/area/submap/traphouse)
+"aT" = (/obj/machinery/atmospherics/pipe/simple/visible/universal,/turf/floor/plating,/area/submap/traphouse)
+"aU" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/obj/machinery/light/small{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"aV" = (/obj/structure/closet/cabinet,/obj/random/lipstick,/obj/item/knife/folding/combat/switchblade,/turf/floor/plating,/area/submap/traphouse)
+"aX" = (/obj/effect/floor_decal/rust,/obj/item/chems/pill/zoom,/turf/floor/plating,/area/submap/traphouse)
+"aY" = (/obj/item/chems/pill/burn_meds,/turf/floor/tiled/dark,/area/submap/traphouse)
+"aZ" = (/obj/effect/floor_decal/rust,/obj/structure/rack,/obj/item/chems/syringe/drugs,/obj/item/chems/pill/antidepressants,/obj/item/chems/pill/happy,/obj/item/chems/pill/sugariron,/turf/floor/plating,/area/submap/traphouse)
+"ba" = (/obj/structure/chair/armchair/blue,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bb" = (/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/floor/plating,/area/submap/traphouse)
+"bc" = (/obj/effect/floor_decal/rust,/obj/structure/bed/roller/ironingboard,/turf/floor/plating,/area/submap/traphouse)
+"bd" = (/obj/random/junk,/turf/floor/plating,/area/submap/traphouse)
+"be" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 8},/turf/floor/tiled/dark,/area/submap/traphouse)
+"bf" = (/obj/random/trash,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/turf/floor/plating,/area/submap/traphouse)
+"bg" = (/obj/random/drinkbottle,/obj/structure/rack,/turf/floor/plating,/area/submap/traphouse)
+"bh" = (/obj/effect/floor_decal/rust,/obj/machinery/power/terminal{dir = 4},/obj/machinery/port_gen/pacman,/turf/floor/plating,/area/submap/traphouse)
+"bi" = (/obj/structure/cable/green,/obj/machinery/power/smes/buildable/preset/hidden,/turf/floor/plating,/area/submap/traphouse)
+"bj" = (/obj/random/toolbox,/obj/structure/rack,/turf/floor/plating,/area/submap/traphouse)
+"bk" = (/obj/item/chems/pill/strong_painkillers,/turf/floor/plating,/area/submap/traphouse)
+"bl" = (/obj/structure/curtain/black,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/tiled/dark,/area/submap/traphouse)
+"bm" = (/obj/structure/closet/cabinet,/obj/item/chems/pill/happy,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bn" = (/obj/structure/table/frame,/obj/item/shard,/obj/item/chems/pill/antitoxins,/obj/item/chems/pill/painkillers,/obj/item/chems/pill/zoom,/turf/floor/plating,/area/submap/traphouse)
+"bo" = (/obj/structure/table/glass,/obj/item/chems/syringe/drugs,/obj/item/chems/pill/brute_meds,/obj/item/chems/pill/happy,/obj/item/chems/pill/zoom,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bp" = (/obj/structure/chair/armchair/brown,/turf/floor/plating,/area/submap/traphouse)
+"bq" = (/obj/structure/loot_pile/maint/junk,/turf/floor/plating,/area/submap/traphouse)
+"br" = (/obj/effect/floor_decal/rust,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/tiled/dark,/area/submap/traphouse)
+"bs" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/tiled/dark,/area/submap/traphouse)
+"bt" = (/obj/item/chems/pill/stimulants,/turf/floor/plating,/area/submap/traphouse)
+"bu" = (/obj/structure/table/steel,/obj/item/chems/pill/zoom,/obj/item/chems/pill/antibiotics,/obj/item/chems/pill/antidepressants,/obj/item/chems/pill/painkillers,/obj/item/chems/pill/zoom,/obj/item/pill_bottle/zoom,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bv" = (/obj/item/stack/medical/splint,/obj/structure/table/steel,/obj/item/chems/pill/gleam,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bw" = (/obj/structure/table/steel,/obj/item/chems/pill/happy,/obj/item/chems/pill/burn_meds,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bx" = (/obj/structure/table/steel,/obj/item/chems/syringe/drugs,/obj/item/chems/pill/burn_meds,/obj/item/chems/pill/painkillers,/turf/floor/plating,/area/submap/traphouse)
+"by" = (/obj/machinery/light/small{dir = 4},/turf/floor/tiled/dark,/area/submap/traphouse)
+"bz" = (/obj/structure/closet/cabinet,/obj/item/chems/syringe/drugs,/obj/item/chems/pill/antibiotics,/obj/item/chems/pill/zoom,/turf/floor/plating,/area/submap/traphouse)
+"bA" = (/obj/random/trash,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bB" = (/obj/structure/chair/wheelchair{dir = 1},/turf/floor/tiled/dark,/area/submap/traphouse)
+"bC" = (/obj/structure/loot_pile/maint/boxfort,/obj/item/chems/pill/happy,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bD" = (/obj/structure/table/steel,/obj/item/chems/syringe/drugs,/obj/item/chems/pill/antidepressants,/obj/item/chems/pill/gleam,/obj/item/chems/pill/painkillers,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bE" = (/obj/random/firstaid,/obj/structure/table/steel,/obj/item/scalpel,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bF" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 8},/turf/floor/plating,/area/submap/traphouse)
+"bG" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/floor/plating,/area/submap/traphouse)
+"bH" = (/obj/item/chems/pill/zoom,/turf/floor/barren,/area/submap/traphouse)
+"bI" = (/obj/effect/floor_decal/rust,/obj/machinery/light/small{dir = 8},/obj/structure/table/steel,/obj/item/pill_bottle,/obj/item/pill_bottle,/turf/floor/plating,/area/submap/traphouse)
+"bJ" = (/obj/machinery/atmospherics/unary/vent_pump/on,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bK" = (/turf/floor/plating,/area/submap/traphouse)
+"bL" = (/obj/structure/closet/cabinet,/obj/random/toy,/obj/item/chems/pill/happy,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bM" = (/obj/structure/chair/armchair/lime,/turf/floor/plating,/area/submap/traphouse)
+"bN" = (/obj/structure/chair/armchair/yellow,/turf/floor/plating,/area/submap/traphouse)
+"bO" = (/obj/structure/table/steel,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bP" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 5},/turf/floor/plating,/area/submap/traphouse)
+"bQ" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"bR" = (/obj/machinery/door/airlock,/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"bS" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply,/turf/floor/plating,/area/submap/traphouse)
+"bT" = (/obj/structure/girder,/turf/floor/plating,/area/submap/traphouse)
+"bU" = (/obj/vehicle/bike{dir = 4},/turf/floor/barren,/area/submap/traphouse)
+"bV" = (/obj/random/trash,/obj/machinery/light/small{dir = 4},/turf/floor/plating,/area/submap/traphouse)
+"bW" = (/obj/structure/closet/cabinet,/obj/random/mre,/obj/random/medical/lite,/obj/item/chems/syringe/drugs,/turf/floor/plating,/area/submap/traphouse)
+"bX" = (/obj/item/chems/pill/zoom,/turf/floor/plating,/area/submap/traphouse)
+"bY" = (/obj/effect/floor_decal/rust,/turf/floor/tiled/dark,/area/submap/traphouse)
+"bZ" = (/obj/random/trash,/obj/item/chems/pill/antitoxins,/obj/item/chems/pill/happy,/turf/floor/plating,/area/submap/traphouse)
+"ca" = (/obj/random/junk,/obj/item/food/old/pizza,/turf/floor/plating,/area/submap/traphouse)
+"cb" = (/obj/effect/floor_decal/rust,/obj/item/chems/pill/stabilizer,/turf/floor/tiled/dark,/area/submap/traphouse)
+"cc" = (/turf/floor/barren,/area/submap/traphouse)
+"cd" = (/obj/structure/loot_pile/maint/junk,/turf/floor/barren,/area/submap/traphouse)
+"ce" = (/obj/structure/loot_pile/maint/boxfort,/turf/floor/barren,/area/submap/traphouse)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaccccccccaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaccccccccccccccccaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaccccccbUccadaeccccadbHccaaaaaaaaaaaaaa
+aaaaaaagagagcccccdccccahahaiahahccccccabaaaaaaaaaa
+aaaaaaagagagabccccccceahajbKalahcdccabababaaaaaaaa
+aaaaabagagagagagabababahamanaoahababababababaaaaaa
+aaaaabagagagagagabababahahapahahagagagagagababaaaa
+aaaaabagagagahahahahahahaqarakahahahahahahagabaaaa
+aaaaabagagagahasatauavahcbaxayahazaAaBaMahagagagaa
+aaaaabagagagahaCaDaEaFaGaHaIaJaKaLbQaSakahagagagaa
+aaaaabagagagahaPaXaQaRahbKaTaUahaVakakaYahagagagaa
+aaaaabagagagahaZawbbbcahbdbebfahahahahahahagagagaa
+aaaaabagagagahbgbhbibjahbKbGbtahbmbabobpahagabaaaa
+aaagagagagagahahahahahahbqbFbrblbsbsaSakahagabaaaa
+aaagagagagagahbubvbwbxahbKbGbyahbzbAbBbCahagabaaaa
+aaagagagagagahbDakbYbEahbKbGbqahahahahahahagabaaaa
+aaaaagagagagahbIbKbJbKahaybGawahbLbMbnbNahagagagaa
+aaaaaaabagagahbOakbPbQbRbQbSbQblbsbQaNaOahagagagaa
+aaaaaaabagagahbTbKakakahbkbKbVahbWbXbKbZahagagagaa
+aaaaaaababagahahahahahahbTcaahahahahahahahagagagaa
+aaaaaaabababagagagagagagagagagagagagagagagagabaaaa
+aaaaaaaaabababagagagagagagagagagagagagagagababaaaa
+aaaaaaaaaaabababababaaaaaaaaaaagagagagaaababaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

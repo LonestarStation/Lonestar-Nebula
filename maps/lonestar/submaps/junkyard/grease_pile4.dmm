@@ -1,0 +1,18 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/floor/barren,/area/submap/grease_pile4)
+"c" = (/obj/effect/decal/cleanable/blood/oil,/turf/floor/barren,/area/submap/grease_pile4)
+"d" = (/obj/effect/decal/cleanable/blood/gibs/robot,/turf/floor/barren,/area/submap/grease_pile4)
+"e" = (/obj/structure/loot_pile/maint/technical,/turf/floor/barren,/area/submap/grease_pile4)
+
+(1,1,1) = {"
+aaaaaaaaaa
+abebbbbbba
+aecbbbcdba
+aebbbeebba
+abbbceecba
+abdbbbbbca
+acebbcbbba
+abeebbbdba
+abcebbbbba
+aaaaaaaaaa
+"}

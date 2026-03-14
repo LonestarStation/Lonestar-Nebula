@@ -81,6 +81,20 @@
 	lift_announce_str = "Top Floor: Command Offices. Sheriff's Office. Civilian Services. Ranch. Garage."
 	base_turf = /turf/open
 
+/area/turbolift/roof_lonestar_three
+	name = "lift (third deck)"
+	lift_floor_label = "F-3"
+	lift_floor_name = "Third Floor"
+	lift_announce_str = "Top Floor: Command Offices. Sheriff's Office. Civilian Services. Ranch. Garage."
+	base_turf = /turf/open
+
+/area/turbolift/roof_lonestar_four
+	name = "lift (top side)"
+	lift_floor_label = "F-4"
+	lift_floor_name = "Topside"
+	lift_announce_str = "Topside: Asteroid exterior access, please consider using a space suit when exiting the facility."
+	base_turf = /turf/open
+
 ////Lonestar Station
 
 /area/lonestar/asteroid
@@ -433,7 +447,7 @@
 /area/lonestar/maintenance/civilianold
 	name = "\improper Old Civ Maintenance"
 
-//lonestar: old destroyed xeno archeology
+//lonestar: old destroyed xeno archeology & chemistry
 
 /area/lonestar/maintenance/arch
 	name = "\improper what happened here"
@@ -480,8 +494,17 @@
 /area/lonestar/maintenance/arch/storage
 	name = "\improper Artifact Holding"
 
+/area/lonestar/maintenance/chem/lobby
+	name = "\improper Chemistry Lobby"
+
+/area/lonestar/maintenance/chem/lab
+	name = "\improper Chemistry Lab"
+
+/area/lonestar/maintenance/chem/storage
+	name = "\improper Chemical Storage"
+
 /area/lonestar/maintenance/arch/maint
-	name = "\improper Archeology Maintenance"
+	name = "\improper Lab Maintenance"
 
 //lonestar: old distillery
 
@@ -506,15 +529,27 @@
 	name = "\improper free babysitter"
 
 /area/lonestar/maintenance/oldcivlock/airlocks
-	name = "\improper Old Civilian Airlocks"
+	name = "\improper Old Arcade Airlocks"
 
 /area/lonestar/maintenance/oldcivlock/maintenance
-	name = "\improper Old Civ Airlock Maintenance"
+	name = "\improper Old Prospecting Maintenance"
+
+/area/lonestar/maintenance/oldcivlock/smelter
+	name = "\improper Old Prospecting Smeltery"
+
+/area/lonestar/maintenance/oldcivlock/storage
+	name = "\improper Old Prospecting Storage"
+
+/area/lonestar/maintenance/oldcivlock/lounge
+	name = "\improper Old Prospecting Lounge"
+
+/area/lonestar/maintenance/oldcivlock/toilet
+	name = "\improper Old Prospector Toilet"
 
 //lonestar: old station
 
 /area/lonestar/maintenance/oldstar
-	name = "\improper Old Neo Vima Station"
+	name = "\improper Old Vima Station"
 
 /area/lonestar/maintenance/oldstar/command
 	name = "\improper Control Room"
@@ -810,6 +845,10 @@
 	name = "\improper Patient Cloning"
 	icon_state = "medbay"
 
+/area/lonestar/medbay/chemistry
+	name = "\improper Chemistry Lab"
+	icon_state = "medbay"
+
 /area/lonestar/medbay/briefing
 	name = "\improper Medbay Meeting Hall"
 	icon_state = "medbay"
@@ -919,6 +958,22 @@
 
 /area/lonestar/maintenance/oldbar/maintenance
 	name = "\improper Old Bar Maintenance"
+
+//lonestar: old library
+/area/lonestar/maintenance/oldlibrary
+	name = "\improper Cannot Read" //very offended etc etc
+
+/area/lonestar/maintenance/oldlibrary/reading_lounge
+	name = "\improper Old Library"
+
+/area/lonestar/maintenance/oldlibrary/office
+	name = "\improper Old Library Office"
+
+/area/lonestar/maintenance/oldlibrary/storage
+	name = "\improper Old Library Storage"
+
+/area/lonestar/maintenance/oldlibrary/maintenance
+	name = "\improper Old Library Maintenance"
 
 //lonestar: old command and ai
 
@@ -1048,6 +1103,10 @@
 /area/lonestar/maintenance/oldranch/fishtanks
 	name = "\improper Old Ranch Carp Tanks"
 
+//lonestar: busted cryo
+/area/lonestar/maintenance/oldcryo
+	name = "\improper Cryogenic Storage"
+
 //lonestar: bathrooms
 /area/lonestar/maintenance/oldbathrooms
 	name = "\improper Second Floor Bathrooms"
@@ -1060,11 +1119,7 @@
 /area/lonestar/airlock/floor_two/fargo
 	name = "\improper Far Cargo Airlock"
 	icon_state = "yellow"
-/*
-/area/lonestar/airlock/floor_two/deep_cave
-	name = "\improper Deck Three Caves Airlock"
-	icon_state = "yellow"
-*/
+
 //Third Floor //Deck Three //F-3 //Z-3
 
 /area/lonestar/hallway/primary/floor_three/elevatoralpha
@@ -1409,6 +1464,11 @@
 /area/lonestar/maintenance/motel
 	name = "\improper Motel Maintenance"
 
+//lonestar: topside access
+/area/lonestar/maintenance/topside_elevator
+	name = "\improper Topside Access Elevator"
+
+
 //lonestar: construction zone, movie theater//
 /area/lonestar/movies
 	name = "\improper Construction Zone - Pending"
@@ -1417,76 +1477,16 @@
 /area/lonestar/maintenance/movies
 	name = "\improper Construction Zone Maintenance"
 
-//lonestar: arrivals docks//
-
-//lonestar: arilocks 3//
-/area/lonestar/airlock/floor_three/sheriffs
-	name = "\improper Sheriffs Airlock"
+//Fourth Floor //Deck Four //F-4 //Z-4 //Topside //Roof
+/area/lonestar/topside
+	name = "\improper This Side UP"
 	icon_state = "yellow"
 
-/area/lonestar/airlock/floor_three/controltower
-	name = "\improper Flight Control Tower"
+/area/lonestar/topside/exterior_access
+	name = "\improper Topside Access"
 	icon_state = "yellow"
-
-/area/lonestar/airlock/floor_three/deep_cave
-	name = "\improper Deck Three Caves Airlock"
-	icon_state = "yellow"
-
-//lonestar:other maintenance tunnels//
-
-/area/lonestar/maintenance/water
-	name = "\improper H2O Maintenance"
-
-/area/lonestar/maintenance/water/one
-	name = "\improper H2O Tank One"
-	turf_initializer = null
-
-/area/lonestar/maintenance/water/two
-	name = "\improper H2O Tank Two"
-	turf_initializer = null
-
-/area/lonestar/maintenance/tower
-	name = "\improper Control Tower Maintenance"
-
-//lonestar:unused maintenance halls//
-/*
-/area/lonestar/maintenance/holodeck //at some point im sure some baron will ask for a holo deck /pizza
-	name = "Holodeck Maintenance"
-	icon_state = "maint_holodeck"
-
-/area/lonestar/maintenance/incinerator //i dont know what this is but we probably need one //pizza
-	name = "\improper Incinerator"
-	icon_state = "disposal"
-*/
-//lonestar: substations//
-// SUBSTATIONS (Subtype of maint, that should let them serve as shielded area during radstorm)
-/*
-/area/lonestar/maintenance/substation
-	name = "Substation"
-	icon_state = "substation"
-	sound_env = SMALL_ENCLOSED
-
-/area/lonestar/maintenance/substation/engineering // Probably will be connected to engineering SMES room, as wires cannot be crossed properly without them sharing powernets.
-	name = "Engineering Substation"
-
-/area/lonestar/maintenance/substation/pirate // this one is right outside of the old pirate base, hinting that something is nearby or used to be... //pizza
-	name = "Mysterious Substation"
-////
-/area/lonestar/maintenance/substation/medical // Medbay
-	name = "Medical Substation"
-
-/area/lonestar/maintenance/substation/cargo // Cargo
-	name = "Cargo Substation"
-////
-/area/lonestar/maintenance/substation/command // AI and central cluster. This one will be between HoP office and meeting room (probably).
-	name = "Administration Substation"
-
-/area/lonestar/maintenance/substation/security // Security, Brig, Permabrig, etc.
-	name = "Prison Substation"
-*/
 
 //lonestar:secrets//
-
 /area/lonestar/cathedral
 	name = "Cathedral"
 	icon_state = "dark"

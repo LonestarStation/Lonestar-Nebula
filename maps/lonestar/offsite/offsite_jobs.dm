@@ -74,7 +74,6 @@
 	total_positions = 1
 	info = "You are free traders in search of profit. Travel, trade, make profit!"
 	available_by_default = TRUE
-	is_semi_antagonist = TRUE
 	supervisors = "the invisible hand of the market"
 	latejoin_at_spawnpoints = TRUE
 	selection_color = "#515151"
@@ -110,7 +109,6 @@
 	total_positions = 4
 	info = "You are free traders in search of profit. Travel, trade, make profit!"
 	available_by_default = TRUE
-	is_semi_antagonist = TRUE
 	supervisors = "the invisible hand of the market, and your captain"
 	latejoin_at_spawnpoints = TRUE
 	defer_roundstart_spawn = TRUE

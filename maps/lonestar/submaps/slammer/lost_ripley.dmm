@@ -1,0 +1,12 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/lost_ripley)
+"c" = (/mob/living/exosuit/premade/powerloader/old,/turf/floor/barren,/area/submap/lost_ripley)
+"d" = (/turf/floor/barren,/area/submap/lost_ripley)
+
+(1,1,1) = {"
+aaaaa
+addda
+abcba
+addda
+aaaaa
+"}

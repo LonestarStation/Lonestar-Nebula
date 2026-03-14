@@ -1,0 +1,46 @@
+"a" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"b" = (/obj/item/stack/material/ore/gold,/turf/floor/barren,/area/submap/cliff2)
+"c" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 9},/turf/floor/barren,/area/submap/cliff2)
+"d" = (/obj/structure/cliff/automatic,/turf/floor/barren,/area/submap/cliff2)
+"e" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 5},/turf/floor/barren,/area/submap/cliff2)
+"f" = (/obj/structure/cliff/automatic/corner{icon_state = "cliffbuilder-corner"; dir = 9},/turf/floor/barren,/area/submap/cliff2)
+"g" = (/turf/floor/barren,/area/submap/cliff2)
+"h" = (/obj/structure/cliff/automatic/corner,/turf/floor/barren,/area/submap/cliff2)
+"i" = (/obj/item/ore,/turf/floor/barren,/area/submap/cliff2)
+"j" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 8},/turf/floor/barren,/area/submap/cliff2)
+"k" = (/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"l" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 4},/turf/floor/barren,/area/submap/cliff2)
+"m" = (/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"n" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/diamond,/turf/floor/barren,/area/submap/cliff2)
+"o" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 10},/turf/floor/barren,/area/submap/cliff2)
+"p" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 2},/turf/floor/barren,/area/submap/cliff2)
+"q" = (/obj/structure/cliff/automatic/corner{icon_state = "cliffbuilder-corner"; dir = 10},/turf/floor/barren,/area/submap/cliff2)
+"r" = (/obj/structure/cliff/automatic/corner{icon_state = "cliffbuilder-corner"; dir = 6},/turf/floor/barren,/area/submap/cliff2)
+"s" = (/obj/structure/cliff/automatic{icon_state = "cliffbuilder"; dir = 6},/turf/floor/barren,/area/submap/cliff2)
+"t" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"C" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"D" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/turf/floor/barren,/area/submap/cliff2)
+"J" = (/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"L" = (/obj/item/stack/material/ore/diamond,/turf/floor/barren,/area/submap/cliff2)
+"M" = (/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/diamond,/turf/floor/barren,/area/submap/cliff2)
+"N" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/turf/floor/barren,/area/submap/cliff2)
+"O" = (/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/obj/item/stack/material/ore/silver,/turf/floor/barren,/area/submap/cliff2)
+"Y" = (/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/obj/item/stack/material/ore/gold,/turf/floor/barren,/area/submap/cliff2)
+
+(1,1,1) = {"
+ggggggggggg
+gggcdddeggg
+ggcfggghegg
+gcfggmgLheg
+gjgMJONgglg
+gjkDtkgmglg
+gjgkgmimglg
+gjgkLYgNglg
+gjgbggLkglg
+gjCOkJknglg
+gjggNmmaglg
+gjmkbgkbglg
+gjgggkkgglg
+gopqgggrpsg
+ggggggggggg
+"}
