@@ -23,6 +23,9 @@
 		var/bad_msg = "--------------- [A.proper_name]([A.type])"
 
 		var/exemptions = get_exemptions(A)
+		if(exemptions & global.using_map.SKIP_ALL_TESTS)
+			continue
+
 		if(!A.apc && !(exemptions & global.using_map.NO_APC))
 			log_bad("[bad_msg] lacks an APC.")
 			area_good = 0
@@ -815,10 +818,19 @@ var/global/_unit_test_sort_junctions = list()
 	package.test = src
 	packages_awaiting_delivery[package] = start_tag
 
+/datum/unit_test/networked_disposals_shall_deliver_tagged_packages/fail(message)
+	. = ..()
+	if(length(packages_awaiting_delivery))
+		log_unit_test("[ascii_red]!!! FAILURE !!! [length(packages_awaiting_delivery)] package\s still processing.")
+		for(var/obj/structure/disposalholder/unit_test/package in packages_awaiting_delivery)
+			var/turf/package_turf = get_turf(package)
+			log_unit_test("[ascii_red] - [packages_awaiting_delivery[package]]: [package_turf?.x || "NULL"],[package_turf?.y || "NULL"],[package_turf?.z || "NULL"]")
+		packages_awaiting_delivery.Cut()
+
 /obj/structure/disposalholder/unit_test
 	is_spawnable_type = FALSE // NO
-	var/datum/unit_test/networked_disposals_shall_deliver_tagged_packages/test
 	speed = 100
+	var/datum/unit_test/networked_disposals_shall_deliver_tagged_packages/test
 
 /obj/structure/disposalholder/unit_test/merge()
 	return FALSE

@@ -85,6 +85,9 @@
 /mob/living/simple_animal/passive/cat/fluff
 	ai = /datum/mob_controller/passive/hunter/cat/friendly
 
+/mob/living/simple_animal/passive/cat/fluff/is_tagging_suitable()
+	return FALSE
+
 /datum/mob_controller/passive/hunter/cat/friendly
 	var/befriend_job = null
 	var/atom/movement_target
@@ -230,3 +233,7 @@
 	desc = "Under no circumstances is this feline allowed inside the atmospherics system."
 	gender = FEMALE
 	holder_type = /obj/item/holder/runtime
+
+/mob/living/simple_animal/passive/cat/fluff/felix
+	name = "Felix"
+	desc = "A very oddly-behaved, malnourished cat. Their scratched name tag reads 'Felix'."

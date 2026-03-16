@@ -260,7 +260,7 @@
 /turf/floor/plating,
 /area/errant_pisces/bow_starboard)
 "aJ" = (
-/obj/machinery/atmospherics/unary/heater{
+/obj/machinery/atmospherics/unary/temperature/heater{
 	dir = 1
 	},
 /turf/floor/plating,
@@ -286,7 +286,7 @@
 /turf/floor/plating,
 /area/errant_pisces/bow_port)
 "aN" = (
-/obj/machinery/atmospherics/unary/heater{
+/obj/machinery/atmospherics/unary/temperature/heater{
 	dir = 1
 	},
 /turf/floor/plating,
@@ -4273,7 +4273,7 @@
 /area/errant_pisces/general_storage)
 "lE" = (
 /obj/structure/rack,
-/obj/item/ore,
+/obj/item/ore_satchel,
 /obj/random/tool,
 /turf/floor/plating,
 /area/errant_pisces/general_storage)
@@ -4314,7 +4314,6 @@
 /obj/structure/closet/secure_closet/hydroponics,
 /obj/structure/window/reinforced{
 	dir = 1;
-	current_health = 1e+006
 	},
 /turf/floor/tiled,
 /area/errant_pisces/science_wing)
@@ -4326,7 +4325,6 @@
 /obj/machinery/vending/hydronutrients,
 /obj/structure/window/reinforced{
 	dir = 1;
-	current_health = 1e+006
 	},
 /obj/structure/window/reinforced{
 	dir = 4
