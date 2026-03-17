@@ -76,8 +76,13 @@
 	#include "jobs/ranch.dm"
 	#include "jobs/sheriff.dm"
 
-	#include "offsite/_offsite.dm"
+//	#include "offsite/_offsite.dm"
 //	#include "dungeon/_dungeon.dm"
+
+	#include "outfits/_armors.dm"
+	#include "outfits/_boots.dm"
+	#include "outfits/_hats.dm"
+	#include "outfits/_jobs.dm"
 
 	#include "shuttles/_shuttles.dm"
 	#include "shuttles/crew_shuttles.dm"
@@ -110,13 +115,13 @@
 //	#include "lonestar-09.dmm"
 //	#include "lonestar-11.dmm"
 
-	#include "submaps/_lonestar_submaps.dm"
-	#include "submaps/belt/_belt.dm"
-	#include "submaps/belt/_belt_areas.dm"
-	#include "submaps/junkyard/_junkyard.dm"
-	#include "submaps/junkyard/_junkyard_areas.dm"
-	#include "submaps/slammer/_slammer.dm"
-	#include "submaps/slammer/_slammer_areas.dm"
+//	#include "submaps/_lonestar_submaps.dm"
+//	#include "submaps/belt/_belt.dm"
+//	#include "submaps/belt/_belt_areas.dm"
+//	#include "submaps/junkyard/_junkyard.dm"
+//	#include "submaps/junkyard/_junkyard_areas.dm"
+//	#include "submaps/slammer/_slammer.dm"
+//	#include "submaps/slammer/_slammer_areas.dm"
 
 	#define USING_MAP_DATUM /datum/map/lonestar
 

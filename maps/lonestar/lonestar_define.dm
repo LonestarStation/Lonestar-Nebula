@@ -13,7 +13,7 @@
 	system_name   = "Sol"
 
 	overmap_ids = list(OVERMAP_ID_SPACE)
-	num_exoplanets = 1
+	num_exoplanets = 0
 
 	lobby_screens = list(
 		'maps/lonestar/lobby/title_lonestar.png'
@@ -40,7 +40,7 @@
 		list("name" = "Entertainment", "key" = "z", "frequency" = 1461, "color" = COMMS_COLOR_ENTERTAIN, "span_class" = CSS_CLASS_RADIO, "receive_only" = TRUE),
 		list("name" = "Command",       "key" = "c", "frequency" = 1353, "color" = COMMS_COLOR_COMMAND,   "span_class" = "comradio", "secured" = list(access_bridge)),
 		list("name" = "Security",      "key" = "s", "frequency" = 1359, "color" = COMMS_COLOR_SECURITY,  "span_class" = "secradio", "secured" = list(access_security)),
-		list("name" = "Rangcom",       "key" = "y", "frequency" = 1312, "color" = COMMS_COLOR_COMMAND,   "span_class" = "secradio", "secured" = list(access_cent_rangers)),
+//		list("name" = "Rangcom",       "key" = "y", "frequency" = 1312, "color" = COMMS_COLOR_COMMAND,   "span_class" = "secradio", "secured" = list(access_cent_rangers)),
 		list("name" = "Engineering",   "key" = "e", "frequency" = 1357, "color" = COMMS_COLOR_ENGINEER,  "span_class" = "engradio", "secured" = list(access_engine)),
 		list("name" = "Medical",       "key" = "m", "frequency" = 1355, "color" = COMMS_COLOR_MEDICAL,   "span_class" = "medradio", "secured" = list(access_medical)),
 		list("name" = "Commando",      "key" = "o", "frequency" = 1356, "color" = COMMS_COLOR_SECURITY,  "span_class" = "medradio", "secured" = list(access_commando)),
@@ -110,7 +110,6 @@ var/global/const/access_delivery = "ACCESS_DELIVERY" //XX
 	desc = "Delivery Pilot"
 	region = ACCESS_REGION_SUPPLY
 
-var/global/const/access_warden = "ACCESS_WARDEN" //XX
 /datum/access/warden
 	id = access_delivery
 	desc = "Prison Warden"

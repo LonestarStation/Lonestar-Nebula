@@ -13,6 +13,7 @@
 	daycycle_type = /datum/daycycle/lonestar
 	daycycle_id = "daycycle_lonestar"
 
+/*
 /datum/level_data/main_level/lonestar/get_subtemplate_areas(template_category, blacklist, whitelist)
 	switch(template_category)
 		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_NORMAL_SLAMMER)
@@ -25,6 +26,7 @@
 			return list(/area/lonestar/roids/close)
 		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_FAR_BELT)
 			return list(/area/lonestar/roids/far)
+*/
 
 /datum/daycycle/lonestar
 	cycle_duration = 2 HOURS // 1 hour of daylight, 1 hour of night
@@ -135,10 +137,11 @@
 	)
 	return mobs_to_spawn
 
+/*
 /datum/level_data/main_level/lonestar/slammer/place_subtemplates()
 	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_NORMAL_SLAMMER)
 	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_DANGER_SLAMMER)
-
+*/
 
 /datum/level_data/main_level/lonestar/junkyard
 	name = "Wrecking Yard, Lonestar Station"
@@ -163,8 +166,10 @@
 	)
 	return mobs_to_spawn
 
+/*
 /datum/level_data/main_level/lonestar/junkyard/place_subtemplates()
 	spawn_subtemplates(100, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_JUNKYARD)
+*/
 
 /datum/level_data/main_level/lonestar/mining
 	name = "\improper Carl's Corner 2, Lonestar Station"
@@ -189,9 +194,11 @@
 	)
 	return mobs_to_spawn
 
+/*
 /datum/level_data/main_level/lonestar/mining/place_subtemplates()
 	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_CLOSE_BELT)
 	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_FAR_BELT)
+*/
 
 /datum/level_data/main_level/lonestar/transfer
 	name = "\improper Transfer Site, Lonestar Station"

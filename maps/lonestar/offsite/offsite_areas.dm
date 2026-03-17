@@ -1,6 +1,6 @@
 /area/lonestar/offsite
 //	ambience = AMBIENCE_SPACE
-	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
 
 // the Hunter's Lodge
 // Bounty Hunters
@@ -8,7 +8,7 @@
 	name = "\improper Hunter's Lodge"
 	icon_state = "yellow"
 	requires_power = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 
 /area/lonestar/offsite/lodge/main_building
@@ -37,7 +37,7 @@
 	icon_state = "yellow"
 	requires_power = 0
 	dynamic_lighting = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 
 /area/lonestar/offsite/homestead/main_building

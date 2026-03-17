@@ -1,7 +1,7 @@
 /obj/item/clothing/shoes/cowboy
 	name = "cowboy boots"
 	desc = "A pair of cowboy boots designed for cowboy activities. Yeehaw."
-	icon = 'icons/clothing/feet/cowboy.dmi'
+	icon = 'icon/boots/cowboy.dmi'
 	material = /decl/material/solid/organic/leather/synth
 	armor = list(
 		ARMOR_MELEE = ARMOR_MELEE_RESISTANT,
@@ -16,8 +16,8 @@
 
 /obj/item/clothing/shoes/cowboy/black
 	name = "black cowboy boots"
-	icon = 'icons/clothing/feet/cowboy_black.dmi'
+	icon = 'icon/boots/cowboy_black.dmi'
 
 /obj/item/clothing/shoes/cowboy/classic
 	name = "black cowboy boots"
-	icon = 'icons/clothing/feet/cowboy_classic.dmi'
+	icon = 'icon/boots/cowboy_classic.dmi'

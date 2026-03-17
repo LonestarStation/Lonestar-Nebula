@@ -2,7 +2,7 @@
 
 /area/lonestar/carls
 //	ambience = AMBIENCE_SPACE
-	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
 
 // The area near Carl's Corner, so POIs don't show up right next to the outpost.
 /area/lonestar/carls/perimeter

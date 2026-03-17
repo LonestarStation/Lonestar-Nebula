@@ -3,7 +3,7 @@
 /area/lonestar/cent
 	name = "lonestar central command"
 	requires_power = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 
 /area/lonestar/cent/yonder_transit
 	name = "Transit Station - Yonder Shuttle Docks"
@@ -105,7 +105,7 @@
 	name = "\improper Ranger Strike Cruiser"
 	icon_state = "centcom"
 	requires_power = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 	base_turf = /turf/space
 
@@ -119,7 +119,7 @@
 /area/shuttle/stickney
 	name = "LSR Stickney"
 	icon_state = "shuttlered"
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 	base_turf = /turf/floor/plating
 	holomap_color = HOLOMAP_AREACOLOR_MEDICAL
 
@@ -127,7 +127,7 @@
 /area/shuttle/ten_gallon
 	name = "LSR Ten Gallon"
 	icon_state = "shuttlered"
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 	base_turf = /turf/unsimulated/floor
 	holomap_color = HOLOMAP_AREACOLOR_CARGO
 
@@ -135,7 +135,7 @@
 /area/shuttle/bologna
 	name = "LST Bologna"
 	icon_state = "shuttlered"
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 	base_turf = /turf/floor/plating
 	holomap_color = HOLOMAP_AREACOLOR_CARGO
 
@@ -163,7 +163,7 @@
 	icon_state = "syndie-ship"
 	requires_power = 0
 	dynamic_lighting = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 
 /area/syndicate_station
@@ -171,7 +171,7 @@
 	icon_state = "syndie-ship"
 	requires_power = 0
 	dynamic_lighting = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 
 /area/syndicate_station/start
@@ -231,7 +231,7 @@
 	icon_state = "yellow"
 	requires_power = 0
 	dynamic_lighting = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 
 /area/skipjack_station/transit
@@ -285,7 +285,7 @@
 	name = "\improper Mysterious Base"
 	icon_state = "green"
 	requires_power = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 //	ambience = AMBIENCE_HIGHSEC
 
 /area/mysterious/stranger_base
@@ -362,7 +362,7 @@
 	icon_state = "syndie-ship"
 	requires_power = 0
 	dynamic_lighting = 0
-	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
 
 /area/hippy_station/start
 	name = "\improper homesteader shuttle"

@@ -35,7 +35,7 @@
 "gg" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/obj/structure/window/reinforced/full,/turf/floor,/area/space)
 "gi" = (/obj/structure/table/glass,/obj/item/binoculars,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
 "gn" = (/obj/machinery/light/small{dir = 1},/turf/floor,/area/space)
-"gV" = (/obj/structure/table/steel,/obj/machinery/atmospherics/pipe/manifold/visible,/turf/floor/shuttle/white,/area/space)
+"gV" = (/obj/structure/table/steel,/turf/floor/shuttle/white,/area/space)
 "ha" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/obj/machinery/meter,/turf/floor/shuttle/black,/area/space)
 "if" = (/obj/structure/closet/crate/med_crate/trauma,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
 "ih" = (/obj/structure/table/reinforced,/turf/unsimulated/floor{icon_state = "white"},/area/space)
@@ -58,10 +58,9 @@
 "mV" = (/obj/item/stack/medical/splint,/obj/item/stack/medical/splint,/obj/item/belt/medical/emt,/obj/structure/rack,/turf/floor/shuttle/white,/area/space)
 "nd" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/portable_atmospherics/canister/carbon_dioxide,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
 "nr" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
-"ny" = (/obj/machinery/atmospherics/portables_connector{icon_state = "map_connector"; dir = 4},/obj/machinery/portable_atmospherics/canister/oxygen/prechilled,/turf/floor/shuttle/white,/area/space)
 "nI" = (/obj/structure/lattice,/obj/structure/window/reinforced{dir = 1},/turf/space,/area/space)
 "oi" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/machinery/portable_atmospherics/canister/oxygen,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
-"oo" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9},/obj/machinery/light{dir = 4},/turf/floor/shuttle/white,/area/space)
+"oo" = (/obj/machinery/light{dir = 4},/turf/floor/shuttle/white,/area/space)
 "ov" = (/obj/machinery/door/firedoor{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
 "oQ" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 5},/turf/wall/shuttle/dark,/area/space)
 "oU" = (/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
@@ -71,7 +70,6 @@
 "rb" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/steel,/obj/item/chems/ivbag/blood/ominus,/obj/item/chems/ivbag/blood/ominus,/turf/floor/shuttle/white,/area/space)
 "ri" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/space,/area/space)
 "rv" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
-"rw" = (/obj/machinery/atmospherics/unary/freezer{icon_state = "freezer_0"; dir = 8},/turf/floor/shuttle/white,/area/space)
 "rD" = (/obj/structure/table/glass,/obj/item/clothing/glasses/sunglasses/prescription,/turf/unsimulated/floor{icon_state = "white"},/area/space)
 "rF" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
 "si" = (/obj/structure/bed/padded,/obj/item/bedsheet/brown,/turf/unsimulated/floor{icon_state = "lino"},/area/space)
@@ -182,7 +180,6 @@
 "OW" = (/obj/structure/table/glass,/obj/item/megaphone,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
 "Pe" = (/obj/structure/noticeboard{pixel_y = 28},/turf/unsimulated/floor{name = "plating"; icon_state = "cult"},/area/space)
 "Pn" = (/turf/floor,/area/space)
-"PL" = (/obj/machinery/atmospherics/pipe/manifold/visible{icon_state = "map"; dir = 8},/turf/floor/shuttle/white,/area/space)
 "Qx" = (/obj/machinery/door/airlock{name = "Unit 2"},/obj/machinery/door/firedoor{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
 "QV" = (/obj/structure/chair/office/light{dir = 4},/turf/unsimulated/floor{icon_state = "white"},/area/space)
 "QW" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/obj/structure/window/reinforced/full,/turf/floor,/area/space)
@@ -277,8 +274,8 @@ USUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXFgATejGJlvuXMIOFjQTUemfPfPfPemjQjQjQjQemfPEY
 USUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXYkuwXiValvuXMIlnjQjQzyfPfPfPzyjQjQjQjQzyfPfPfPfPfPfPfPfPfPfPfPfPfPzyjQjQjQemFesquXuXuXUSUSUSUS
 USUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXnInInInIlvuXMIOFjQjQemfPfPfPemjQjQjQjQemfPeOfPfPfPfPfPeOfPfPememememjQjQjQemFeRduXuXuXUSUSUSUS
 USUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXMIsrjQjQemfPfPdWemzPjQjQIWememememzyemctemdozyememHyHyemXFHujPememuXuXuXuXuXUSUSUS
-USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememTAYcemfPfPfPemjQjQjQjQemsXgndojQemememxHHyWLHyPLooemememememuXuXuXuXuXuXUSUSUS
-USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememememfPfPfPemememzyememjjPnJbjQjQemJQHyHyHynygVrwemFeIfOyuXuXuXuXuXuXuXUSUSUS
+USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememTAYcemfPfPfPemjQjQjQjQemsXgndojQemememxHHyWLHyHyooemememememuXuXuXuXuXuXUSUSUS
+USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememememfPfPfPemememzyememjjPnJbjQjQemJQHyHyHyHygVHyemFeIfOyuXuXuXuXuXuXuXUSUSUS
 USUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXemememfPfPfPemeKjQemHOPnPndojQKaemHyHyHyHyDiIFrbemFeIfsquXuXuXuXuXuXlvlvUSUS
 USUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXemememememOIkgemememememRkwEemLjHyHyfjExHyVqemFeIfsquXuXuXuXuXlvlvuXUSUS
 USUSlvlvuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXememememuXuXuXememememCISGHymVWdyfqGemVRIfRduXuXuXuXlvlvuXuXUSUS

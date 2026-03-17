@@ -2,7 +2,6 @@
 
 /area/lonestar/slammer
 //	ambience = AMBIENCE_SPACE
-	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
 
 // The area near the outpost, so POIs don't show up right next to the outpost.
 /area/lonestar/slammer/perimeter
