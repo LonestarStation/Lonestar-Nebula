@@ -1,0 +1,99 @@
+"aa" = (/turf/template_noop,/area/template_noop)
+"ab" = (/obj/random/ore,/obj/random/ore,/obj/random/ore,/turf/floor/barren,/area/submap/miner_camp1)
+"ac" = (/turf/wall,/area/submap/miner_camp1)
+"ad" = (/obj/structure/rack,/obj/random/projectile,/obj/item/gun/projectile/pistol/random,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ae" = (/obj/random/crate,/obj/random/maintenance/cargo,/obj/random/maintenance/cargo,/obj/random/maintenance/engineering,/obj/random/maintenance/medical,/obj/random/maintenance/security,/obj/machinery/light{dir = 1},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"af" = (/obj/random/crate,/obj/random/maintenance/cargo,/obj/random/maintenance/cargo,/obj/random/maintenance/engineering,/obj/random/maintenance/security,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ag" = (/obj/item/mech_equipment/clamp,/obj/structure/rack,/obj/item/rig_module/device/drill,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ah" = (/obj/machinery/alarm{frequency = 1441; pixel_y = 22},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ai" = (/obj/structure/closet/secure_closet/engineering_welding,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aj" = (/obj/structure/closet/secure_closet/miner,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ak" = (/obj/structure/closet/crate/trashcart,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"al" = (/obj/random/toolbox,/obj/structure/rack,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"am" = (/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"an" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 4},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ao" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ap" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 10},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aq" = (/obj/structure/loot_pile/maint/trash,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ar" = (/obj/random/maintenance/medical,/obj/structure/rack,/obj/random/maintenance/clean,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"as" = (/obj/structure/chair/wood{dir = 1},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"at" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"au" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/air/airlock,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"av" = (/obj/structure/cable/green{d2 = 2; icon_state = "0-2"},/obj/random/maintenance/engineering,/obj/structure/rack,/obj/machinery/apc{name = "north bump"; dir = 1; pixel_y = 24},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aw" = (/obj/machinery/vending/snack{dir = 4; name = "hacked Getmore Chocolate Corp"; prices = list()},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ax" = (/obj/structure/table/glass,/obj/random/single/cola,/obj/random/single/cola,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"ay" = (/obj/random/drinkbottle,/obj/structure/table/glass,/obj/random/smokes,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"az" = (/obj/structure/table/glass,/obj/item/cell/high/empty,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aA" = (/obj/machinery/atmospherics/pipe/manifold/hidden/supply{dir = 8},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aB" = (/obj/machinery/atmospherics/pipe/simple/visible/universal{dir = 4},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aC" = (/obj/machinery/atmospherics/pipe/manifold/hidden{dir = 1; icon_state = "map"},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aD" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/machinery/door/airlock/hatch,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"aE" = (/obj/machinery/atmospherics/pipe/manifold/hidden,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aF" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 9},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aG" = (/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aH" = (/obj/machinery/vending/cola{dir = 4},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aI" = (/obj/machinery/atmospherics/pipe/simple/hidden,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aJ" = (/obj/machinery/cell_charger,/obj/structure/table/steel,/obj/item/cell/high,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aK" = (/obj/machinery/power/terminal{dir = 4},/obj/machinery/port_gen/pacman,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aL" = (/obj/structure/cable/green,/obj/machinery/power/smes/buildable/preset/hidden,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aM" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 9},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aN" = (/obj/machinery/space_heater,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aO" = (/obj/structure/closet/emcloset,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aP" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 6},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aQ" = (/obj/structure/chair/wood,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aR" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aS" = (/obj/structure/ore_box,/obj/machinery/atmospherics/pipe/simple/hidden{dir = 9},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"aT" = (/obj/structure/loot_pile/maint/trash,/turf/floor/barren,/area/submap/miner_camp1)
+"aU" = (/obj/structure/ore_box,/turf/floor/barren,/area/submap/miner_camp1)
+"aV" = (/obj/structure/window/reinforced/full,/turf/floor/plating,/area/submap/miner_camp1)
+"aW" = (/obj/machinery/atmospherics/pipe/simple/hidden,/obj/machinery/door/airlock/external/glass/bolted,/obj/machinery/button/access/interior{dir = 1; pixel_x = 24; pixel_y = 12},/obj/abstract/airlock_helper/button,/obj/abstract/airlock_helper/door/int_door,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"aX" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 6},/obj/machinery/embedded_controller/radio/airlock/airlock_controller{id_tag = "mcamp1_airlock"; layer = 3.3; pixel_x = -25; pixel_y = 0; pixel_z = 0; dir = 4},/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"aY" = (/obj/machinery/atmospherics/pipe/manifold/hidden,/obj/machinery/meter,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"aZ" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 10},/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"ba" = (/obj/random/ore,/turf/floor/barren,/area/submap/miner_camp1)
+"bb" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume/external_air{dir = 1},/obj/machinery/airlock_sensor{dir = 4; pixel_x = -25; pixel_y = 11},/obj/abstract/airlock_helper/atmos/chamber_pump,/obj/abstract/airlock_helper/sensor/chamber_sensor,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"bc" = (/obj/machinery/floodlight,/turf/floor/barren,/area/submap/miner_camp1)
+"bd" = (/obj/machinery/door/airlock/external/glass/bolted,/obj/machinery/button/access/exterior{pixel_x = 24; pixel_y = -12; directional_offset = null},/obj/abstract/airlock_helper/button,/obj/abstract/airlock_helper/door/ext_door,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"be" = (/obj/machinery/light/small{dir = 1},/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"bf" = (/obj/machinery/airlock_sensor{pixel_y = 12},/obj/abstract/airlock_helper/sensor/ext_sensor,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"bg" = (/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"bh" = (/turf/floor/barren,/area/submap/miner_camp1)
+"bi" = (/obj/random/ore,/obj/random/ore,/turf/floor/barren,/area/submap/miner_camp1)
+"bj" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/miner_camp1)
+"bk" = (/obj/structure/closet/secure_closet/miner,/obj/machinery/light{dir = 1},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"bl" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/air/airlock,/obj/machinery/light{dir = 1},/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"bm" = (/obj/structure/closet/emcloset,/obj/machinery/light,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"bn" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/machinery/light,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"fQ" = (/obj/structure/loot_pile/maint/trash,/obj/item/tool/drill,/turf/floor/barren,/area/submap/miner_camp1)
+"AQ" = (/obj/structure/mech_wreckage/powerloader,/turf/floor/barren,/area/submap/miner_camp1)
+"Fx" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume/external_air{dir = 1},/obj/abstract/airlock_helper/atmos/chamber_pump,/turf/floor/tiled/steel_grid,/area/submap/miner_camp1)
+"GJ" = (/obj/machinery/airlock_sensor{dir = 1; pixel_y = -12},/obj/abstract/airlock_helper/sensor/int_sensor,/turf/floor/tiled/dark,/area/submap/miner_camp1)
+"JY" = (/obj/random/single/lighter,/turf/floor/barren,/area/submap/miner_camp1)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhbhaaaa
+aaaaacacacacacacacacacacacaaaaaaaaaaaabhbjbabhaaaa
+aaaaacadaeafagahaiajbkakacaaaaaaaaaaaabhbhbhbhaaaa
+aaaaacalamanaoaoaoapamaqacacacacacaabhbhbhaaaaaaaa
+aaaaacaramamaQaQaQatamamacaublavacaabhbhbhaaaaaaaa
+aaaaacawamamaxayazaAaBaCaDaEaFaGacaabhbhaaaaaaaaaa
+aaaaacaHamamasasasatamaIacaJaKaLacaabhbhaaaaaaaaaa
+aaaaacaqamanaoaoaoaMamaIacacacacacbhbhbhaaaaaaaaaa
+aaaaacaNbmaOGJaPaRaRbnaSacfQaUaUbhbhbhaaaaaaaaaaaa
+aaaaacacacacaVaWaVacacacacaaabbhbjbabhaaaaaaaaaaaa
+aaaaaaaaaaacaXaYaZacaaaaaabhAQbibhbhbabhaaaaaaaaaa
+aaaaaaaaaaacbbbgFxacaaaaaabhbhbhbcbhbhbhaaaaaaaaaa
+aaaaaaaaaaacaVbdaVacaaaaaaaabhJYbhbjbhaaaaaaaaaaaa
+aaaaaaaaaabebfbgbgbebhbhbhbhbhbhbhbhbhaaaaaaaaaaaa
+aaaaaaaTbhbabhbhbhbhbhbibhbhbhaaaaaaaaaaaaaaaaaaaa
+aabhbhbhbibhbjbhbhbhbhbhbhbhbhaaaaaaaaaaaaaaaaaaaa
+aaaaaaaabhbhbhbhaaaaaaaaaabhbhbhbhaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhbhbhbcaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhbabjbhbhaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhbhbhbhbhbhbhaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabhbhbhbh
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

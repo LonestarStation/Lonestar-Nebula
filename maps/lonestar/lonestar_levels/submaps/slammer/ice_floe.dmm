@@ -1,0 +1,68 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/wall/natural,/area/submap/ice_floe)
+"c" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/ice_floe)
+"d" = (/obj/item/stool/padded,/turf/floor/wood,/area/submap/ice_floe)
+"e" = (/turf/floor/wood/broken/four,/area/submap/ice_floe)
+"f" = (/turf/floor/ice,/area/submap/ice_floe)
+"g" = (/obj/machinery/light/small{dir = 4},/turf/floor/barren,/area/submap/ice_floe)
+"h" = (/turf/wall/r_wall,/area/submap/ice_floe)
+"i" = (/obj/effect/wingrille_spawn,/turf/floor/plating,/area/submap/ice_floe)
+"j" = (/obj/structure/coatrack,/obj/structure/cable/green{d2 = 2; icon_state = "0-2"},/obj/item/clothing/suit/jacket/winter,/obj/machinery/airlock_sensor{pixel_x = -12; dir = 4},/obj/machinery/apc{name = "north bump"; dir = 1; pixel_x = 0; pixel_y = 24},/obj/abstract/airlock_helper/sensor/int_sensor,/turf/floor/wood,/area/submap/ice_floe)
+"k" = (/turf/floor/wood,/area/submap/ice_floe)
+"l" = (/obj/structure/table/wood,/obj/item/chems/drinks/bottle/whiskey{pixel_x = -7; pixel_y = 5},/obj/item/chems/drinks/bottle/whiskey,/turf/floor/wood,/area/submap/ice_floe)
+"m" = (/obj/item/flashlight/lamp,/obj/structure/table/wood,/turf/floor/wood,/area/submap/ice_floe)
+"n" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/air/airlock,/turf/floor/wood,/area/submap/ice_floe)
+"o" = (/obj/item/box/ammo/shotgunammo/large,/obj/item/box/ammo/shotgunammo/large,/obj/item/gun/projectile/shotgun/pump,/obj/structure/closet,/obj/item/chems/glass/handmade/bottle/wide/whiskey,/obj/item/chems/drinks/bottle/agedwhiskey,/turf/floor/wood,/area/submap/ice_floe)
+"p" = (/obj/structure/closet/cabinet,/turf/floor/wood,/area/submap/ice_floe)
+"q" = (/obj/structure/closet/secure_closet/miner,/turf/floor/wood,/area/submap/ice_floe)
+"r" = (/obj/structure/table/steel,/turf/floor/barren,/area/submap/ice_floe)
+"s" = (/turf/wall/wood,/area/submap/ice_floe)
+"t" = (/obj/structure/table/steel,/obj/item/robot_parts/robot_component/actuator,/turf/floor/barren,/area/submap/ice_floe)
+"u" = (/obj/effect/decal/cleanable/blood,/turf/floor/barren,/area/submap/ice_floe)
+"v" = (/turf/floor/wood/broken/two,/area/submap/ice_floe)
+"w" = (/obj/machinery/door/airlock/external/bolted,/obj/machinery/button/access/exterior{dir = 8; pixel_x = -16; pixel_y = 24; directional_offset = null},/obj/abstract/airlock_helper/button,/obj/abstract/airlock_helper/door/ext_door,/turf/floor/plating,/area/submap/ice_floe)
+"x" = (/obj/machinery/embedded_controller/radio/airlock/airlock_controller{id_tag = "floe_airlock"; pixel_x = 0; pixel_y = 25; pixel_z = 0},/obj/machinery/airlock_sensor{layer = 3.3; pixel_x = 0; pixel_y = -18; dir = 1},/obj/abstract/airlock_helper/atmos/chamber_pump,/obj/machinery/atmospherics/unary/vent_pump/high_volume/external_air{dir = 4},/obj/abstract/airlock_helper/sensor/chamber_sensor,/turf/floor/plating,/area/submap/ice_floe)
+"y" = (/obj/machinery/button/access/interior{dir = 4; pixel_y = 24; pixel_x = 16},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/machinery/door/airlock/external/bolted,/obj/abstract/airlock_helper/button,/obj/abstract/airlock_helper/door/int_door,/turf/floor/plating,/area/submap/ice_floe)
+"z" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/floor/wood,/area/submap/ice_floe)
+"A" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4},/turf/floor/wood,/area/submap/ice_floe)
+"B" = (/obj/machinery/atmospherics/pipe/manifold/hidden,/turf/floor/wood,/area/submap/ice_floe)
+"C" = (/obj/machinery/atmospherics/pipe/simple/visible/universal{dir = 4},/obj/structure/door/wood,/turf/floor/wood,/area/submap/ice_floe)
+"D" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/floor/wood,/area/submap/ice_floe)
+"E" = (/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/mob/living/simple_animal/hostile/rogue_drone,/turf/floor/wood,/area/submap/ice_floe)
+"F" = (/obj/machinery/light/small{dir = 4},/obj/item/remains/human,/obj/item/clothing/jumpsuit/miner,/turf/floor/wood/broken/one,/area/submap/ice_floe)
+"G" = (/obj/item/remains/robot,/turf/floor/barren,/area/submap/ice_floe)
+"H" = (/obj/structure/table/steel,/obj/item/robotanalyzer,/turf/floor/barren,/area/submap/ice_floe)
+"I" = (/obj/structure/table/bench/steel,/turf/floor/barren,/area/submap/ice_floe)
+"J" = (/turf/floor/barren,/area/submap/ice_floe)
+"K" = (/obj/structure/cable/green,/obj/machinery/power/smes/buildable/preset/hidden,/turf/floor/wood,/area/submap/ice_floe)
+"L" = (/obj/machinery/port_gen/pacman,/obj/structure/cable{icon_state = "0-8"; d2 = 8},/turf/floor/wood,/area/submap/ice_floe)
+"M" = (/obj/structure/table/wood,/obj/machinery/alarm{dir = 1; pixel_y = -25},/obj/item/chems/drinks/bottle/whiskey,/turf/floor/wood,/area/submap/ice_floe)
+"N" = (/obj/structure/bed/padded,/turf/floor/wood,/area/submap/ice_floe)
+"O" = (/obj/machinery/alarm{dir = 1; pixel_y = -25},/obj/structure/plushie/drone,/turf/floor/wood/broken/three,/area/submap/ice_floe)
+"P" = (/obj/structure/table/steel,/obj/item/robot_parts/l_leg,/obj/item/robot_parts/head,/turf/floor/barren,/area/submap/ice_floe)
+"Q" = (/obj/effect/decal/cleanable/blood/gibs/robot,/turf/floor/barren,/area/submap/ice_floe)
+"R" = (/obj/machinery/power/terminal{dir = 8},/obj/structure/rack,/obj/structure/cable{icon_state = "0-4"; d2 = 4},/obj/item/toolbox/mechanical,/turf/floor/wood,/area/submap/ice_floe)
+"S" = (/obj/machinery/airlock_sensor{pixel_x = 12; dir = 8},/obj/abstract/airlock_helper/sensor/ext_sensor,/turf/floor/barren,/area/submap/ice_floe)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabbbbbbbbbbbbbbbbbbbbbbbbbJJJJJJbbbbbbbbbba
+aabbJJJJJJJJbbbbbbbbbbbbbJJJcJJJJcJbbbbbbbbba
+affffffJJcJJJJJJJJJJJJJJJJJJJJJJJJJJJJJbbbbba
+afffffffffffffJJJJJJJJffffffffffffJJJJJJJJJJa
+affffffffffffffffffffffffffffffffffffffJJJJJa
+aaffffffffffffffffffffffffffffffffffffffffJJa
+aafffffffffffffffffffffffffffffffffffffffffJa
+affffffffffffffffffffffffffffffffffffffffffJa
+affffffffffffffffffffffffffffffffJJJJJJJJJJJa
+affffffffffffffffffffffffffffffJJJJJJJJJJJJJa
+aabbJJJJJJJJJffffffffffJJJJJJJJJJJcJbbbbbbJJa
+aaaabJJJJJJJJJJJJJJJJJJJJJJJJJJJJJbbbbbbbbbba
+aaabbbJJJJJJcJJJJJJJJJJJJJJJJJJbbbbbbbbbbbbba
+aabbbbbJJJJGJJJJJJgssiiiiissssssbbbbbbbbbbaba
+aaaabbbbJJJJJJJJJhhhjedlmnnsopqsbbbbbbbbaaaba
+aaaabbbbbrrtuJcJJwxyzAAAABBCDEFsbbbbbbbbaaaaa
+aaaaaaabbbbrHIJJShhhKRLkvkMsNONsbbbbbbbbaaaaa
+aaaaaaaabbbbPQuJJJgssiiiiissssssbbbbbbbabaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

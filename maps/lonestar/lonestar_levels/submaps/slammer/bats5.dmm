@@ -1,0 +1,31 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/cave/bats5)
+"c" = (/obj/structure/boulder,/turf/floor/barren,/area/submap/cave/bats5)
+"d" = (/obj/item/cash/c20,/turf/floor/barren,/area/submap/cave/bats5)
+"e" = (/obj/item/cash/c50,/turf/floor/barren,/area/submap/cave/bats5)
+"f" = (/obj/item/coin/gold,/turf/floor/barren,/area/submap/cave/bats5)
+"h" = (/obj/item/cash/c200,/turf/floor/barren,/area/submap/cave/bats5)
+"i" = (/turf/floor/barren,/area/submap/cave/bats5)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaa
+aiiciiiiiiiiiaaiiiia
+iiiiibiiiiiiiiiiiiia
+iiiiiiiiaaiiiiiciiii
+aibiiciiaaaiibiiiiii
+aiiiiiiiaaaiiiiiiiii
+aaiaaiiaaaaiiiiiiiii
+aaaaiiiiaaaiiifiiiii
+aaaaiieiiaaaiiiciiii
+aaiaaiiifiieiiiiibii
+aaiiiiididfiiiciiiia
+aaiiiiiiihidiiiiiiia
+aiiiidiifiiiiiiiiiia
+iiibiiiaaieiiiiiiiia
+iiiiiiaaaaaiibiiiiaa
+iiiiiaaaaaaiiiiiiaaa
+aiiiiiaaaaiiiiiiaaaa
+aaiiiibiiiiiiiiaaaaa
+aaaiiiiiiiiiiiaaaaaa
+aaaaaaaaaaaaaaaaaaaa
+"}

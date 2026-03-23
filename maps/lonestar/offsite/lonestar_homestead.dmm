@@ -127,7 +127,7 @@
 "ND" = (/obj/machinery/apc{name = "north bump"; dir = 1; pixel_x = 0; pixel_y = 24},/obj/structure/cable/green{icon_state = "0-2"; d2 = 2},/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/lonestar/offsite/homestead/main_building)
 "NR" = (/obj/structure/closet/crate/trashcart,/obj/random/maintenance/clean,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
 "OX" = (/obj/structure/fence/corner,/turf/unsimulated/floor{icon_state = "grass0"; name = "grass"},/area/lonestar/offsite/homestead)
-"Pf" = (/obj/machinery/embedded_controller/radio/simple_docking_controller{pixel_x = 0; pixel_y = 25; tag_door = "cult_shuttle_hatch"},/turf/floor/shuttle/blue,/area/lonestar/offsite/homestead)
+"Pf" = (/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/hunters_lodge,/turf/unsimulated/mineral,/area/lonestar/offsite/homestead)
 "Pn" = (/obj/structure/fence/door{dir = 4},/turf/unsimulated/floor{icon_state = "asteroid"},/area/lonestar/offsite/homestead)
 "Pq" = (/obj/structure/table/glass,/obj/machinery/reagentgrinder/juicer,/turf/unsimulated/floor{icon_state = "steel"},/area/lonestar/offsite/homestead/main_building)
 "PQ" = (/obj/structure/flora/pottedplant/minitree,/turf/unsimulated/floor{dir = 8; icon_state = "wood"},/area/lonestar/offsite/homestead/main_building)
@@ -217,7 +217,7 @@ qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJqJqJqJTeTeTeTeFLRkRkRkFLTeTeTeqJ
 qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJqJqJqJTeTeTeFLFLCcCcCcFLFLTeTeTeqJqJqJltltWpWpzcltltzcltltltltltltIfqJqJqJqJqJqJqJ
 qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJqJqJqJTeTeTeFLnEAnCcAnUWFLTeTeTeqJqJqJltltWpWpzcltltzcltltltltltltqJqJqJqJqJqJqJqJ
 qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMltltWpWpltltqJMmqJqJTeTeFLFLfPZNAtFLdVFLFLTeqJqJqJMmltltWpWpzczcltltltltltltltzcqJqJqJqJqJqJqJqJ
-qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMWpltWpWpWpltWpMmMmMmMmMmFLPfouJaHQatouWiFLMmMmMmMmMmWpltWpWpzczcltltltltltltltzcqJqJqJqJqJqJqJqJ
+qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMWpltWpWpWpltWpMmMmMmMmMmFLWiouJaHQatouWiFLMmMmMmMmMmWpltWpWpzczcltltltltltltltzcqJqJqJqJqJqJqJqJ
 qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVmmWpWpWpWpWpWpWpYZvfvfvfYZKKWiWiWiWiWiWiWiKKYZvfvfvfYZWpWpWpWpzczczczcltltltltltzczczcqJqJqJqJqJqJ
 qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVmmWpWpWpWpWpWpWpYZvfvfvfYZKKWiWiWiWiWiWiWiKKYZvfvfvfYZWpWpWpWpzczczczcltltltltltltzczczczcqJqJqJqJ
 qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMWpltWpWpWpltWpMmMmMmMmMmFLFkFkWiWiWiPRJZFLMmMmMmMmMmWpltWpWpzczczczczczcltltltltltltzczczcqJqJqJ
@@ -230,6 +230,6 @@ qJqJDMvVrbrbrbrbrbrbrbrbrbrbrbvVDMqJqJqJqJWpWpWpYZvfvfvfYZKKryKZKZKZKZKZhUKKYZvf
 qJqJDMvVvVvVvVvVvVvVvVvVvVvVvVvVDMqJqJqJqJltltWpMmMmMmMmMmFLBNVEVEVEVEVERQFLMmMmMmMmMmWpltltzczczctogygygygygygygygygyIQqJqJqJqJqJ
 qJDMDMDMDMLVLVLVLVLVLVLVLVLVDMDMDMDMDMqJqJqJqJqJMmqJqJTeTeFLtMEeVEVEVEHgomFLTeqJqJqJMmltltzczczczczczczczczczczczczczczcqJqJqJqJqJ
 qJqJqJqJDMvVvVvVvVvVvVvVvVvVDMqJqJqJqJqJqJqJqJqJqJqJTeTeTeFLyFFLQkQkQkFLyFFLTeTeqJqJqJqJqJzczczczczczczczczczczczcqJqJqJqJqJqJqJqJ
-qJqJqJqJDMvVvVvVvVvVvVvVvVvVDMqJqJqJqJqJqJqJqJqJTeTeTeTeTeTeTeFLyFyFyFFLTeTeTeTeqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
+qJPfqJqJDMvVvVvVvVvVvVvVvVvVDMqJqJqJqJqJqJqJqJqJTeTeTeTeTeTeTeFLyFyFyFFLTeTeTeTeqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
 qJqJqJqJRgLVLVLVLVLVLVLVLVLVRgqJqJqJqJqJqJqJqJIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXIXqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJqJ
 "}

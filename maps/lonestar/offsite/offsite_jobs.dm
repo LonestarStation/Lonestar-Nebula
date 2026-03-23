@@ -1,8 +1,8 @@
 //TODO: ALL O THIS
 
 // Submap datum and archetype.
-/decl/submap_archetype/hunters_lodge
-	name      = "hunters lodge"
+/decl/submap_archetype/bounty_lodge
+	name      = "bounty lodge"
 	crew_jobs = list(
 		/datum/job/submap/bounty_chief,
 		/datum/job/submap/bounty_hunter

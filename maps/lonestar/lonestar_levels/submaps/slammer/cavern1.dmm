@@ -1,0 +1,39 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/cave/cavern1)
+"c" = (/turf/floor/barren,/area/submap/cave/cavern1)
+"d" = (/obj/structure/ore_box,/turf/floor/barren,/area/submap/cave/cavern1)
+"f" = (/obj/vehicle/train/trolley,/turf/floor/barren,/area/submap/cave/cavern1)
+"g" = (/obj/vehicle/train/engine,/turf/floor/barren,/area/submap/cave/cavern1)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaccaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaccaaaccacccaaaa
+aaccaaaaaaaaaaaaaaaaccccccaaaa
+aaccaaaaaaaccaaaaaaacccccaaaaa
+aaaaaaaaaaacccaaaaaaaacccaaaaa
+aaaaaacccaccccccaaaaaaaaaaaaaa
+aaaaaccccaccccccaaaaaaaaaaaaaa
+aaaaccccccccccccccaaaaaaaaaaaa
+aaaaccccccccccbccccccaacccaaaa
+aaaacccccccccccccccccaacccaaaa
+aaaacccbcccbcccccccccccccccaaa
+aaaacccccccccccccccccccccccaaa
+aaaacccccccccccccccccbcccccaaa
+aaaacccccccccccccccccccccccaaa
+aaaaacccaaccccdcccccccccccaaaa
+aaaaaccccaaccdffgcccccccccaaaa
+aaaaaccccacccccccccccccaccaaaa
+aaaaacccccccccccccccccccccaaaa
+aaaaaccbccccccccccccbcccccaaaa
+aaaaaaccccccccccbcccccccccaaaa
+aaaaaacccccccccccccccccccaaaaa
+aaacaaccccccbcccccccccccccaaaa
+aaccaaccccccccccccccccccccaaaa
+aacccaaccccccccccccccccccaaaaa
+aaaccaaccccaccccccaaaaaaaaaaaa
+aacccaaccccacccaccaaaaaccccaaa
+aaccaaaaccaaaacacaaaaacccaccaa
+aaaaaaaaaaaaaaaacaaaaaaccccaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

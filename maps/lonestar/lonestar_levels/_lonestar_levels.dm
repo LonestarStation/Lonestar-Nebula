@@ -8,25 +8,10 @@
 	abstract_type = /datum/level_data/main_level/lonestar
 	ambient_light_level = 1
 	ambient_light_color = "#f3e6ca"
-	strata = /decl/strata/igneous
+	strata = /decl/strata/lonestar
 	exterior_atmosphere = null
 	daycycle_type = /datum/daycycle/lonestar
 	daycycle_id = "daycycle_lonestar"
-
-/*
-/datum/level_data/main_level/lonestar/get_subtemplate_areas(template_category, blacklist, whitelist)
-	switch(template_category)
-		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_NORMAL_SLAMMER)
-			return list(/area/lonestar/slammer/normal)
-		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_DANGER_SLAMMER)
-			return list(/area/lonestar/slammer/deep)
-		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_JUNKYARD)
-			return list(/area/lonestar/yard/wrecking)
-		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_CLOSE_BELT)
-			return list(/area/lonestar/roids/close)
-		if(/datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_FAR_BELT)
-			return list(/area/lonestar/roids/far)
-*/
 
 /datum/daycycle/lonestar
 	cycle_duration = 2 HOURS // 1 hour of daylight, 1 hour of night
@@ -117,13 +102,13 @@
 		/datum/random_map/automata/cave_system,
 		/datum/random_map/noise/ore/rich
 	)
-	base_turf = /turf/floor/barren
 	connected_levels = list(
-		"lonestar_junkyard"       = NORTH,
+		"lonestar_junkyard"    = NORTH,
 		"lonestar_topside"     = SOUTH
 	)
-
-
+	subtemplate_budget = 150
+	subtemplate_category = MAP_TEMPLATE_CATEGORY_LONESTAR_SLAMMER
+	subtemplate_area = /area/lonestar/slammer/poi
 
 /datum/level_data/main_level/lonestar/slammer/get_mobs_to_populate_level()
 	var/static/list/mobs_to_spawn = list(
@@ -136,40 +121,32 @@
 		)
 	)
 	return mobs_to_spawn
-
-/*
-/datum/level_data/main_level/lonestar/slammer/place_subtemplates()
-	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_NORMAL_SLAMMER)
-	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_DANGER_SLAMMER)
-*/
 
 /datum/level_data/main_level/lonestar/junkyard
 	name = "Wrecking Yard, Lonestar Station"
 	level_id = "lonestar_junkyard"
-	level_generators = list(
-		/datum/random_map/noise/ore
-	)
+//	level_generators = list(
+//		/datum/random_map/noise/ore
+//	)
 	connected_levels = list(
 		"lonestar_mining_station"     = NORTH,
 		"lonestar_slammer"    		  = SOUTH
 	)
+	subtemplate_budget = 100
+	subtemplate_category = MAP_TEMPLATE_CATEGORY_LONESTAR_JUNKYARD
+	subtemplate_area = /area/lonestar/yard/junk/poi
 
 /datum/level_data/main_level/lonestar/slammer/get_mobs_to_populate_level()
 	var/static/list/mobs_to_spawn = list(
 		list(
 			list(
-				/mob/living/simple_animal/passive/mouse        = 3
+				/mob/living/simple_animal/passive/mouse        = 9
 			),
 			/turf/floor/plating,
 			10
 		)
 	)
 	return mobs_to_spawn
-
-/*
-/datum/level_data/main_level/lonestar/junkyard/place_subtemplates()
-	spawn_subtemplates(100, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_JUNKYARD)
-*/
 
 /datum/level_data/main_level/lonestar/mining
 	name = "\improper Carl's Corner 2, Lonestar Station"
@@ -181,6 +158,9 @@
 	connected_levels = list(
 		"lonestar_junkyard"     = SOUTH
 	)
+	subtemplate_budget = 150
+	subtemplate_category = MAP_TEMPLATE_CATEGORY_LONESTAR_CRUMBLE
+	subtemplate_area = /area/lonestar/roids/poi
 
 /datum/level_data/main_level/lonestar/mining/get_mobs_to_populate_level()
 	var/static/list/mobs_to_spawn = list(
@@ -193,12 +173,6 @@
 		)
 	)
 	return mobs_to_spawn
-
-/*
-/datum/level_data/main_level/lonestar/mining/place_subtemplates()
-	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_CLOSE_BELT)
-	spawn_subtemplates(75, /datum/map/lonestar::MAP_TEMPLATE_CATEGORY_LONESTAR_FAR_BELT)
-*/
 
 /datum/level_data/main_level/lonestar/transfer
 	name = "\improper Transfer Site, Lonestar Station"

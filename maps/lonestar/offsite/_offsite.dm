@@ -1,26 +1,26 @@
 #include "offsite_access.dm"
 #include "offsite_areas.dm"
 #include "offsite_jobs.dm"
-#include "offsite_shuttles.dm"
+//#include "offsite_shuttles.dm"
 
 ////
 // Map template data.
 ////
-/datum/map_template/ruin/away_site/hunters_lodge
-	name = "Hunters Lodge"
-	description = "A training facility for bounty hunters with elite training."
-	suffixes = list("offsite/hunters_lodge.dmm")
-	cost = 1
+/datum/map_template/ruin/away_site/bounty_lodge
+	name = "Bounty Hunters Lodge"
+	description = "A facility for bounty hunters with various levels of training."
+	suffixes = list("offsite/bounty_lodge.dmm")
+	cost = 0
 	area_usage_test_exempted_root_areas = list(/area/lonestar/offsite)
 //	shuttles_to_initialise = list(
 //		/datum/shuttle/autodock/overmap/mule
 //	)
 
-/datum/map_template/ruin/away_site/lonestar_homestead
+ /datum/map_template/ruin/away_site/lonestar_homestead
 	name = "Homestead"
 	description = "A cave in the Lonestar asteroid where some locals have set up a homestead."
 	suffixes = list("offsite/lonestar_homestead.dmm")
-	cost = 1
+	cost = 0
 	area_usage_test_exempted_root_areas = list(/area/lonestar/offsite)
 //	shuttles_to_initialise = list(
 //		/datum/shuttle/autodock/overmap/mule
@@ -30,7 +30,7 @@
 	name = "Privateer Base"
 	description = "The headquarters for a group of Lonestar Mercenaries."
 	suffixes = list("offsite/mercenary_base.dmm")
-	cost = 1
+	cost = 0
 	area_usage_test_exempted_root_areas = list(/area/lonestar/offsite)
 //	shuttles_to_initialise = list(
 //		/datum/shuttle/autodock/overmap/mule
@@ -40,7 +40,7 @@
 	name = "Outlaw Hideout"
 	description = "Somewhere people can avoid the eyes of the law."
 	suffixes = list("offsite/outlaw_hideout.dmm")
-	cost = 1
+	cost = 0
 	area_usage_test_exempted_root_areas = list(/area/lonestar/offsite)
 //	shuttles_to_initialise = list(
 //		/datum/shuttle/autodock/overmap/mule
@@ -50,7 +50,7 @@
 	name = "Ranger Command"
 	description = "The beating heart of Lonestar Ranger Tactical Command."
 	suffixes = list("offsite/ranger_command.dmm")
-	cost = 1
+	cost = 0
 	area_usage_test_exempted_root_areas = list(/area/lonestar/offsite)
 //	shuttles_to_initialise = list(
 //		/datum/shuttle/autodock/overmap/mule
@@ -60,7 +60,7 @@
 	name = "Warehouse Station"
 	description = "A very large corporate stockhouse, filled with all kinds of exotic goods."
 	suffixes = list("offsite/warehouse_station.dmm")
-	cost = 1
+	cost = 0
 	area_usage_test_exempted_root_areas = list(/area/lonestar/offsite)
 //	shuttles_to_initialise = list(
 //		/datum/shuttle/autodock/overmap/mule
@@ -69,8 +69,8 @@
 ////
 // Overmap objects.
 ////
-/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/hunters_lodge
-	name = "Hunters Lodge"
+/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/bounty_lodge
+	name = "Bounty Lodge"
 	desc = "Sensors detect a small outpost of some kind."
 //	level_generators    = null
 	sector_flags = OVERMAP_SECTOR_KNOWN
@@ -78,9 +78,9 @@
 //		/datum/shuttle/autodock/overmap/mule = list("nav_mule_start")
 //	)
 
-/obj/abstract/submap_landmark/joinable_submap/hunters_lodge
-	name = "Hunters Lodge"
-	archetype = /decl/submap_archetype/hunters_lodge
+/obj/abstract/submap_landmark/joinable_submap/bounty_lodge
+	name = "Bounty Lodge"
+	archetype = /decl/submap_archetype/bounty_lodge
 
 /obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/lonestar_homestead
 	name = "Lonestar Homestead"
@@ -92,7 +92,7 @@
 //	)
 
 /obj/abstract/submap_landmark/joinable_submap/lonestar_homestead
-	name = "Hunters Lodge"
+	name = "Lonestar Homestead"
 	archetype = /decl/submap_archetype/lonestar_homestead
 
 /obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/privateer_base

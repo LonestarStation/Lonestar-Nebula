@@ -1,0 +1,11 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/floor/barren,/area/submap/buried_stash2)
+"c" = (/obj/random/contraband,/obj/random/contraband,/obj/random/cash,/obj/random/cash,/obj/random/cash,/obj/random/cash,/obj/random/drinkbottle,/obj/random/drinkbottle,/obj/structure/pit/closed,/obj/item/grenade/frag/high_yield,/obj/item/grenade/frag,/obj/item/grenade/frag,/obj/random/cash,/obj/random/cash,/turf/floor/barren,/area/submap/buried_stash2)
+
+(1,1,1) = {"
+aaaaa
+abbba
+abcba
+abbba
+aaaaa
+"}

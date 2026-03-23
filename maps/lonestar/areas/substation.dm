@@ -2,7 +2,7 @@
 
 /area/lonestar/carls
 //	ambience = AMBIENCE_SPACE
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 // The area near Carl's Corner, so POIs don't show up right next to the outpost.
 /area/lonestar/carls/perimeter
@@ -14,20 +14,16 @@
 	name = "them roids"
 	icon_state = "yellow"
 
-/area/lonestar/roids/close
-	name = "Close Mining Asteroids"
+/area/lonestar/roids/poi
+	name = "the Crumble"
 	icon_state = "purple"
 
-/area/lonestar/roids/far
-	name = "Far Mining Asteroids"
-	icon_state = "dark"
-
 /area/lonestar/roids/cliff
-	name = "\improper Cliff Edge"
+	name = "\improper Crumble Cliff Edge"
 	icon_state = "yellow"
 
 /area/lonestar/roids/path
-	name = "\improper Cliff Edge"
+	name = "\improper Crumble Cliff Edge"
 	icon_state = "purple"
 
 // So POIs don't get embedded in rock.

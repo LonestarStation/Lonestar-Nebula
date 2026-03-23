@@ -81,17 +81,3 @@
 	matter = list(
 		/decl/material/solid/metal/steel = MATTER_AMOUNT_TRACE
 		)
-
-/*
-/obj/item/clothing/pants/slacks/navy
-	name = "navy slacks"
-	desc = "Some formal navy blue slacks."
-	icon = 'icons/clothing/pants/slacks_navy.dmi'
-
-/obj/item/clothing/pants/slacks/blue/outfit/blue
-	starting_accessories = list(
-		/obj/item/clothing/shirt/button,
-		/obj/item/clothing/neck/tie/red,
-		/obj/item/clothing/suit/jacket/blue
-	)
-*/

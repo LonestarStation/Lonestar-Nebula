@@ -19,6 +19,18 @@ var/global/const/CAMERA_CHANNEL_COMMANDO 	= "Commando"
 	preset_channels = list(CAMERA_CHANNEL_ENGINE)
 	req_access = list(access_engine)
 
+#define CAMERA_CHANNEL_GARAGE 	"Garage"
+#define CAMERA_CHANNEL_RANCH 	"Ranch"
+#define CAMERA_CHANNEL_BAR 		"Bar"
+
+/obj/machinery/camera/network/garage
+	preset_channels = list(CAMERA_CHANNEL_GARAGE)
+	req_access = list(access_garage)
+
+/obj/machinery/camera/network/ranch
+	preset_channels = list(CAMERA_CHANNEL_RANCH)
+	req_access = list(access_ranch)
+
 /obj/machinery/camera/network/bar
 	preset_channels = list(CAMERA_CHANNEL_BAR)
 	req_access = list(access_barman)

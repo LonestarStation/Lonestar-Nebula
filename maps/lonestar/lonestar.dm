@@ -1,15 +1,19 @@
 #if !defined(USING_MAP_DATUM)
 
+	#include "../../mods/content/actors.dm"
 	#include "../../mods/content/mundane.dm"
 	#include "../../mods/content/scaling_descriptors.dm"
 
+	#include "../../mods/content/augments/_augments.dme"
 	#include "../../mods/content/beekeeping/_beekeeping.dme"
 	#include "../../mods/content/bigpharma/_bigpharma.dme"
 	#include "../../mods/content/biomods/_biomods.dme"
+	#include "../../mods/content/blacksmithy/_blacksmithy.dme"
 	#include "../../mods/content/blob/_blob.dme"
 	#include "../../mods/content/breath_holding/_breath_holding.dme"
 	#include "../../mods/content/corporate/_corporate.dme"
 	#include "../../mods/content/dungeon_loot/_dungeon_loot.dme"
+	#include "../../mods/content/exploration/_exploration.dme"
 	#include "../../mods/content/government/_government.dme"
 	#include "../../mods/content/integrated_electronics/_integrated_electronics.dme"
 	#include "../../mods/content/item_sharpening/_item_sharpening.dme"
@@ -22,6 +26,8 @@
 	#include "../../mods/content/standard_jobs/_standard_jobs.dme"
 	#include "../../mods/content/supermatter/_supermatter.dme"
 	#include "../../mods/content/tabloids/_tabloids.dme"
+	#include "../../mods/content/undead/_undead.dme"
+	#include "../../mods/content/ventcrawl/_ventcrawl.dme"
 	#include "../../mods/content/xenobiology/_xenobiology.dme"
 
 	#include "../../mods/gamemodes/cult/_cult.dme"
@@ -42,7 +48,6 @@
 //	#include "../../mods/species/serpentid/_serpentid.dme"
 	#include "../../mods/species/utility_frames/_utility_frames.dme"
 
-//	#include "../random_ruins/exoplanet_ruins/playablecolony/playablecolony.dm"
 	#include "../random_ruins/exoplanet_ruins/crashed_pod/crashed_pod.dm"
 
 	#include "../../mods/content/government/away_sites/icarus/icarus.dm"
@@ -76,6 +81,16 @@
 	#include "jobs/ranch.dm"
 	#include "jobs/sheriff.dm"
 
+	#include "lonestar_levels/_lonestar_submaps.dm"
+	#include "lonestar_levels/_lonestar_levels.dm"
+	#include "lonestar_levels/_lonestar_strata.dm"
+	#include "lonestar_levels/submaps/belt/_belt.dm"
+	#include "lonestar_levels/submaps/belt/_belt_areas.dm"
+	#include "lonestar_levels/submaps/junkyard/_junkyard.dm"
+	#include "lonestar_levels/submaps/junkyard/_junkyard_areas.dm"
+	#include "lonestar_levels/submaps/slammer/_slammer.dm"
+	#include "lonestar_levels/submaps/slammer/_slammer_areas.dm"
+
 //	#include "offsite/_offsite.dm"
 //	#include "dungeon/_dungeon.dm"
 
@@ -99,7 +114,8 @@
 	#include "lonestar_departments.dm"
 	#include "lonestar_elevator.dm"
 	#include "lonestar_exits.dm"
-	#include "lonestar_levels.dm"
+	#include "lonestar_spawnpoints.dm"
+
 	#include "lonestar_loadout.dm"
 	#include "lonestar_overmap.dm"
 	#include "lonestar_setup.dm"
@@ -116,12 +132,7 @@
 //	#include "lonestar-11.dmm"
 
 //	#include "submaps/_lonestar_submaps.dm"
-//	#include "submaps/belt/_belt.dm"
-//	#include "submaps/belt/_belt_areas.dm"
-//	#include "submaps/junkyard/_junkyard.dm"
-//	#include "submaps/junkyard/_junkyard_areas.dm"
-//	#include "submaps/slammer/_slammer.dm"
-//	#include "submaps/slammer/_slammer_areas.dm"
+
 
 	#define USING_MAP_DATUM /datum/map/lonestar
 

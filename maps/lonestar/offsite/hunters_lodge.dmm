@@ -128,7 +128,7 @@
 "Dz" = (/turf/wall/wood,/area/lonestar/offsite/lodge)
 "DO" = (/obj/structure/rack,/obj/item/sword/katana/toy{name = "practice katana"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
 "DU" = (/obj/effect/floor_decal/carpet/blue{dir = 4},/obj/effect/floor_decal/carpet/blue,/obj/effect/floor_decal/carpet/blue{dir = 6},/turf/unsimulated/floor/bcarpet,/area/lonestar/offsite/lodge/main_building)
-"Ei" = (/obj/machinery/chemical_dispenser/full,/obj/item/chems/glass/beaker/large,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
+"Ei" = (/obj/effect/floor_decal/spline/fancy/wood,/obj/machinery/chemical_dispenser/full,/obj/item/chems/glass/beaker/large,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
 "EE" = (/obj/machinery/door/morgue{name = "Medical"},/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
 "Fe" = (/obj/effect/floor_decal/carpet{dir = 8},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
 "Fj" = (/obj/structure/closet,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/cabins)
@@ -151,12 +151,13 @@
 "IJ" = (/obj/effect/floor_decal/spline/fancy/wood{dir = 4},/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
 "JA" = (/obj/machinery/computer/station_alert{dir = 1},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
 "JB" = (/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 1},/obj/effect/floor_decal/carpet{dir = 9},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
-"JG" = (/turf/floor/tiled,/area/lonestar/offsite/lodge/cabins)
+"JG" = (/obj/item/chems/glass/beaker/large,/obj/machinery/chemical_dispenser/medicine,/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
 "JH" = (/obj/structure/rack,/obj/item/clothing/webbing/vest/black,/obj/effect/floor_decal/industrial/outline/grey,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
 "JK" = (/obj/effect/floor_decal/spline/fancy/wood/corner,/obj/item/radio/intercom/ninja{dir = 4; pixel_x = -22},/turf/unsimulated/floor/freezer,/area/lonestar/offsite/lodge/main_building)
 "JX" = (/obj/effect/floor_decal/carpet,/obj/effect/floor_decal/carpet{dir = 8},/obj/effect/floor_decal/carpet{dir = 10},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
 "Km" = (/obj/structure/table/wood,/obj/item/clothing/shoes/sandal,/obj/item/clothing/mask/balaclava,/obj/item/clothing/shoes/syndigaloshes,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
 "KA" = (/obj/structure/rack,/obj/item/belt/holster/security/tactical,/obj/effect/floor_decal/industrial/outline/grey,/obj/item/clothing/glasses/night,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/main_building)
+"KG" = (/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/hunters_lodge,/turf/unsimulated/mineral,/area/lonestar/offsite/lodge)
 "KM" = (/obj/structure/table/steel_reinforced,/obj/item/firstaid/adv{pixel_x = 5; pixel_y = 5},/obj/item/firstaid/combat,/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
 "KS" = (/obj/effect/floor_decal/industrial/warning/cee{dir = 1},/obj/structure/cryofeed{dir = 2},/turf/floor/plating,/area/lonestar/offsite/lodge/cabins)
 "KU" = (/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/cabins)
@@ -201,7 +202,7 @@
 "WR" = (/obj/structure/rack{desc = "A simple wooden altar covered in cloth."; icon = 'icons/obj/cult.dmi'; icon_state = "churchaltar"; name = "wooden altar"},/obj/item/sword/katana,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
 "Xh" = (/obj/structure/rack,/obj/item/defibrillator/compact/combat/loaded,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
 "Xk" = (/obj/structure/table/glass,/obj/machinery/computer/cryopod{dir = 8; pixel_x = 24},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge/cabins)
-"Xq" = (/obj/machinery/embedded_controller/radio/airlock/docking_port{id_tag = "stranger_shuttle"; pixel_y = -25; dir = 1},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; id_tag = "ninja_shuttle_pump"},/obj/machinery/button/alternate{id_tag = "blastninja"; name = "ship lockdown control"; pixel_x = -25; dir = 4},/obj/effect/shuttle_landmark{base_area = /area/ninja_dojo/dojo; base_turf = /turf/unsimulated/floor/snow; landmark_tag = "stranger_start"; name = "Mysterious Cave"},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
+"Xq" = (/obj/machinery/embedded_controller/radio/airlock/docking_port{id_tag = "stranger_shuttle"; pixel_y = -25; dir = 1},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 4; id_tag = "ninja_shuttle_pump"},/obj/machinery/button/alternate{id_tag = "blastninja"; name = "ship lockdown control"; pixel_x = -25; dir = 4},/turf/unsimulated/floor/dark,/area/lonestar/offsite/lodge)
 "Xs" = (/obj/structure/flora/pottedplant/flower,/turf/unsimulated/floor/wood,/area/lonestar/offsite/lodge/main_building)
 "Xw" = (/obj/effect/floor_decal/carpet{dir = 10},/obj/effect/floor_decal/carpet{dir = 6},/obj/effect/floor_decal/carpet{dir = 9},/obj/effect/floor_decal/carpet{dir = 5},/turf/unsimulated/floor/carpet,/area/lonestar/offsite/lodge/main_building)
 "XI" = (/turf/unsimulated/floor/white,/area/lonestar/offsite/lodge/main_building)
@@ -220,12 +221,12 @@ qZqZqZqZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMpcsMsMsMsMsMsMsMpcsMsMsMsMsM
 qZqZqZqZqZqZqZsMsMsMsMHaHaOVOVHaHasMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMVCsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
 qZqZqZqZqZqZsMsMsMsMHaHaBqvLBqvLHaHasMsMsMsMsMVCsMsMsMsMsMsMsMVCsMsMsMsMsMVCsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
 qZqZqZqZqZqZsMsMVCsMHazsXQXQXQXQXQHaHaHaHaHasMsMsMSOsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMVCsMsMsMsMsMqZqZqZ
-qZqZqZqZqZqZsMsMsMsMHaGCXQJBzqnrXQHaKSCWKSJGHasMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZsMsMsMsMHaGCXQJBzqnrXQHaKSCWKSHaHasMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
 qZqZqZqZqZqZsMsMsMsMHaCxXQFeKUejXQHadbdbdbvNHasMsMSOsMbObObObObObObObObOsMsMsMbOVkVkVkVkbOsMsMsMpcpcsMsMsMsMsMsMsMsMsMsMVCsMqZqZqZ
-qZqZqZqZqZqZsMsMHaHaHaHaXQFeKUejXQSprRrRgvvNHasMsMSOsMbOewePUqeKEiEihgbObObObObOzAzAzAstbObObObObOsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
+qZqZqZqZqZqZsMsMHaHaHaHaXQFeKUejXQSprRrRgvvNHasMsMSOsMbOewePUqeKXIXIhgbObObObObOzAzAzAstbObObObObOsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZ
 qZqZqZqZqZsMsMsMHaFjfVHaXQFeKUejXQSpgvrRrRXkHasMSOVCsMbOTDXIXIQGXIXIopbOnMiWnMbOzAnqzAzAbOFQFQFQbObOVkVkVkVkVkbODzsMsMsMsMsMqZqZqZ
-qZqZqZqZqZsMVCsMOVhqXQEEXQIbQKefXQHaFwFwFwvNHasMsMsMsMbOdQXIXIhmXIXIXIbOFQFQFQbOzAzAzAzAbOFQFQFQbOzAzAzAzAzAzAzADzsMsMsMsMsMqZqZqZ
-qZqZqZqZqZsMsMsMHaXQXQHaXQXQXQXQXQHagogovKHaHasMsMSOsMbOGYXIXISImwvUvUbOVkGIVkbOzAzAzAzAbOVkGIVkbOzAzAnOtFtFVrzANEsMsMsMsMsMsMqZqZ
+qZqZqZqZqZsMVCsMOVhqXQEEXQIbQKefXQHaFwFwFwvNHasMsMsMsMbOdQXIXIhmXIXIJGbOFQFQFQbOzAzAzAzAbOFQFQFQbOzAzAzAzAzAzAzADzsMsMsMsMsMqZqZqZ
+qZqZqZqZqZsMsMsMHaXQXQHaXQXQXQXQXQHagogovKHaHasMsMSOsMbOGYXIXISImwvUEibOVkGIVkbOzAzAzAzAbOVkGIVkbOzAzAnOtFtFVrzANEsMsMsMsMsMsMqZqZ
 qZqZqZqZqZsMsMHaHaHaHaHaXQXQXQHaHaHaHaHaHaHasMsMSOsMsMbOpkMxXIXIIJzAhwVkmbzAzAzAzAzAzAzAzAzAzAmbVkzAzAkZmmCEUOzANEsMsMsMsMsMsMqZqZ
 qZqZqZqZqZsMsMHaFjfVHaXQXQXQXQHaReReReHasMsMVCsMsMSOsMbOXIXIXIXIIJzAzAbhzAzAzAzAzAzAzAzAzAzAzAzAUbzAzAkZqYiMUOzANEsMpcsMsMsMsMqZqZ
 qZqZqZqZqZsMsMOVhqXQEEXQXQXQXQHaReReReHasMsMsMpcsMsMsMbObOzxvUvUWezAzAbObOVkVkbObOyAyAbObOVkVkbObOzAzAcdgVgVDUzANEsMsMsMsMVCsMqZqZ
@@ -275,6 +276,6 @@ qZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsM
 qZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZ
 qZqZqZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZqZqZ
 qZqZqZqZqZqZqZqZqZqZsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMsMqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
-qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZononononononononononononononononononononononononononqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
+qZKGqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZononononononononononononononononononononononononononqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
 qZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQGQqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZqZ
 "}

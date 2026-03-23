@@ -20,7 +20,7 @@
 	icon_state = "shuttle"
 	requires_power = 0
 	dynamic_lighting = 1
-//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/turbolift/start
 	name = "\improper Turbolift Start"
@@ -101,7 +101,7 @@
 	name = "\improper Lonestar"
 	icon_state = "darkred"
 	sound_env = ASTEROID
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 //	base_turf = /turf/simulated/floor/plating
 
 /area/lonestar/asteroid/cave
@@ -117,7 +117,7 @@
 /area/lonestar/airlock
 	name = "airlocks"
 	icon_state = "purple"
-//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_NO_LEGACY_PERSISTENCE
 	sound_env = TUNNEL_ENCLOSED
 	holomap_color = HOLOMAP_AREACOLOR_CREW
 //	base_turf = /turf/floor/barren
@@ -306,7 +306,7 @@
 /area/lonestar/pestcontrol/cells
 	name = "Pest Holding"
 	icon_state = "purple"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/pestcontrol/foyer
 	name = "\improper Pest Control Foyer"
@@ -359,12 +359,12 @@
 /area/lonestar/janitor/collection
 	name = "Waste Collection"
 	icon_state = "janitor"
-//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT //If trash items got this far, they can be safely deleted.
+	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_NO_LEGACY_PERSISTENCE //If trash items got this far, they can be safely deleted.
 
 /area/lonestar/janitor/disposal
 	name = "Waste disposal"
 	icon_state = "disposal"
-//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT //If trash items got this far, they can be safely deleted.
+	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_NO_LEGACY_PERSISTENCE //If trash items got this far, they can be safely deleted.
 //	base_turf = /turf/floor/barren
 
 /area/lonestar/airlock/disposals
@@ -702,11 +702,11 @@
 
 /area/lonestar/civilian/commons/office/lawyer1
 	name = "\improper Arbitration Office"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/civilian/commons/office/lawyer2
 	name = "\improper Legal Council"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/civilian/commons/bathroom
 	name = "\improper Public Bathroom"
@@ -823,7 +823,7 @@
 /area/lonestar/medbay/ward
 	name = "\improper Medical Ward"
 	icon_state = "medbay"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/medbay/reading
 	name = "\improper Reading Area"
@@ -856,27 +856,27 @@
 /area/lonestar/medbay/virology
 	name = "\improper Pathogen Lab"
 	icon_state = "medbay"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/medbay/surgeryone
 	name = "\improper Surgical Performance Lab One"
 	icon_state = "surgery"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT //This WOULD become a filth pit
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE //This WOULD become a filth pit
 
 /area/lonestar/medbay/surgerytwo
 	name = "\improper Surgical Performance Lab Two"
 	icon_state = "surgery"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT //This WOULD become a filth pit
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE //This WOULD become a filth pit
 
 /area/lonestar/medbay/patientone
 	name = "\improper Patient Isolation One"
 	icon_state = "medbay"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT //This WOULD become a filth pit
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE //This WOULD become a filth pit
 
 /area/lonestar/medbay/patienttwo
 	name = "\improper Patient Isolation Two"
 	icon_state = "medbay"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT //This WOULD become a filth pit
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE //This WOULD become a filth pit
 
 /area/lonestar/medbay/hallways
 	name = "\improper Medbay Hallways"
@@ -1246,27 +1246,27 @@
 /area/lonestar/command/baron
 	name = "\improper Command - Baron's Office"
 	icon_state = "head_quarters"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/command/baron_armory
 	name = "\improper Command - Baron's Armory"
 	icon_state = "head_quarters"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/command/steward
 	name = "\improper Command - Steward's Office"
 	icon_state = "head_quarters"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/command/exec_bathroom
 	name = "\improper Administrtion - Executive Bathroom"
 	icon_state = "toilet"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/command/bridge
 	name = "\improper Administration - Bridge"
 	icon_state = "head_quarters"
-//	area_flags = AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 /area/lonestar/maintenance/command
 	name = "\improper Command Maintenance Main"
@@ -1490,7 +1490,7 @@
 /area/lonestar/cathedral
 	name = "Cathedral"
 	icon_state = "dark"
-//	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_IS_NOT_PERSISTENT
+	area_flags = AREA_FLAG_RAD_SHIELDED | AREA_FLAG_NO_LEGACY_PERSISTENCE
 //	ambience = AMBIENCE_RUINS
 
 /area/lonestar/cathedral/basement

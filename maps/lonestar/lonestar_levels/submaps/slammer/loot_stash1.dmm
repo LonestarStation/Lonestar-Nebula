@@ -1,0 +1,34 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/wall/natural,/area/submap/cave/loot_stash1)
+"c" = (/obj/structure/ore_box,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"d" = (/obj/structure/closet/crate,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"e" = (/obj/structure/reagent_dispensers/watertank,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"f" = (/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/stack/material/ore/coal,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/rock/hematite,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/obj/item/stack/material/ore/galena,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"g" = (/mob/living/simple_animal/hostile/scarybat,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"h" = (/obj/structure/closet/crate,/obj/item/beartrap,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"i" = (/obj/structure/table/steel,/obj/item/chems/spray/extinguisher,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"j" = (/obj/random/lipstick,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"k" = (/obj/structure/closet/crate,/obj/item/cell/gun,/obj/item/cell/gun,/obj/item/box/ammo/practiceshells,/obj/item/box/ammo/shotgunammo,/obj/item/box/ammo/shotgunshells,/obj/item/gun/projectile/shotgun,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"l" = (/obj/structure/table/steel,/obj/random/firstaid,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"m" = (/obj/vehicle/train/trolley,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"n" = (/obj/structure/closet/crate,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/paper,/obj/item/folder/yellow,/obj/item/folder/red,/obj/item/folder/blue,/obj/item/folder,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"o" = (/obj/structure/closet/crate,/obj/item/cosmetics/lipstick,/obj/item/cosmetics/lipstick/black,/obj/item/cosmetics/lipstick/blue,/obj/item/cosmetics/lipstick/green,/obj/item/cosmetics/lipstick/orange,/obj/item/cosmetics/lipstick/purple,/obj/item/cosmetics/lipstick/red,/obj/item/cosmetics/lipstick/turquoise,/obj/item/cosmetics/lipstick/violet,/obj/item/cosmetics/lipstick/white,/obj/item/cosmetics/lipstick/yellow,/turf/floor/barren,/area/submap/cave/loot_stash1)
+"p" = (/turf/floor/barren,/area/submap/cave/loot_stash1)
+
+(1,1,1) = {"
+apaaaaabbbbbbbaaaaaa
+apbbbbbbbcdbbbbbaaaa
+pppbbbbbefpbbbbbbaaa
+pppbbbbpppphbbbbbbaa
+abbbbbippmpppkbbbbaa
+aabbbblppmpppnbbbbba
+aaaaabpppppppobbbbbb
+aaaapppppppgpbbbbbbb
+aaappgpppppjpbbbbbbb
+aaaappppppppbbbbbbba
+aaaaabbppgppbbbbbbba
+aaaaabbppppbbbbbbbaa
+aaapppppppbbbbbbbaaa
+aaaaabbbbbbbbbbbaaaa
+aaaaaaaaaaaaaaaaaaaa
+"}

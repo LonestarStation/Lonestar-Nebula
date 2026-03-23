@@ -1,0 +1,21 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/unsimulated/mask,/area/submap/asteroid/geode2)
+"e" = (/turf/wall/natural,/area/submap/asteroid/geode2)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaaaaaaeeeaaaa
+aaaaeeeeeeeeaaa
+aaaeeeeeeeeeeaa
+aaeeeebbbbeeeea
+aaeeebbbbbbeeea
+aeeeebbbbbbbeea
+aeeebbbbbbbbeea
+aeeebbbbbbbbeea
+aeeeebbbbbbeeea
+aaeeeebbbbeeeaa
+aaaeeeeeeeeeeaa
+aaaaeeeeeeeeaaa
+aaaaaeeeeeeaaaa
+aaaaaaaaaaaaaaa
+"}

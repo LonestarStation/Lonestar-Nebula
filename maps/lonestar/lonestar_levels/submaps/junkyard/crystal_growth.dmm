@@ -1,0 +1,27 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/wall/natural,/area/submap/crystal_growth)
+"c" = (/turf/floor/rock,/area/submap/crystal_growth)
+"d" = (/obj/structure/loot_pile/maint/technical,/turf/floor/rock,/area/submap/crystal_growth)
+"e" = (/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/turf/wall/natural,/area/submap/crystal_growth)
+"p" = (/obj/structure/mattress/dirty,/turf/floor/rock,/area/submap/crystal_growth)
+"t" = (/obj/structure/loot_pile/maint/trash,/turf/floor/rock,/area/submap/crystal_growth)
+"E" = (/obj/structure/loot_pile/maint/junk,/turf/floor/rock,/area/submap/crystal_growth)
+"N" = (/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/obj/item/stack/material/ore/diamond,/turf/wall/natural,/area/submap/crystal_growth)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aaaacccccccccaa
+aaacEcctcccdcca
+aacccccccccccda
+aacccdbbbbcccca
+aatccbbNebbpcca
+aacccbbeeebbdca
+aacccbbeeeebbca
+aaccccbbeeebbca
+aaccdcdbbbbbbca
+aaaccccdbbbbcca
+aaaccccccccccca
+aaaacccccccctaa
+aaaaaacccEccaaa
+aaaaaaaaaaaaaaa
+"}

@@ -107,7 +107,7 @@
 /decl/outfit/job/lonestar_lawyer
 	name = "Job - Lonestar Lawyer"
 	l_ear = /obj/item/radio/headset/heads/legal
-//	uniform = /obj/item/clothing/pants/slacks/blue/outfit/blue
+	uniform = /obj/item/clothing/pants/slacks/blue/outfit/blue
 	shoes = /obj/item/clothing/shoes/color/brown
 	glasses = /obj/item/clothing/glasses/sunglasses/big
 	hands = list(/obj/item/briefcase)

@@ -111,28 +111,10 @@ var/global/const/access_delivery = "ACCESS_DELIVERY" //XX
 	region = ACCESS_REGION_SUPPLY
 
 /datum/access/warden
-	id = access_delivery
 	desc = "Prison Warden"
-	region = ACCESS_REGION_SECURITY
 
 /datum/access/captain
 	desc = "Baron"
-
-#define CAMERA_CHANNEL_GARAGE 	"Garage"
-#define CAMERA_CHANNEL_RANCH 	"Ranch"
-#define CAMERA_CHANNEL_BAR 		"Bar"
-
-/obj/machinery/camera/network/garage
-	preset_channels = list(CAMERA_CHANNEL_GARAGE)
-	req_access = list(access_garage)
-
-/obj/machinery/camera/network/ranch
-	preset_channels = list(CAMERA_CHANNEL_RANCH)
-	req_access = list(access_ranch)
-
-/obj/machinery/camera/network/bar
-	preset_channels = list(CAMERA_CHANNEL_BAR)
-	req_access = list(access_bar)
 
 /obj/structure/closet/secure_closet/freezer/junk
 	name = "refrigerator"
@@ -157,3 +139,10 @@ var/global/const/access_delivery = "ACCESS_DELIVERY" //XX
 	name = "Multi Point - Baron's Spare"
 	id = "Baron's spare id"
 	item_path = /obj/item/card/id/barons_spare
+
+/obj/machinery/computer/modular/preset/barman
+	default_software = list(
+		/datum/computer_file/program/camera_monitor,
+		/datum/computer_file/program/email_client,
+		/datum/computer_file/program/wordprocessor
+	)

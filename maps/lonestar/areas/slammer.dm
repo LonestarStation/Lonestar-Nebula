@@ -2,6 +2,7 @@
 
 /area/lonestar/slammer
 //	ambience = AMBIENCE_SPACE
+	area_flags = AREA_FLAG_NO_LEGACY_PERSISTENCE
 
 // The area near the outpost, so POIs don't show up right next to the outpost.
 /area/lonestar/slammer/perimeter
@@ -14,13 +15,9 @@
 	icon_state = "purple"
 
 // Rest of the 'Slammer' Z-level, for POIs.
-/area/lonestar/slammer/normal
+/area/lonestar/slammer/poi
 	name = "Slammer Caves"
 	icon_state = "yellow"
-
-/area/lonestar/slammer/deep
-	name = "Deep Slammer Caves"
-	icon_state = "red"
 
 // So POIs don't get embedded in rock.
 /area/lonestar/slammer/border

@@ -11,7 +11,7 @@
 "cl" = (/obj/machinery/door/airlock{name = "Unit 1"},/obj/machinery/door/firedoor{dir = 4},/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
 "ct" = (/obj/machinery/vending/assist{contraband = null; name = "AntagCorpVend"; products = list(/obj/item/assembly/prox_sensor=5,/obj/item/assembly/signaler=4,/obj/item/assembly/infra=4,/obj/item/assembly/prox_sensor=4,/obj/item/handcuffs=8,/obj/item/flash=4,/obj/item/clothing/glasses/sunglasses=4); dir = 1},/turf/floor/shuttle/black,/area/space)
 "cD" = (/obj/machinery/turretid{pixel_x = 0; pixel_y = 32; req_access = list(150)},/turf/floor/shuttle/darkred,/area/space)
-"cJ" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 8},/obj/effect/shuttle_landmark{base_area = /area/space; base_turf = /turf/space; landmark_tag = "merc_start"; name = "Merc Base Dock"; docking_controller = "merc_shuttle"},/turf/floor/tiled/steel_grid,/area/space)
+"cJ" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 8},/turf/floor/tiled/steel_grid,/area/space)
 "do" = (/obj/structure/window/reinforced/full,/turf/floor,/area/space)
 "dT" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
 "dW" = (/obj/machinery/light{dir = 4},/turf/floor/shuttle/darkred,/area/space)
@@ -70,6 +70,7 @@
 "rb" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/steel,/obj/item/chems/ivbag/blood/ominus,/obj/item/chems/ivbag/blood/ominus,/turf/floor/shuttle/white,/area/space)
 "ri" = (/obj/effect/step_trigger/teleporter/random{affect_ghosts = 1; name = "escapeshuttle_leave"; teleport_x = 25; teleport_x_offset = 245; teleport_y = 25; teleport_y_offset = 245; teleport_z = 6; teleport_z_offset = 6},/turf/space,/area/space)
 "rv" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/window/reinforced/full,/obj/machinery/door/blast/shutters{density = 0; dir = 2; icon_state = "shutter0"; name = "Blast Shutters"; opacity = 0},/turf/floor,/area/space)
+"rw" = (/obj/effect/overmap/visitable/sector/planetoid/exoplanet/barren/privateer_base,/turf/unsimulated/mineral,/area/space)
 "rD" = (/obj/structure/table/glass,/obj/item/clothing/glasses/sunglasses/prescription,/turf/unsimulated/floor{icon_state = "white"},/area/space)
 "rF" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/structure/closet,/turf/unsimulated/floor{icon_state = "dark"},/area/space)
 "si" = (/obj/structure/bed/padded,/obj/item/bedsheet/brown,/turf/unsimulated/floor{icon_state = "lino"},/area/space)
@@ -172,7 +173,6 @@
 "Nl" = (/obj/structure/table/glass,/turf/unsimulated/floor{name = "plating"; icon_state = "cult"},/area/space)
 "No" = (/obj/machinery/door/firedoor,/turf/unsimulated/floor{icon = 'icons/turf/flooring/tiles.dmi'; icon_state = "steel_grid"},/area/space)
 "NE" = (/obj/structure/table/wood/mahogany,/obj/structure/noticeboard{pixel_y = 28},/turf/unsimulated/floor{icon_state = "dark"},/area/space)
-"NK" = (/obj/machinery/door/blast/regular{density = 0; icon_state = "pdoor0"; name = "Outer Airlock"; opacity = 0},/turf/floor/tiled/steel_grid,/area/space)
 "Ox" = (/obj/structure/closet/crate/plastic/rations,/turf/unsimulated/floor{icon_state = "plating"; name = "plating"},/area/space)
 "Oy" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion_r"; dir = 4},/turf/floor,/area/space)
 "OF" = (/obj/machinery/constructable_frame/computerframe{dir = 8},/turf/floor/shuttle/black,/area/space)
@@ -264,7 +264,7 @@ USUSUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXirirLZwTLZiriririrSAxCxCSAiriririrRcRciriririr
 USUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXirLZwTLZiruXuXirxlxlxlxliruXuXebeQDtsVfQfQirwDwDwDiruXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUS
 USUSUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXirLZLZLZiruXuXuXuXuXuXuXuXuXuXebeQDtsVuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSUSUSUS
 USUSUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXirirYkiriruXuXuXuXuXuXuXuXuXuXebRcRcsVuXuXuXuXuXuXememdTrvtremememememememuXuXuXUSUSUSUSUSUSUS
-USUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXebefsVuXuXuXuXuXuXuXuXuXuXuXemNKNKemuXuXuXememememRkjQjQjQjQjQNdemFeIfOyuXuXuXUSUSUSUSUSUSUS
+USUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXebefsVuXuXuXuXuXuXuXuXuXuXuXemzyzyemuXuXuXememememRkjQjQjQjQjQNdemFeIfOyuXuXuXUSUSUSUSUSUSUS
 USUSUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXQXejsVuXuXuXuXuXuXuXememememyZcJqDVPxuemememGtxwemZNjQjQjQjQjQfremFeIfsquXuXuXUSUSUSUSUSUSUS
 USUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXQXejxbuXuXuXuXuXemememfPfPfPbjRRClMsHFCdCdhaZfjQemLKjQjQjQememememFeIfsquXuXuXuXUSUSUSUSUSUS
 USUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXQXejxbuXuXuXememememfPfPfPemoQTbTbVPLnjQjQjQjQjQemRkjQjQjQemeKTMemFeIfRduXuXuXuXUSUSUSUSUSUS
@@ -289,6 +289,6 @@ USUSUSuXuXuXuXUSUSUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuX
 USUSUSuXuXuXuXuXuXuXUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUSUSuXuXuXuXuXuXuXuXUSUS
 USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUS
 GBYsYsjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqjqriririririririririririjqjqjqjqjqjqjqjqjqjqjqjqjqYsYsUS
-USUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUS
+USrwUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUS
 USUSUSUSuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXuXUSUSUSUS
 "}
