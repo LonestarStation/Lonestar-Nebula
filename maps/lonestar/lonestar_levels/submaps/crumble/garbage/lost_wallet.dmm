@@ -1,0 +1,12 @@
+"a" = (/turf/template_noop,/area/lonestar/submap/lost_wallet)
+"b" = (/obj/item/wallet/leather,/turf/template_noop,/area/lonestar/submap/lost_wallet)
+"c" = (/obj/item/coin/silver,/turf/template_noop,/area/lonestar/submap/lost_wallet)
+"J" = (/obj/item/cash/c20,/turf/template_noop,/area/lonestar/submap/lost_wallet)
+
+(1,1,1) = {"
+aJaaa
+aaaJa
+aabaa
+aacaa
+aaaaa
+"}

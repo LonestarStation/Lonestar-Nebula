@@ -1,3 +1,7 @@
+#define MAP_TEMPLATE_CATEGORY_LONESTAR_SLAMMER 		"template_lonestar_slammer"
+#define MAP_TEMPLATE_CATEGORY_LONESTAR_JUNKYARD     "template_lonestar_junkyard"
+#define MAP_TEMPLATE_CATEGORY_LONESTAR_CRUMBLE      "template_lonestar_crumble"
+
 /obj/abstract/map_data/lonestar
 	height = 4
 

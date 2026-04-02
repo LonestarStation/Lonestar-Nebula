@@ -1,0 +1,16 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/wall/natural/random/high_chance/basalt,/area/lonestar/submap/lonely_shard)
+"c" = (/obj/item/soulstone,/obj/structure/closet/crate/chest/ebony,/turf/floor/barren,/area/lonestar/submap/lonely_shard)
+
+(1,1,1) = {"
+aaaaaaaaaa
+aaaaaaabba
+aabbbbabba
+abbbbbaaaa
+abbbbbbaaa
+abbcbbbaaa
+abbbbbbaaa
+aabbbbbaaa
+aabbbbaaaa
+aaaaaaaaaa
+"}

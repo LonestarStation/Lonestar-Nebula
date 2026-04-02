@@ -1,0 +1,30 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/obj/item/remains/human,/turf/template_noop,/area/template_noop)
+"c" = (/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+"e" = (/obj/random/maintenance/cargo,/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+"f" = (/mob/living/simple_animal/hostile/carp,/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+"g" = (/obj/random/medical/pillbottle,/turf/template_noop,/area/template_noop)
+"h" = (/turf/wall/natural/random/high_chance/basalt,/area/lonestar/submap/carp/nest1)
+"i" = (/obj/random/ammo,/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+"j" = (/obj/random/medical,/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+"k" = (/obj/item/remains/human,/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+"l" = (/obj/random/trash,/turf/template_noop,/area/template_noop)
+"m" = (/obj/random/trash,/turf/floor/barren,/area/lonestar/submap/carp/nest1)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aabaaaaaaaaaaaaaaaaaaagaa
+aaaaachhhhhhhhhhcaaalaaba
+aaaccmchhhhhhhhccchhaaaaa
+aahhcccchhhhechccchhhaaaa
+ahhhcfcickccccccmchhhhaaa
+ahhhcckcccccckecfchhhhhha
+ahhhkcccccfcccccmchhhhhha
+aahhmcfcccccciccjchhhhhha
+aahhhhhheckcccckchhhhhhaa
+ahhhhhhhhmccfcmcchhhhhaaa
+ahhhhhhhhhhhhcccchhhhaaaa
+aahhhhhhhhhhhcccchhhhaaaa
+aaaaahhhhhhhhhcchhhhaabaa
+abaaaaaaaaaaaaaaaaaaaaaaa
+"}

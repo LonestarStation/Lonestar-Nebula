@@ -1,0 +1,15 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/wall/natural/random/high_chance/basalt,/area/lonestar/submap/asteroid/small9)
+
+(1,1,1) = {"
+aaaaaaaaaa
+aaabbbbbba
+aabbbbbbba
+aabbbbbbba
+aabbbbbbba
+aaabbbbbba
+abaabbbbba
+aaabbbbbaa
+aabbbbbbba
+aaaaaaaaaa
+"}

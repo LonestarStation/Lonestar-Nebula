@@ -1,0 +1,26 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"b" = (/turf/wall/natural/random/high_chance/basalt,/area/lonestar/submap/carp/nest2)
+"c" = (/mob/living/simple_animal/hostile/carp,/turf/floor/barren,/area/lonestar/submap/carp/nest2)
+"d" = (/obj/random/projectile,/turf/floor/barren,/area/lonestar/submap/carp/nest2)
+"e" = (/obj/item/remains/human,/turf/floor/barren,/area/lonestar/submap/carp/nest2)
+"f" = (/obj/random/plushie,/turf/floor/barren,/area/lonestar/submap/carp/nest2)
+"i" = (/turf/floor/barren,/area/lonestar/submap/carp/nest2)
+"j" = (/obj/random/action_figure,/turf/floor/barren,/area/lonestar/submap/carp/nest2)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaa
+aabbbbaaabbbbaa
+abbbbbbbbbbbbba
+abbbbbbbbbbbbba
+abbbicicicibbba
+abbiiifiiiiibba
+abbibbieibbibba
+abbibbiiibbibba
+abbiiiiiiiijbba
+abbidbbbbbeibba
+abbeibicibiibba
+abbbciiiiicbbba
+aabbbbiiibbbbaa
+aaabbbaaabbbaaa
+aaaaaaaaaaaaaaa
+"}

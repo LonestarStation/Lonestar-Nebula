@@ -1,0 +1,30 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"c" = (/turf/wall/natural/random/high_chance/basalt,/area/lonestar/submap/asteroid/type3)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaccccccccaaaaaaaaaaaa
+aaaacccccccccccaaaaaaaaaa
+aaaacccccccccccaaaaaaaaaa
+aaacccccccccccccaaaaaaaaa
+aaacccccccccccccaaaaaaaaa
+aaaccccccccccccaaaaaaaaaa
+aaaaccccccccccaaaaaaaaaaa
+aaaaacccccccaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaacccccccccaaaa
+aaaaaaaaacccccccccccccaaa
+aaaaaaacccccccccccccccaaa
+aaaaaacccccccccccccccccaa
+aaaaaccccccccccccccccccaa
+aaaacccccccccccccccccccaa
+aaacccccccccccccccccccaaa
+aaaccccccccccccccccccaaaa
+aaccccccccccccccccccaaaaa
+aaccccccccccccccccaaaaaaa
+aaacccccccccaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+"}
